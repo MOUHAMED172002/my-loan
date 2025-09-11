@@ -10,7 +10,7 @@ const Badges = () => {
         { id: 4, icon: <MdOutlineFlashOn />, text: 'Instantané', color: 'bg-slate-100' },
     ];
   return (
-    <div className="flex space-x-2 justify-center my-8 absolute  top-full left-1/2 transform -translate-x-1/2 w-full">
+    <div className="flex space-x-2 justify-center my-8 absolute  top-full left-1/2 transform -translate-x-1/2 w-full sm:hidden">
       {badges.map(badge => (
         <div key={badge.id} className={`flex items-center px-3 py-1 rounded-full text-2xl text-black ${badge.color}`}>
           {badge.icon}
