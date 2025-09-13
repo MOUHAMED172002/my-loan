@@ -1,4 +1,7 @@
 import React from 'react'
+import { MdOutlineLock, MdOutlineFingerprint, MdOutlineAccessTime, MdOutlineFlashOn } from 'react-icons/md';
+import {HiUserGroup} from "react-icons/hi"
+
 
 const Logue = () => {
 
@@ -51,8 +54,18 @@ const Logue = () => {
         }
     ] 
   return (
-    <div>
-      
+    <div className='bg-gray-200'>
+        <div>
+            {
+                LogueData.map((logue)=>{
+                    <div key={logue.id}>
+                        {logue.icon}
+                        <div className={ ` ${logue.bgColor}`} >{logue.titre}</div>
+                        <p>{logue.texte}</p>
+                    </div>
+                })
+            }
+        </div>
     </div>
   )
 }
