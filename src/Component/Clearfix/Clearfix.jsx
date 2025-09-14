@@ -49,7 +49,7 @@ const Clearfix = () => {
       {/* Carrousel mobile/tablette */}
       <div className="block md:hidden w-full max-w-md mx-auto py-2">
         <div className="relative flex flex-col items-center bg-gradient-to-b from-teal-200 to-white rounded-xl shadow-lg p-8 cursor-pointer transition hover:shadow-2xl overflow-hidden min-h-[320px]">
-          <img src={cards[current].img} alt={cards[current].title} className="w-full h-full object-cover  inset-0" />
+          <img src={cards[current].img} alt={cards[current].title} className="w-full h-full object-contain  inset-0" />
           <div className="relative z-10 flex flex-col items-center rounded-xl p-6 mt-5 w-full">
             <MiniTitle title={cards[current].title} paragraphe={cards[current].paragraphe} />
           </div>
@@ -58,8 +58,8 @@ const Clearfix = () => {
       {/* Grille 3 colonnes sur desktop */}
       <div className="hidden md:grid grid-cols-1 md:grid-cols-3 gap-8 max-w-6xl mx-auto py-2">
         {cards.map((card, idx) => (
-          <div key={idx} className="relative flex flex-col items-center bg-gradient-to-b from-teal-200 to-white rounded-xl shadow-lg p-8 cursor-pointer transition hover:shadow-2xl overflow-hidden min-h-[320px]">
-            <img src={card.img} alt={card.title} className="w-full h-full object-cover  inset-0" />
+          <div key={idx} className="relative flex flex-col items-center bg-gradient-to-b from-teal-200 to-white rounded-xl shadow-lg p-8 cursor-pointer transition hover:shadow-2xl overflow-hidden min-h-[200px]">
+            <img src={card.img} alt={card.title} className="w-full h-full object-contain  inset-0" />
             <div className="relative z-10 flex flex-col items-center rounded-xl p-6 mt-5 w-full">
               <MiniTitle title={card.title} paragraphe={card.paragraphe} />
             </div>

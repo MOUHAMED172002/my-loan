@@ -5,6 +5,7 @@ import Badges from './Component/Badges/Badges'
 import Catégories from './Component/Catégories/Catégories'
 import Clearfix from './Component/Clearfix/Clearfix'
 import Logue from './Component/Logue/Logue'
+import Témoignage from './Component/Témoignage/Témoignage'
 
 
 const App = () => {
@@ -16,6 +17,7 @@ const App = () => {
         <Catégories/>
         <Clearfix/>
         <Logue/>
+        <Témoignage/>
     </div>
   )
 }
