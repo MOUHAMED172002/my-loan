@@ -1,0 +1,265 @@
+{
+    "footer": {
+    "company": {
+      "name": "MyLoan",
+      "slogan": "Ihr Partner für schnelle, einfache und sichere Kredite.",
+      "about": [
+        "Unabhängiges französisches Unternehmen",
+        "+300 Bankpartner",
+        "Personalisierte Unterstützung",
+        "100% digital und sicher",
+        "Reaktionsschneller Kundendienst"
+      ]
+    },
+    "navbar": {
+      "title": "Unsere Angebote",
+      "links": {
+        "creditExpress": "Expresskredit",
+        "personalLoan": "Privatkredit",
+        "projects": "Ihre Projekte",
+        "creditBuyback": "Kreditrückkauf",
+        "carLoan": "Autokredit"
+      }
+    },
+    "language": "Sprache",
+    "newsletter": {
+      "title": "Erhalten Sie unsere Neuigkeiten",
+      "placeholder": "Ihre E-Mail",
+      "button": "Abonnieren",
+      "success": "Vielen Dank für Ihre Anmeldung!"
+    },
+    "cta": "Ich beantrage einen Kredit",
+    "copyright": "Alle Rechte vorbehalten"
+  },
+    "badges": {
+        "security": "Sicherheit",
+        "digital": "100% digital",
+        "transfer72h": "Überweisung in 72h*",
+        "instant": "Sofort"
+  },
+  "cards": {
+    "express": {
+      "title": "Expresskredit",
+      "content": "Der Expresskredit bietet große Flexibilität für all Ihre dringenden Geldbedürfnisse: Ausgaben, Reparaturen oder unerwartete Rechnungen. Wenn Sie einen schnellen Kredit ohne Ablehnung suchen, wählen Sie die Einfachheit, indem Sie sofortigen Zugang zu Geldmitteln erhalten – ohne den Aufwand traditioneller Verfahren."
+    },
+    "auto": {
+      "title": "Autokredit",
+      "content": "Niedrigere Zinssätze als beim Privatkredit machen den Autokredit oft vorteilhafter, um den Kauf eines neuen Autos zu finanzieren. Entdecken Sie die besten Schnellkreditangebote im Youdge-Simulator und fahren Sie Ihrem Projekt entgegen, ohne durch Budgetmangel gebremst zu werden."
+    },
+    "personal": {
+      "title": "Privatkredite",
+      "content": "Brauchen Sie Geld für ein großes Projekt? Der Privatkredit ist da, um Ihre spezifischen Bedürfnisse zu erfüllen. Youdge erklärt Ihnen, wie er funktioniert, wie Sie Zugang erhalten und welche personalisierten Bedingungen gelten. Vergleichen Sie Angebote mit unserem Simulator und wählen Sie die Ruhe dieses schnellen und maßgeschneiderten Kredits!"
+    },
+    "works": {
+      "title": "Renovierungskredit",
+      "content": "Speziell entwickelt, um Ihnen bei der Umsetzung Ihrer Renovierungs- und Modernisierungsprojekte zu helfen, ist der Renovierungskredit der ideale Weg, Ihr Budget effektiv zu verwalten. Erfahren Sie, wie Sie sofort Mittel für Ihre Arbeiten erhalten können – dank der Schnellkreditangebote unseres Simulators."
+    },
+    "revolving": {
+      "title": "Rahmenkredit",
+      "content": "Wenn Sie jederzeit über eine dauerhafte Geldreserve verfügen möchten, ermöglicht Ihnen der Rahmenkredit den Zugriff wann immer Sie wollen. Dieser Schnellkredit bietet Ihnen die Flexibilität, die Sie benötigen, um Ihr Budget in Echtzeit zu verwalten. Finden Sie mit unserem Simulator das passende Angebot."
+    },
+    "consolidation": {
+      "title": "Kreditumschuldung",
+      "content": "Die Kreditumschuldung ist Ihre Chance, die Kontrolle über Ihre Finanzen zurückzugewinnen. Sie bietet eine Vielzahl von Lösungen, um Ihre Schulden effektiv zu konsolidieren und die Verwaltung Ihres Budgets zu vereinfachen. Youdge zeigt Ihnen, wie Sie sie nutzen können, um Ihre Sparchancen zu erhöhen."
+    },
+    "button": "Mehr erfahren"
+  },
+   "categories": {
+    "title1": "Der",
+    "colorTitle": "Schnellkredit",
+    "title2": "im Mittelpunkt unseres Geschäfts",
+    "paragraph": "Unsere Aufgabe ist es, Ihren Kreditantrag zu vereinfachen, indem Sie direkt online die besten Angebote auf dem Markt beantragen können. Als Experte für Schnellkredite ist Youdge hier, um Ihnen den Prozess zu erleichtern: weniger Schritte und Vermittler bis hin zur Auszahlung Ihres Kredits in nur wenigen Klicks! Vollständig digital und 100 % sicher garantieren wir einen Kredit, der auf Ihre Bedürfnisse zugeschnitten ist, unabhängig von der Dringlichkeit Ihres Projekts."
+  },
+  "clearfix": {
+    "title": {
+      "part1": "Der",
+      "highlight": "Reflex",
+      "part2": "der Ihren Kredit erleichtert",
+      "paragraph": "Unsere proprietäre Technologie analysiert in Echtzeit die Berechtigung Ihrer Kreditanfrage anhand der Kriterien unserer 300+ Partner, Kreditgeber und Online-Kreditorganisationen. Weniger Schritte, Formulare und Vermittler: Youdge zentralisiert alle Ihre Vorgänge in wenigen Klicks! Entdecken Sie die verschiedenen Arten von Schnellkrediten und finden Sie den, der zu Ihnen passt."
+    },
+    "cards": [
+      {
+        "title": "Einfach auswählen",
+        "paragraph": "den Kredit Ihrer Wahl über unseren Simulator"
+      },
+      {
+        "title": "Schnell ausfüllen",
+        "paragraph": "unser Formular in 4 Minuten direkt online"
+      },
+      {
+        "title": "Sofort erhalten",
+        "paragraph": "am Ende Ihres Formulars"
+      }
+    ]
+  },
+   "compteur": {
+    "title": {
+      "colorTitle": "Myloan,",
+      "title2": "ist auch:",
+      "paragraph": "Entdecken Sie unseren Vergleich anhand verschiedener Kennzahlen"
+    },
+    "items": [
+      { "number": 500, "description": "Partner (Makler und Kreditinstitute)" },
+      { "number": 6000, "description": "Finanzierungsanfragen pro Tag" },
+      { "number": 400000, "description": "vergebene Kredite" },
+      { "number": 500621, "description": "durchgeführte Kreditrückkäufe*" },
+      { "number": 600000, "description": "abgeschlossene persönliche Kreditprojekte*" },
+      { "number": 43987, "description": "abgeschlossene Autokreditprojekte*" }
+    ]
+  },
+   "card1ext": {
+    "button": "Jetzt beantragen"
+  },
+  "contacts": {
+    "title": "Kontaktieren Sie Uns",
+    "messaging": "Nachrichten",
+    "questions": "Fragen",
+    "appointment": "Termin Vereinbaren"
+  },
+  "infos": {
+    "title": "Finanzierungsbeispiele",
+    "card1": {
+      "title": "Leihen Sie €1000, zahlen Sie €36/Monat über 36 Monate zurück",
+      "description": "Beispiel für eine Finanzierung von €1000 (ohne optionale Versicherung) über 36 Monate mit festem effektiven Jahreszins von 20,89 %: 36 Raten zu je €36,71 über 36 Monate. Vom Kreditnehmer insgesamt zu zahlender Betrag: €1321,56 - davon €321,56 Zinsen - ohne optionale Versicherung. Die Kosten der optionalen Versicherung für den Kreditnehmer betragen €6,90 pro Monat und sind zur Monatsrate für Todesfall-, Invaliditäts- und Arbeitsunfähigkeitsabsicherung hinzuzufügen."
+    },
+    "card2": {
+      "title": "Leihen Sie €3000, zahlen Sie €80/Monat über 60 Monate zurück",
+      "description": "Beispiel für eine Finanzierung von €3000 (ohne optionale Versicherung) über 60 Monate mit festem effektiven Jahreszins von 22,91 %: 60 Raten zu je €80,83 über 60 Monate. Vom Kreditnehmer insgesamt zu zahlender Betrag: €4849,80 - davon €1849,80 Zinsen - ohne optionale Versicherung. Die Kosten der optionalen Versicherung für den Kreditnehmer betragen €20,70 pro Monat und sind zur Monatsrate für Todesfall-, Invaliditäts- und Arbeitsunfähigkeitsabsicherung hinzuzufügen."
+    },
+    "card3": {
+      "title": "Leihen Sie €5000, zahlen Sie €104/Monat über 72 Monate zurück",
+      "description": "Beispiel für eine Finanzierung von €5000 (ohne optionale Versicherung) über 72 Monate mit festem effektiven Jahreszins von 15,67 %: 72 Raten zu je €104,76 über 72 Monate. Vom Kreditnehmer insgesamt zu zahlender Betrag: €7542,72 - davon €2542,72 Zinsen - ohne optionale Versicherung. Die Kosten der optionalen Versicherung für den Kreditnehmer betragen €12,60 pro Monat und sind zur Monatsrate für Todesfall-, Invaliditäts- und Arbeitsunfähigkeitsabsicherung hinzuzufügen."
+    },
+    "card4": {
+      "title": "Leihen Sie €10000, zahlen Sie €208/Monat über 72 Monate zurück",
+      "description": "Beispiel für eine Finanzierung von €10000 (ohne optionale Versicherung) über 72 Monate mit festem effektiven Jahreszins von 15,67 %: 72 Raten zu je €208,76 über 72 Monate. Vom Kreditnehmer insgesamt zu zahlender Betrag: €15085,44 - davon €5085,44 Zinsen - ohne optionale Versicherung. Die Kosten der optionalen Versicherung für den Kreditnehmer betragen €25,20 pro Monat und sind zur Monatsrate für Todesfall-, Invaliditäts- und Arbeitsunfähigkeitsabsicherung hinzuzufügen."
+    }
+  },
+  "simulateur": {
+    "title": "Simulator",
+    "cards": {
+      "card1": "Sicher",
+      "card2": "100% digital",
+      "card3": "Überweisung 72h*",
+      "card4": "Sofortige Antwort"
+    }
+  },
+  "hero": {
+    "title": "MyLoan vereinfacht Ihre Online-Kreditanfrage",
+    "description": "Greifen Sie über unseren Kreditrechner auf die besten Angebote zu, die auf Ihre Situation zugeschnitten sind. Wählen Sie Ihren Kredit, erhalten Sie eine sofortige Vorabgenehmigung und schließen Sie in Echtzeit ab.",
+    "button": "Ich beantrage einen Kredit"
+  },
+  "heroForm": {
+    "name": "Name",
+    "namePlaceholder": "Brice Sam",
+    "amount": "Darlehensbetrag",
+    "amountPlaceholder": "Darlehensbetrag",
+    "type": "Dauer",
+    "creditExpress": "Expresskredit",
+    "creditAuto": "Autokredit",
+    "creditInstant": "Sofortkredit",
+    "creditNoDocs": "Kredit Ohne Dokumente",
+    "submit": "Angebote anzeigen"
+  },
+  "logue": {
+    "secure": {
+      "title": "Sicher",
+      "text": "Datenschutz garantiert"
+    },
+    "digital": {
+      "title": "100% digital",
+      "text": "Stellen Sie Ihre Kreditanfrage vollständig online."
+    },
+    "fastTransfer": {
+      "title": "Überweisung 72h*",
+      "text": "Ultra schnelle Freigabe der Mittel.",
+      "note": "*Nach gesetzlicher Widerrufsfrist und endgültiger Genehmigung"
+    },
+    "instantReply": {
+      "title": "Sofortige Antwort",
+      "text": "Sofortige Vorabgenehmigung"
+    },
+    "loansGranted": {
+      "title": "Kredite Gewährt",
+      "text": "200.000 Nutzer haben bereits ihren Kredit mit dem Myloan-Simulator erhalten"
+    },
+    "realtimeSubscription": {
+      "title": "Echtzeit-Abschluss",
+      "text": "Direkt unterschreiben"
+    },
+    "button": "Ich nutze es!"
+  },
+  "acheterMaison": {
+    "card": {
+      "title": "Ein Haus kaufen:",
+      "subtitle": "verwirklichen Sie Ihren Immobilientraum mit einem passenden Kredit",
+      "description": "Der Kauf eines Hauses ist ein wichtiger Schritt im Leben, oft gleichbedeutend mit Stabilität und einer langfristigen Investition. Um dieses Projekt zu realisieren, ist es entscheidend, die verschiedenen verfügbaren Finanzierungsmöglichkeiten zu verstehen. Ein Immobilienkredit, der auf Ihre finanzielle Situation zugeschnitten ist, kann den Unterschied ausmachen. Erfahren Sie, wie Sie den richtigen Kredit wählen, welche Kriterien zu berücksichtigen sind und welche Schlüsselphasen für einen erfolgreichen Hauskauf wichtig sind."
+    },
+    "sections": {
+      "text1": {
+        "title": "Was ist ein ",
+        "highlight": "Immobilienkredit?",
+        "paragraph": "Ein Immobilienkredit ist eine Finanzierung, die für den Kauf einer Immobilie bestimmt ist. Er ermöglicht es, eine große Geldsumme über einen langen Zeitraum, in der Regel 15 bis 25 Jahre, zu leihen. Diese Art von Kredit ist speziell dafür konzipiert, Käufern zu helfen, ihr Immobilienprojekt zu verwirklichen, indem die Rückzahlung über mehrere Jahre verteilt wird."
+      },
+      "text2": {
+        "title": "Warum einen ",
+        "highlight": "Immobilienkredit aufnehmen?",
+        "paragraph": "Ein Immobilienkredit bietet mehrere Vorteile. Erstens ermöglicht er die Finanzierung des Hauskaufs, ohne den Großteil der Ersparnisse verwenden zu müssen. Darüber hinaus sind die Zinssätze von Immobilienkrediten oft günstiger als bei anderen Kreditarten, wodurch die Gesamtkosten der Finanzierung erschwinglicher werden. Schließlich bietet ein Immobilienkredit steuerliche Vorteile, insbesondere in Bezug auf die Zinsen."
+      },
+      "text3": {
+        "title": "Wie wählt man den richtigen ",
+        "highlight": "Immobilienkredit?",
+        "paragraph": "Die Wahl des Immobilienkredits hängt von mehreren Kriterien ab. Es ist wichtig, den geliehenen Betrag, die Laufzeit des Kredits, den Zinssatz (fest oder variabel) sowie zusätzliche Kosten wie Bearbeitungsgebühren und die Kreditversicherung zu berücksichtigen. Es wird außerdem empfohlen, Angebote verschiedener Banken und Finanzinstitute zu vergleichen, um dasjenige zu finden, das am besten zu Ihrem Profil und Projekt passt."
+      },
+      "text4": {
+        "title": "Die wichtigsten Schritte zum ",
+        "highlight": "Hauskauf",
+        "paragraph": "Der Kauf eines Hauses mit einem Immobilienkredit erfolgt in mehreren Schritten. Zunächst sollte man sein Budget festlegen und die Immobilie suchen, die den eigenen Bedürfnissen entspricht. Danach muss ein solides Dossier für den Kreditantrag erstellt werden, mit allen erforderlichen Nachweisen. Nach der Kreditbewilligung ist es notwendig, das Kreditangebot zu unterzeichnen und anschließend den Kaufvertrag beim Notar zu unterzeichnen. Schließlich ist es wichtig, die Rückzahlung des Kredits während der gesamten Laufzeit gut zu verwalten."
+      }
+    }
+  },
+  "besoinFinancement": {
+    "card": {
+      "title": "Finanzierungsbedarf:",
+      "h2": "verwirklichen Sie Ihre Projekte",
+      "description": "Dieser Abschnitt ist Ihren Finanzierungsbedürfnissen gewidmet. Ob Sie Renovierungen durchführen, ein Fahrzeug kaufen oder ein persönliches Projekt finanzieren möchten, wir sind hier, um Sie durch den Prozess zu führen. Teilen Sie uns gerne Ihre Bedürfnisse und Erwartungen mit."
+    },
+    "texte1": {
+      "title1": "Was ist ein ",
+      "colorTitle": "Privatkredit?",
+      "paragraph": "Ein Privatkredit ist eine Finanzierung für persönliche Projekte, wie Renovierungen, Fahrzeugkäufe oder unerwartete Ausgaben. Im Gegensatz zu einem Hypothekendarlehen ist keine Sicherheit erforderlich und er kann schnell erhalten werden."
+    },
+    "texte2": {
+      "title1": "Warum einen ",
+      "colorTitle": "Privatkredit wählen?",
+      "paragraph": "Der Privatkredit bietet große Flexibilität, mit Beträgen und Rückzahlungsfristen, die auf Ihre Bedürfnisse zugeschnitten sind. Außerdem sind die Zinssätze oft wettbewerbsfähig, was ihn zu einer attraktiven Option für die Finanzierung Ihrer Projekte macht."
+    },
+    "texte3": {
+      "title1": "Wie erhält man einen ",
+      "colorTitle": "Privatkredit?",
+      "paragraph": "Um einen Privatkredit zu erhalten, kontaktieren Sie uns einfach, um Ihr Projekt zu besprechen. Wir führen Sie durch den Antragsprozess, helfen Ihnen, die erforderlichen Dokumente zu sammeln, und erklären Ihnen die Kreditbedingungen."
+    }
+  },
+  "creditAuto": {
+    "card": {
+      "title": "Autokredit:",
+      "h2": "finanzieren Sie Ihr Fahrzeug sorgenfrei",
+      "description": "Der Autokredit ist eine Finanzierungslösung, die speziell für den Kauf eines Fahrzeugs entwickelt wurde. Egal, ob es sich um ein neues oder gebrauchtes Auto handelt, dieser Kredit ermöglicht es Ihnen, Ihr Automobilprojekt sicher zu finanzieren, mit vorteilhaften Bedingungen und individueller Betreuung."
+    },
+    "texte1": {
+      "title1": "Was ist ein ",
+      "colorTitle": "Autokredit?",
+      "paragraph": "Ein Autokredit ist ein Darlehen, das zum Kauf eines Fahrzeugs, neu oder gebraucht, bestimmt ist. Es ermöglicht den Kreditnehmern, die Kosten ihres Kaufs über einen bestimmten Zeitraum zu verteilen, was die Budgetverwaltung erleichtert."
+    },
+    "texte2": {
+      "title1": "Warum einen ",
+      "colorTitle": "Autokredit wählen?",
+      "paragraph": "Ein Autokredit bietet mehrere Vorteile, darunter wettbewerbsfähige Zinssätze und flexible Rückzahlungsbedingungen. Außerdem können Sie Ihre Ersparnisse behalten, während Sie Ihr Automobilprojekt verwirklichen."
+    },
+    "texte3": {
+      "title1": "Wie erhält man einen ",
+      "colorTitle": "Autokredit?",
+      "paragraph": "Um einen Autokredit zu erhalten, kontaktieren Sie uns einfach, um Ihr Projekt zu besprechen. Wir führen Sie durch den gesamten Antragsprozess, helfen Ihnen bei der Zusammenstellung der erforderlichen Dokumente und erklären Ihnen die Kreditbedingungen."
+    }
+  }
+}

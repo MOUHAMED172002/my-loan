@@ -1,24 +1,29 @@
-import React from 'react'
-import { MdOutlineLock, MdOutlineFingerprint, MdOutlineAccessTime, MdOutlineFlashOn } from 'react-icons/md';
+import { MdOutlineLock, MdOutlineFingerprint, MdOutlineAccessTime, MdOutlineFlashOn } from "react-icons/md";
+import { useTranslation } from "react-i18next";
 
 const Badges = () => {
+  const { t } = useTranslation();
 
-    const badges = [
-        { id: 1, icon: <MdOutlineLock />, text: 'Sécurité', color: 'bg-rose-200' },
-        { id: 2, icon: <MdOutlineFingerprint />, text: '100% digital', color: 'bg-teal-200' },
-        { id: 3, icon: <MdOutlineAccessTime />, text: 'Virement 72h*', color: 'bg-amber-200' },
-        { id: 4, icon: <MdOutlineFlashOn />, text: 'Instantané', color: 'bg-slate-100' },
-    ];
+  const badges = [
+    { id: 1, icon: <MdOutlineLock />, text: t("badges.security"), color: "bg-rose-200" },
+    { id: 2, icon: <MdOutlineFingerprint />, text: t("badges.digital"), color: "bg-teal-200" },
+    { id: 3, icon: <MdOutlineAccessTime />, text: t("badges.transfer"), color: "bg-amber-200" },
+    { id: 4, icon: <MdOutlineFlashOn />, text: t("badges.instant"), color: "bg-slate-100" }
+  ];
+
   return (
-    <div className="flex space-x-2 justify-center my-8 absolute  top-full left-1/2 transform -translate-x-1/2 w-full sm:hidden">
-      {badges.map(badge => (
-        <div key={badge.id} className={`flex items-center px-3 py-1 rounded-full text-2xl text-black ${badge.color}`}>
+    <div className="flex space-x-2 justify-center my-8 absolute top-full left-1/2 transform -translate-x-1/2 w-full sm:hidden">
+      {badges.map((badge) => (
+        <div
+          key={badge.id}
+          className={`flex items-center px-3 py-1 rounded-full text-2xl text-black ${badge.color}`}
+        >
           {badge.icon}
           <span className="ml-2">{badge.text}</span>
         </div>
       ))}
     </div>
-  )
-}
+  );
+};
 
-export default Badges
+export default Badges;

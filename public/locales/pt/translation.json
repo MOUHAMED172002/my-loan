@@ -1,0 +1,266 @@
+{
+    "footer": {
+    "company": {
+      "name": "MyLoan",
+      "slogan": "Seu parceiro para crédito rápido, simples e seguro.",
+      "about": [
+        "Empresa francesa independente",
+        "+300 parceiros bancários",
+        "Apoio personalizado",
+        "100% digital e seguro",
+        "Suporte ao cliente eficiente"
+      ]
+    },
+    "navbar": {
+      "title": "Nossas ofertas",
+      "links": {
+        "creditExpress": "Crédito Expresso",
+        "personalLoan": "Empréstimo Pessoal",
+        "projects": "Seus projetos",
+        "creditBuyback": "Compra de Crédito",
+        "carLoan": "Crédito Automóvel"
+      }
+    },
+    "language": "Idioma",
+    "newsletter": {
+      "title": "Receba nossas novidades",
+      "placeholder": "Seu email",
+      "button": "Inscrever-se",
+      "success": "Obrigado pela inscrição!"
+    },
+    "cta": "Solicito um crédito",
+    "copyright": "Todos os direitos reservados"
+  },
+    "badges": {
+        "security": "Segurança",
+        "digital": "100% digital",
+        "transfer72h": "Transferência em até 72h*",
+        "instant": "Instantâneo"
+  },
+  "cards": {
+    "express": {
+      "title": "Crédito expresso",
+      "content": "O crédito expresso oferece grande flexibilidade para todas as suas necessidades urgentes de dinheiro: despesas, reparações ou contas inesperadas. Se procura um crédito rápido e sem recusas, escolha a simplicidade ao aceder a fundos instantâneos sem a burocracia dos procedimentos tradicionais."
+    },
+    "auto": {
+      "title": "Crédito automóvel",
+      "content": "Taxas de juro mais baixas do que o empréstimo pessoal tornam o crédito automóvel muitas vezes mais vantajoso para financiar a compra de um carro novo. Descubra as melhores ofertas de crédito rápido no simulador Youdge e avance para o seu projeto sem ser travado pela falta de orçamento."
+    },
+    "personal": {
+      "title": "Empréstimos pessoais",
+      "content": "Precisa de dinheiro para um grande projeto? O empréstimo pessoal está aqui para responder às suas necessidades específicas. A Youdge explica como funciona, como aceder, os critérios e as condições personalizadas. Compare as ofertas através do nosso simulador e escolha a tranquilidade deste crédito rápido e sob medida!"
+    },
+    "works": {
+      "title": "Crédito para obras",
+      "content": "Especialmente concebido para ajudá-lo a concretizar os seus projetos de renovação e remodelação, o crédito para obras é a forma ideal de gerir o seu orçamento de forma eficaz. Descubra como obter fundos imediatamente graças às ofertas de crédito rápido do nosso simulador."
+    },
+    "revolving": {
+      "title": "Crédito renovável",
+      "content": "Se precisar de uma reserva de dinheiro disponível permanentemente, o crédito renovável permite-lhe aceder a qualquer momento. Este crédito rápido oferece a flexibilidade necessária para gerir o seu orçamento em tempo real. Descubra a oferta que melhor se adapta a si com o nosso simulador."
+    },
+    "consolidation": {
+      "title": "Consolidação de crédito",
+      "content": "A consolidação de crédito é a sua oportunidade de recuperar o controlo das suas finanças. Oferece uma vasta gama de soluções para consolidar as suas dívidas de forma eficaz e simplificar a gestão do seu orçamento. A Youdge mostra-lhe como utilizá-la para aumentar as suas hipóteses de poupar."
+    },
+    "button": "Saber mais"
+  },
+  "categories": {
+    "title1": "O",
+    "colorTitle": "crédito rápido",
+    "title2": "no centro do nosso trabalho",
+    "paragraph": "A nossa missão é simplificar o seu pedido de crédito, permitindo-lhe subscrever diretamente online às melhores ofertas do mercado. Especialista em crédito rápido, a Youdge está aqui para facilitar o seu processo: menos etapas e intermediários, até à obtenção do seu empréstimo em apenas alguns cliques! Totalmente digital e 100% seguro, garantimos crédito adaptado às suas necessidades, independentemente da urgência do seu projeto."
+  },
+  "clearfix": {
+    "title": {
+      "part1": "O",
+      "highlight": "reflexo",
+      "part2": "que facilita seu crédito",
+      "paragraph": "Nossa tecnologia proprietária analisa em tempo real a elegibilidade do seu pedido de crédito de acordo com os critérios dos nossos 300+ parceiros, credores e organizações de crédito online. Menos etapas, formulários e intermediários: Youdge centraliza todos os seus processos em poucos cliques! Descubra os diferentes tipos de créditos rápidos e encontre aquele que combina com você."
+    },
+    "cards": [
+      {
+        "title": "Selecione facilmente",
+        "paragraph": "o crédito de sua escolha através do nosso simulador"
+      },
+      {
+        "title": "Preencha rapidamente",
+        "paragraph": "nosso formulário em 4 minutos diretamente online"
+      },
+      {
+        "title": "Receba instantaneamente",
+        "paragraph": "ao final do seu formulário"
+      }
+    ]
+  },
+  "compteur": {
+    "title": {
+      "colorTitle": "Myloan,",
+      "title2": "é também:",
+      "paragraph": "Descubra nosso comparador através de diferentes números-chave"
+    },
+    "items": [
+      { "number": 500, "description": "parceiros (corretores e instituições de crédito)" },
+      { "number": 6000, "description": "solicitações de financiamento por dia" },
+      { "number": 400000, "description": "créditos concedidos" },
+      { "number": 500621, "description": "recompras de empréstimos realizadas*" },
+      { "number": 600000, "description": "projetos de empréstimo pessoal realizados*" },
+      { "number": 43987, "description": "projetos de crédito automóvel realizados*" }
+    ]
+  },
+  "card1ext": {
+    "button": "Faço minha solicitação"
+  },
+  "contacts": {
+    "title": "Contate-Nos",
+    "messaging": "Mensagens",
+    "questions": "Perguntas",
+    "appointment": "Marcar uma Consulta"
+  },
+   "infos": {
+    "title": "Exemplos de Financiamento",
+    "card1": {
+      "title": "Empréstimo de €1000, reembolso €36/mês por 36 meses",
+      "description": "Exemplo para um financiamento de €1000 (excluindo seguro opcional) por 36 meses a uma TAEG fixa de 20,89%: 36 pagamentos mensais de €36,71 por 36 meses. Montante total devido pelo mutuário: €1321,56 - incluindo €321,56 de juros - seguro opcional excluído. O custo do seguro opcional para o mutuário é €6,90 por mês, a ser adicionado à mensalidade para coberturas de morte, invalidez e incapacidade."
+    },
+    "card2": {
+      "title": "Empréstimo de €3000, reembolso €80/mês por 60 meses",
+      "description": "Exemplo para um financiamento de €3000 (excluindo seguro opcional) por 60 meses a uma TAEG fixa de 22,91%: 60 pagamentos mensais de €80,83 por 60 meses. Montante total devido pelo mutuário: €4849,80 - incluindo €1849,80 de juros - seguro opcional excluído. O custo do seguro opcional para o mutuário é €20,70 por mês, a ser adicionado à mensalidade para coberturas de morte, invalidez e incapacidade."
+    },
+    "card3": {
+      "title": "Empréstimo de €5000, reembolso €104/mês por 72 meses",
+      "description": "Exemplo para um financiamento de €5000 (excluindo seguro opcional) por 72 meses a uma TAEG fixa de 15,67%: 72 pagamentos mensais de €104,76 por 72 meses. Montante total devido pelo mutuário: €7542,72 - incluindo €2542,72 de juros - seguro opcional excluído. O custo do seguro opcional para o mutuário é €12,60 por mês, a ser adicionado à mensalidade para coberturas de morte, invalidez e incapacidade."
+    },
+    "card4": {
+      "title": "Empréstimo de €10.000, reembolso €208/mês por 72 meses",
+      "description": "Exemplo para um financiamento de €10.000 (excluindo seguro opcional) por 72 meses a uma TAEG fixa de 15,67%: 72 pagamentos mensais de €208,76 por 72 meses. Montante total devido pelo mutuário: €15.085,44 - incluindo €5085,44 de juros - seguro opcional excluído. O custo do seguro opcional para o mutuário é €25,20 por mês, a ser adicionado à mensalidade para coberturas de morte, invalidez e incapacidade."
+    }
+  },
+  "simulateur": {
+    "title": "Simulador",
+    "cards": {
+      "card1": "Seguro",
+      "card2": "100% digital",
+      "card3": "Transferência 72h*",
+      "card4": "Resposta Instantânea"
+    }
+  },
+  "hero": {
+    "title": "MyLoan Simplifica sua solicitação de empréstimo online",
+    "description": "Acesse as melhores ofertas adequadas à sua situação através do nosso simulador de crédito. Selecione seu empréstimo, receba uma pré-aprovação imediata e assine em tempo real.",
+    "button": "Solicito um empréstimo"
+  },
+  "heroForm": {
+    "name": "Nome",
+    "namePlaceholder": "Brice Sam",
+    "amount": "Valor do Empréstimo",
+    "amountPlaceholder": "Valor do Empréstimo",
+    "type": "Duração",
+    "creditExpress": "Empréstimo Expresso",
+    "creditAuto": "Empréstimo Auto",
+    "creditInstant": "Empréstimo Instantâneo",
+    "creditNoDocs": "Empréstimo Sem Documentos",
+    "submit": "Ver Ofertas"
+  },
+  "logue": {
+    "secure": {
+      "title": "Seguro",
+      "text": "Proteção de dados garantida"
+    },
+    "digital": {
+      "title": "100% digital",
+      "text": "Faça sua solicitação de empréstimo totalmente online."
+    },
+    "fastTransfer": {
+      "title": "Transferência 72h*",
+      "text": "Liberação de fundos ultra rápida.",
+      "note": "*Após o período legal de cancelamento e aprovação final"
+    },
+    "instantReply": {
+      "title": "Resposta Instantânea",
+      "text": "Pré-aprovação imediata"
+    },
+    "loansGranted": {
+      "title": "Empréstimos Concedidos",
+      "text": "200.000 usuários já receberam seu empréstimo com o simulador Myloan"
+    },
+    "realtimeSubscription": {
+      "title": "Assinatura em tempo real",
+      "text": "Assine ao vivo"
+    },
+    "button": "Eu aproveito!"
+  },
+  "acheterMaison": {
+    "card": {
+      "title": "Comprar uma casa:",
+      "subtitle": "realize o seu sonho imobiliário com um empréstimo adequado",
+      "description": "Comprar uma casa é uma etapa importante na vida, muitas vezes sinónimo de estabilidade e de um investimento a longo prazo. Para concretizar este projeto, é essencial compreender as diferentes opções de financiamento disponíveis. Um empréstimo habitacional adaptado à sua situação financeira pode fazer toda a diferença. Descubra como escolher o empréstimo certo, os critérios a considerar e as etapas-chave para comprar a sua casa com total tranquilidade."
+    },
+    "sections": {
+      "text1": {
+        "title": "O que é um ",
+        "highlight": "empréstimo habitacional?",
+        "paragraph": "O empréstimo habitacional é um financiamento destinado à compra de um imóvel. Permite pedir emprestada uma quantia significativa de dinheiro por um longo período, geralmente de 15 a 25 anos. Este tipo de empréstimo é especificamente concebido para ajudar os compradores a concretizarem o seu projeto imobiliário, distribuindo o reembolso ao longo de vários anos."
+      },
+      "text2": {
+        "title": "Por que contratar um ",
+        "highlight": "empréstimo habitacional?",
+        "paragraph": "Contratar um empréstimo habitacional apresenta várias vantagens. Em primeiro lugar, permite financiar a compra de uma casa sem ter de utilizar a maior parte das suas poupanças. Além disso, as taxas de juro dos empréstimos habitacionais são frequentemente mais favoráveis do que as de outros tipos de crédito, tornando o custo total do financiamento mais acessível. Por fim, o empréstimo habitacional pode oferecer benefícios fiscais, nomeadamente no que diz respeito aos juros do empréstimo."
+      },
+      "text3": {
+        "title": "Como escolher o ",
+        "highlight": "empréstimo habitacional certo?",
+        "paragraph": "A escolha do empréstimo habitacional depende de vários critérios. É importante considerar o montante emprestado, o prazo do empréstimo, a taxa de juro (fixa ou variável), bem como os custos adicionais como as comissões e o seguro do mutuário. Também é aconselhável comparar as ofertas de diferentes bancos e instituições financeiras para encontrar a que melhor se adapta ao seu perfil e projeto."
+      },
+      "text4": {
+        "title": "As etapas-chave para ",
+        "highlight": "comprar uma casa",
+        "paragraph": "A compra de uma casa com um empréstimo habitacional decorre em várias etapas. Primeiro, é essencial definir o seu orçamento e procurar o imóvel que corresponda às suas necessidades. Depois, deve preparar um dossiê sólido para o pedido de empréstimo, fornecendo todos os documentos exigidos. Uma vez aprovado o empréstimo, é necessário assinar a proposta e, em seguida, a escritura de compra e venda no notário. Finalmente, é importante gerir corretamente o reembolso do empréstimo durante toda a sua duração."
+      }
+    }
+  },
+  "besoinFinancement": {
+    "card": {
+      "title": "Necessidade de financiamento:",
+      "h2": "realize os seus projetos",
+      "description": "Esta seção é dedicada às suas necessidades de financiamento. Quer pretenda realizar obras, comprar um veículo ou financiar um projeto pessoal, estamos aqui para o acompanhar em todo o processo. Não hesite em partilhar as suas necessidades e expectativas connosco."
+    },
+    "texte1": {
+      "title1": "O que é um ",
+      "colorTitle": "empréstimo pessoal?",
+      "paragraph": "Um empréstimo pessoal é um financiamento destinado a projetos pessoais, como obras, compra de um veículo ou despesas inesperadas. Ao contrário do empréstimo imobiliário, não requer garantias e pode ser obtido rapidamente."
+    },
+    "texte2": {
+      "title1": "Por que escolher um ",
+      "colorTitle": "empréstimo pessoal?",
+      "paragraph": "O empréstimo pessoal oferece grande flexibilidade, com montantes e prazos de reembolso adaptados às suas necessidades. Além disso, as taxas de juro são frequentemente competitivas, tornando-o uma opção atraente para financiar os seus projetos."
+    },
+    "texte3": {
+      "title1": "Como obter um ",
+      "colorTitle": "empréstimo pessoal?",
+      "paragraph": "Para obter um empréstimo pessoal, basta contactar-nos para discutir o seu projeto. Nós iremos guiá-lo através do processo de pedido, ajudando-o a reunir os documentos necessários e explicando-lhe as condições do empréstimo."
+    }
+  },
+  "creditAuto": {
+    "card": {
+      "title": "Empréstimo Automóvel:",
+      "h2": "financie o seu veículo com tranquilidade",
+      "description": "O empréstimo automóvel é uma solução de financiamento especialmente concebida para a compra de um veículo. Seja um carro novo ou usado, este tipo de empréstimo permite financiar o seu projeto automóvel com confiança, oferecendo condições vantajosas e apoio personalizado."
+    },
+    "texte1": {
+      "title1": "O que é um ",
+      "colorTitle": "empréstimo automóvel?",
+      "paragraph": "O empréstimo automóvel destina-se a financiar a compra de um veículo, novo ou usado. Permite aos mutuários repartir o custo da compra ao longo de um período determinado, facilitando a gestão do orçamento."
+    },
+    "texte2": {
+      "title1": "Por que escolher um ",
+      "colorTitle": "empréstimo automóvel?",
+      "paragraph": "O empréstimo automóvel oferece várias vantagens, incluindo taxas de juro competitivas e condições de reembolso flexíveis. Além disso, permite preservar as suas poupanças enquanto realiza o seu projeto automóvel."
+    },
+    "texte3": {
+      "title1": "Como obter um ",
+      "colorTitle": "empréstimo automóvel?",
+      "paragraph": "Para obter um empréstimo automóvel, basta contactar-nos para discutir o seu projeto. Nós iremos guiá-lo durante todo o processo de candidatura, ajudando-o a reunir os documentos necessários e explicando-lhe as condições do empréstimo."
+    }
+  }
+
+}

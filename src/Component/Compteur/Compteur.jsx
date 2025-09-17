@@ -1,24 +1,21 @@
-import React, { useEffect, useState } from 'react'
-import Title from '../Utilitaires/Title'
+import React, { useEffect, useState } from 'react';
+import Title from '../Utilitaires/Title';
+import { useTranslation } from 'react-i18next';
 
 const Compteur = () => {
-  const CompteurData = [
-    { id: 1, number: 500, description: "partenaires (courtiers et établissements de crédit)" },
-    { id: 2, number: 6000, description: "demandes de financement par jour" },
-    { id: 3, number: 400000, description: "crédits octroyés" },
-    { id: 4, number: 500621, description: "Rachats de prêts réalisés*" },
-    { id: 5, number: 600000, description: "projets de prêt personnel réalisés*" },
-    { id: 6, number: 43987, description: "projets de crédit automobile réalisés*" },
-  ];
+  const { t, i18n } = useTranslation();
 
-  // State pour chaque compteur animé
-  const [counts, setCounts] = useState(CompteurData.map(() => 0));
+  const CompteurData = t("compteur.items", { returnObjects: true });
+  const compteurArray = Array.isArray(CompteurData) ? CompteurData : [];
+
+  const [counts, setCounts] = useState(compteurArray.map(() => 0));
 
   useEffect(() => {
-    const durations = CompteurData.map(() => 1200); // Durée de l'animation en ms
-    const steps = 60; // Nombre d'étapes de l'animation
+    setCounts(compteurArray.map(() => 0));
+    const durations = compteurArray.map(() => 1200);
+    const steps = 60;
 
-    CompteurData.forEach((item, idx) => {
+    compteurArray.forEach((item, idx) => {
       let start = 0;
       const end = item.number;
       const increment = Math.ceil(end / steps);
@@ -37,29 +34,37 @@ const Compteur = () => {
         });
       }, durations[idx] / steps);
     });
-  // eslint-disable-next-line
-  }, []);
 
-  // Fonction pour formater les nombres avec des espaces ou virgules
-  const formatNumber = (num) => num.toLocaleString('fr-FR');
+    // Nettoyage des intervalles si le composant est démonté ou la langue change
+    return () => {
+      // Rien à nettoyer ici car chaque setInterval est clearInterval quand terminé
+    };
+  // eslint-disable-next-line
+} , [compteurArray]);
+
+  const formatNumber = (num) => num.toLocaleString(i18n.language);
 
   return (
     <div>
-      <Title ColorTitle={"Myloan,"} Title2={"c'est aussi : "} paragraph={"Découvrez notre comparateur au travers de différents chiffres clés"} />
+      <Title
+        ColorTitle={t('compteur.title.colorTitle')}
+        Title2={t('compteur.title.title2')}
+        paragraph={t('compteur.title.paragraph')}
+      />
       <div className='max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 py-12 px-4'>
-        {
-          CompteurData.map((compteur, idx) => (
-            <div key={compteur.id} className='bg-gray-200 rounded-xl shadow p-6 flex flex-col items-center justify-center text-center h-full'>
-              <div className='text-5xl font-bold text-teal-600'>
-                {formatNumber(counts[idx])}
-              </div>
-              <div className='text-lg mt-2 text-gray-700'> {compteur.description} </div>
+        {compteurArray.map((compteur, idx) => (
+          <div key={idx} className='bg-gray-200 rounded-xl shadow p-6 flex flex-col items-center justify-center text-center h-full'>
+            <div className='text-5xl font-bold text-teal-600'>
+              {formatNumber(counts[idx])}
             </div>
-          ))
-        }
+            <div className='text-lg mt-2 text-gray-700'>
+              {compteur.description}
+            </div>
+          </div>
+        ))}
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Compteur
+export default Compteur;

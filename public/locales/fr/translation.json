@@ -1,24 +1,266 @@
 {
   "footer": {
-    "logo": "MyLoan",
-    "slogan": "Votre partenaire pour un crédit rapide, simple et sécurisé.",
+    "company": {
+      "name": "MyLoan",
+      "slogan": "Votre partenaire pour un crédit rapide, simple et sécurisé.",
+      "about": [
+        "Entreprise française indépendante",
+        "+300 partenaires bancaires",
+        "Accompagnement personnalisé",
+        "100% digital et sécurisé",
+        "Support client réactif"
+      ]
+    },
+    "navbar": {
+      "title": "Nos offres",
+      "links": {
+        "creditExpress": "Crédit Express",
+        "personalLoan": "Prêt Personnel",
+        "projects": "Vos projets",
+        "creditBuyback": "Rachat Crédit",
+        "carLoan": "Crédit Auto"
+      }
+    },
+    "language": "Langue",
+    "newsletter": {
+      "title": "Recevez nos actus",
+      "placeholder": "Votre email",
+      "button": "S'inscrire",
+      "success": "Merci pour votre inscription !"
+    },
     "cta": "Je demande un crédit",
-    "offers": "Nos offres",
+    "copyright": "Tous droits réservés"
+  },
+  "badges": {
+    "security": "Sécurité",
+    "digital": "100% digital",
+    "transfer72h": "Virement 72h*",
+    "instant": "Instantané"
+  },
+  "cards": {
+    "express": {
+      "title": "Crédit express",
+      "content": "Le crédit express offre une grande flexibilité pour tous vos besoins d’argent urgents : dépenses, réparations, ou factures imprévues. Si vous cherchez un crédit rapide et sans refus, optez pour la simplicité en accédant aux fonds instantanés de ce crédit rapide sans le tracas des procédures traditionnelles."
+    },
+    "auto": {
+      "title": "Crédit automobile",
+      "content": "Des taux d’intérêt plus bas que le prêt personnel rendent le crédit auto souvent plus avantageux pour financer l’achat d'une nouvelle voiture. Découvrez les meilleures offres de crédit rapide du simulateur Youdge et roulez vers votre projet sans vous laisser freiner par le manque de budget."
+    },
+    "personal": {
+      "title": "Prêts personnels",
+      "content": "Besoin de trésorerie pour un grand projet ? Le prêt personnel est là pour répondre à votre cas particulier. Youdge vous détaille son fonctionnement, comment y accéder, ses critères et conditions personnalisées. Comparez les offres via notre simulateur et choisissez la tranquillité de ce crédit rapide et sur mesure !"
+    },
+    "works": {
+      "title": "Prêts travaux",
+      "content": "Spécialement conçu pour vous aider à concrétiser vos projets d’aménagement et de rénovations sur mesure, le crédit travaux est le moyen idéal pour gérer votre budget efficacement. Découvrez comment obtenir les fonds pour vos travaux immédiatement grâce aux offres de crédits rapides de notre simulateur."
+    },
+    "revolving": {
+      "title": "Crédit renouvelable",
+      "content": "Si vous avez besoin d'une réserve d'argent disponible de façon permanente, le crédit renouvelable vous permet d’y accéder à tout moment. Ce crédit rapide offre la flexibilité dont vous avez besoin pour gérer votre budget en temps réel. Découvrez l'offre qui vous convient le mieux grâce à notre simulateur."
+    },
+    "consolidation": {
+      "title": "Rachat de crédit",
+      "content": "Le rachat de crédit, c'est votre chance de reprendre le contrôle de vos finances. Il offre un large éventail de solutions pour consolider vos dettes efficacement et ainsi, simplifier la gestion de votre budget. Youdge vous montre comment l'utiliser pour multiplier vos chances de faire des économies."
+    },
+    "button": "En savoir plus"
+  },
+  "categories": {
+    "title1": "Le",
+    "colorTitle": "crédit rapide",
+    "title2": "au cœur de notre métier",
+    "paragraph": "Notre vocation est de simplifier votre demande de crédit en vous permettant de souscrire directement en ligne aux meilleures offres du marché. Expert en crédit rapide, Youdge est là pour faciliter votre démarche : moins d'étapes et d'intermédiaires, jusqu'à l'obtention de votre prêt en quelques clics ! Entièrement digital et 100% sécurisé, nous garantissons un crédit adapté à vos besoins, quelle que soit l’urgence de votre projet."
+  },
+   "clearfix": {
+    "title": {
+      "part1": "Le",
+      "highlight": "réflexe",
+      "part2": "qui facilite votre crédit",
+      "paragraph": "Notre technologie propriétaire permet d'analyser en temps réel l'éligibilité de votre demande de crédit en fonction des critères de nos 300+ partenaires, prêteurs et organismes de crédit en ligne. Moins d'étapes, de formulaires et d'intermédiaires : Youdge centralise toutes vos démarches en quelques clics ! Découvrez les différents types de crédits rapides et trouvez celui qui vous correspond."
+    },
+    "cards": [
+      {
+        "title": "Sélectionnez facilement",
+        "paragraph": "le crédit de votre choix via notre simulateur"
+      },
+      {
+        "title": "Remplissez rapidement",
+        "paragraph": "notre formulaire en 4min directement en ligne"
+      },
+      {
+        "title": "Recevez instantanément",
+        "paragraph": "à la fin de votre formulaire"
+      }
+    ]
+  },
+  "compteur": {
+    "title": {
+      "colorTitle": "Myloan,",
+      "title2": "c'est aussi :",
+      "paragraph": "Découvrez notre comparateur au travers de différents chiffres clés"
+    },
+    "items": [
+      { "number": 500, "description": "partenaires (courtiers et établissements de crédit)" },
+      { "number": 6000, "description": "demandes de financement par jour" },
+      { "number": 400000, "description": "crédits octroyés" },
+      { "number": 500621, "description": "Rachats de prêts réalisés*" },
+      { "number": 600000, "description": "projets de prêt personnel réalisés*" },
+      { "number": 43987, "description": "projets de crédit automobile réalisés*" }
+    ]
+  },
+  "card1ext": {
+    "button": "Je fais ma demande"
+  },
+   "contacts": {
+    "title": "Nous Contacter",
+    "messaging": "Messagerie",
+    "questions": "Questions",
+    "appointment": "Prendre Rendez-vous"
+  },
+  "infos": {
+    "title": "Exemples de Financement",
+    "card1": {
+      "title": "Empruntez 1000€, remboursez 36€/mois sur 36 mois",
+      "description": "Exemple pour un financement de 1000€ (hors assurance facultative) sur 36 mois au TAEG fixe de 20,89% : 36 mensualités de 36,71€ sur une durée de 36 mois. Montant total dû par l’emprunteur : 1321,56€ - dont 321,56€ d’intérêts - hors assurance facultative. Le coût de l’assurance facultative pour un emprunteur est de 6,90€ par mois, à ajouter à la mensualité pour les garanties décès, invalidité et incapacité."
+    },
+    "card2": {
+      "title": "Empruntez 3000€, remboursez 80€/mois sur 60 mois",
+      "description": "Exemple pour un financement de 3000€ (hors assurance facultative) sur 60 mois au TAEG Fixe de 22,91% : 60 mensualités de 80,83€ sur une durée de 60 mois. Montant total dû par l’emprunteur : 4849,80€ - dont 1849,80€ d’intérêts - hors assurance facultative. Le coût de l’assurance facultative pour un emprunteur est de 20,70€ par mois, à ajouter à la mensualité pour les garanties décès, invalidité et incapacité."
+    },
+    "card3": {
+      "title": "Empruntez 5 000€, remboursez 104€/mois sur 72 mois",
+      "description": "Exemple pour un financement de 5000€ (hors assurance facultative) sur 72 mois au TAEG fixe de 15,67% : 72 mensualités de 104,76€ sur une durée de 72 mois. Montant total dû par l’emprunteur : 7542,72€ - dont 2542,72€ d’intérêts - hors assurance facultative. Le coût de l’assurance facultative pour un emprunteur est de 12,60€ par mois, à ajouter à la mensualité pour les garanties décès, invalidité et incapacité."
+    },
+    "card4": {
+      "title": "Empruntez 10 000€, remboursez 208€/mois sur 72 mois",
+      "description": "Exemple pour un financement de 10000€ (hors assurance facultative) sur 72 mois au TAEG fixe de 15,67% : 72 mensualités de 208,76€ sur une durée de 72 mois. Montant total dû par l’emprunteur : 15085,44€ - dont 5085,44€ d’intérêts - hors assurance facultative. Le coût de l’assurance facultative pour un emprunteur est de 25,20€ par mois, à ajouter à la mensualité pour les garanties décès, invalidité et incapacité."
+    }
+  },
+   "simulateur": {
+    "title": "Simulateur",
+    "cards": {
+      "card1": "Sécurisé",
+      "card2": "100% digital",
+      "card3": "Virement 72h*",
+      "card4": "Réponse Instantanée"
+    }
+  },
+  "hero": {
+    "title": "MyLoan Simplifie votre demande de crédit en ligne",
+    "description": "Accédez aux meilleures offres adaptées à votre situation via notre simulateur de crédit. Sélectionnez votre prêt, recevez une réponse de principe immédiate, puis souscrivez en temps réel.",
+    "button": "Je demande un crédit"
+  },
+  "heroForm": {
+    "name": "Nom",
+    "namePlaceholder": "Brice Sam",
+    "amount": "Montant du prêt",
+    "amountPlaceholder": "Montant du prêt",
+    "type": "Durée",
     "creditExpress": "Crédit Express",
-    "pretPersonnel": "Prêt Personnel",
-    "vosProjets": "Vos projets",
-    "rachatCredit": "Rachat Crédit",
     "creditAuto": "Crédit Auto",
-    "about": "À propos",
-    "independentCompany": "Entreprise française indépendante",
-    "partners": "+300 partenaires bancaires",
-    "personalizedSupport": "Accompagnement personnalisé",
-    "digitalSecured": "100% digital et sécurisé",
-    "responsiveSupport": "Support client réactif",
-    "newsletter": "Recevez nos actus",
-    "emailPlaceholder": "Votre email",
-    "subscribe": "S'inscrire",
-    "thankYou": "Merci pour votre inscription !",
-    "rights": "Tous droits réservés."
+    "creditInstant": "Crédit Instantané",
+    "creditNoDocs": "Crédit Sans Justificatif",
+    "submit": "Voir les offres"
+  },
+  "logue": {
+    "secure": {
+      "title": "Sécurisé",
+      "text": "Protection des données garantie"
+    },
+    "digital": {
+      "title": "100%digital",
+      "text": "Faites votre demande de prêt directement en ligne."
+    },
+    "fastTransfer": {
+      "title": "Virement 72h*",
+      "text": "Déblocage des fonds ultra rapide.",
+      "note": "*Après délai légal de rétractation et validation finale"
+    },
+    "instantReply": {
+      "title": "Réponse Instantanée",
+      "text": "Réponse de principe immédiate"
+    },
+    "loansGranted": {
+      "title": "Crédits octroyés",
+      "text": "200 000 utilisateurs ont déjà reçu leur prêt avec le simulateur Myloan"
+    },
+    "realtimeSubscription": {
+      "title": "Souscription en temps réel",
+      "text": "Signez en direct"
+    },
+    "button": "J'en profite !"
+  },
+  "acheterMaison": {
+    "card": {
+      "title": "Acheter une maison :",
+      "subtitle": "réalisez votre rêve immobilier avec un prêt adapté",
+      "description": "L'achat d'une maison est une étape majeure dans la vie, souvent synonyme de stabilité et d'investissement à long terme. Pour concrétiser ce projet, il est essentiel de bien comprendre les différentes options de financement disponibles. Un prêt immobilier adapté à votre situation financière peut faire toute la différence. Découvrez comment choisir le bon prêt, les critères à considérer et les étapes clés pour réussir l'achat de votre maison en toute sérénité."
+    },
+    "sections": {
+      "text1": {
+        "title": "Qu'est-ce que le ",
+        "highlight": "prêt immobilier ?",
+        "paragraph": "Le prêt immobilier est un financement destiné à l'achat d'un bien immobilier. Il permet d'emprunter une somme d'argent importante sur une durée longue, généralement de 15 à 25 ans. Ce type de prêt est spécifiquement conçu pour aider les acquéreurs à réaliser leur projet immobilier en étalant le remboursement sur plusieurs années."
+      },
+      "text2": {
+        "title": "Pourquoi souscrire un ",
+        "highlight": "prêt immobilier ?",
+        "paragraph": "Souscrire un prêt immobilier présente plusieurs avantages. Tout d'abord, il permet de financer l'achat d'une maison sans avoir à mobiliser une grande partie de ses économies. De plus, les taux d'intérêt des prêts immobiliers sont souvent plus avantageux que ceux des autres types de crédits, ce qui rend le coût total du financement plus abordable. Enfin, le prêt immobilier offre la possibilité de bénéficier d'avantages fiscaux, notamment en ce qui concerne les intérêts d'emprunt."
+      },
+      "text3": {
+        "title": "Comment choisir le bon ",
+        "highlight": "prêt immobilier ?",
+        "paragraph": "Le choix du prêt immobilier dépend de plusieurs critères. Il est important de prendre en compte le montant emprunté, la durée du prêt, le taux d'intérêt (fixe ou variable), ainsi que les frais annexes tels que les frais de dossier et l'assurance emprunteur. Il est également conseillé de comparer les offres de différentes banques et établissements financiers pour trouver celle qui correspond le mieux à votre profil et à votre projet."
+      },
+      "text4": {
+        "title": "Les étapes clés pour ",
+        "highlight": "acheter une maison",
+        "paragraph": "L'achat d'une maison avec un prêt immobilier se déroule en plusieurs étapes. Tout d'abord, il est essentiel de définir son budget et de rechercher le bien immobilier qui correspond à ses besoins. Ensuite, il faut constituer un dossier solide pour la demande de prêt, en fournissant toutes les pièces justificatives requises. Une fois le prêt accordé, il convient de signer l'offre de prêt et de procéder à la signature de l'acte de vente chez le notaire. Enfin, il est important de bien gérer le remboursement du prêt tout au long de sa durée."
+      }
+    }
+  },
+  "besoinFinancement": {
+    "card": {
+      "title": "Besoin de Financement :",
+      "h2": "réalisez vos projets",
+      "description": "Cette section est dédiée à vos besoins de financement. Que vous souhaitiez réaliser des travaux, acheter un véhicule ou financer un projet personnel, nous sommes là pour vous accompagner dans vos démarches. N'hésitez pas à nous faire part de vos besoins et de vos attentes."
+    },
+    "texte1": {
+      "title1": "Qu'est-ce que le ",
+      "colorTitle": "prêt personnel ?",
+      "paragraph": "Le prêt personnel est un financement destiné à des projets personnels, tels que des travaux, l'achat d'un véhicule ou des dépenses imprévues. Contrairement au prêt immobilier, il ne nécessite pas de garantie et peut être obtenu rapidement."
+    },
+    "texte2": {
+      "title1": "Pourquoi choisir un ",
+      "colorTitle": "prêt personnel ?",
+      "paragraph": "Le prêt personnel offre une grande flexibilité, avec des montants et des durées de remboursement adaptés à vos besoins. De plus, les taux d'intérêt sont souvent compétitifs, ce qui en fait une option attrayante pour financer vos projets."
+    },
+    "texte3": {
+      "title1": "Comment obtenir un ",
+      "colorTitle": "prêt personnel ?",
+      "paragraph": "Pour obtenir un prêt personnel, il vous suffit de nous contacter pour discuter de votre projet. Nous vous guiderons à travers le processus de demande, en vous aidant à rassembler les documents nécessaires et en vous expliquant les conditions du prêt."
+    }
+  },
+  "creditAuto": {
+    "card": {
+      "title": "Crédit Auto :",
+      "h2": "financer votre véhicule en toute sérénité",
+      "description": "Le crédit auto est une solution de financement spécialement conçue pour l'achat d'un véhicule. Que ce soit pour une voiture neuve ou d'occasion, ce type de prêt vous permet de financer votre projet automobile en toute sérénité. Il se caractérise par des conditions avantageuses et un accompagnement personnalisé."
+    },
+    "texte1": {
+      "title1": "Qu'est-ce que le ",
+      "colorTitle": "crédit auto ?",
+      "paragraph": "Le crédit auto est un prêt destiné à financer l'achat d'un véhicule, qu'il soit neuf ou d'occasion. Il permet aux emprunteurs de répartir le coût de leur achat sur une période déterminée, facilitant ainsi la gestion de leur budget."
+    },
+    "texte2": {
+      "title1": "Pourquoi choisir un ",
+      "colorTitle": "crédit auto ?",
+      "paragraph": "Le crédit auto offre plusieurs avantages, notamment des taux d'intérêt compétitifs et des conditions de remboursement flexibles. De plus, il permet de conserver votre épargne tout en réalisant votre projet automobile."
+    },
+    "texte3": {
+      "title1": "Comment obtenir un ",
+      "colorTitle": "crédit auto ?",
+      "paragraph": "Pour obtenir un crédit auto, il vous suffit de nous contacter pour discuter de votre projet. Nous vous accompagnerons tout au long du processus de demande, en vous aidant à rassembler les documents nécessaires et en vous expliquant les conditions du prêt."
+    }
   }
+
 }

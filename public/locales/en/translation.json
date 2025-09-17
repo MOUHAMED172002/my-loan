@@ -1,24 +1,266 @@
 {
   "footer": {
-    "logo": "MyLoan",
-    "slogan": "Your partner for fast, simple and secure credit.",
-    "cta": "Apply for a loan",
-    "offers": "Our offers",
-    "creditExpress": "Express Credit",
-    "pretPersonnel": "Personal Loan",
-    "vosProjets": "Your projects",
-    "rachatCredit": "Credit Buyback",
+    "company": {
+      "name": "MyLoan",
+      "slogan": "Your partner for fast, simple and secure credit.",
+      "about": [
+        "Independent French company",
+        "+300 banking partners",
+        "Personalized support",
+        "100% digital and secure",
+        "Responsive customer support"
+      ]
+    },
+    "navbar": {
+      "title": "Our offers",
+      "links": {
+        "creditExpress": "Express Credit",
+        "personalLoan": "Personal Loan",
+        "projects": "Your projects",
+        "creditBuyback": "Credit Buyback",
+        "carLoan": "Car Loan"
+      }
+    },
+    "language": "Language",
+    "newsletter": {
+      "title": "Receive our news",
+      "placeholder": "Your email",
+      "button": "Subscribe",
+      "success": "Thank you for subscribing!"
+    },
+    "cta": "I request a credit",
+    "copyright": "All rights reserved"
+  },
+  "badges": {
+    "security": "Security",
+    "digital": "100% digital",
+    "transfer72h": "Transfer within 72h*",
+    "instant": "Instant"
+  },
+  "cards": {
+    "express": {
+      "title": "Express Credit",
+      "content": "Express credit offers great flexibility for all your urgent money needs: expenses, repairs, or unexpected bills. If you’re looking for quick credit without refusal, opt for simplicity by accessing instant funds without the hassle of traditional procedures."
+    },
+    "auto": {
+      "title": "Car Loan",
+      "content": "Lower interest rates than personal loans make car loans often more advantageous to finance the purchase of a new vehicle. Discover the best quick credit offers from the Youdge simulator and drive toward your project without being held back by lack of budget."
+    },
+    "personal": {
+      "title": "Personal Loans",
+      "content": "Need cash for a big project? The personal loan is here to meet your specific needs. Youdge explains how it works, how to access it, and its personalized conditions. Compare offers through our simulator and choose the peace of mind of this fast and tailored credit!"
+    },
+    "works": {
+      "title": "Home Improvement Loan",
+      "content": "Specifically designed to help you carry out your renovation and home improvement projects, the works loan is the ideal way to manage your budget effectively. Learn how to get funds for your projects immediately thanks to our quick credit offers."
+    },
+    "revolving": {
+      "title": "Revolving Credit",
+      "content": "If you need a permanent reserve of money available at any time, revolving credit allows you to access it whenever you want. This fast credit offers the flexibility you need to manage your budget in real time. Discover the offer that suits you best through our simulator."
+    },
+    "consolidation": {
+      "title": "Credit Consolidation",
+      "content": "Credit consolidation is your chance to regain control of your finances. It offers a wide range of solutions to effectively consolidate your debts and simplify your budget management. Youdge shows you how to use it to increase your chances of saving money."
+    },
+    "button": "Learn more"
+  },
+  "categories": {
+    "title1": "The",
+    "colorTitle": "fast credit",
+    "title2": "at the heart of our business",
+    "paragraph": "Our mission is to simplify your credit application by allowing you to apply directly online for the best offers on the market. As an expert in fast credit, Youdge is here to make your process easier: fewer steps and intermediaries, all the way to getting your loan in just a few clicks! Fully digital and 100% secure, we guarantee credit adapted to your needs, whatever the urgency of your project."
+  },
+  "clearfix": {
+    "title": {
+      "part1": "The",
+      "highlight": "reflex",
+      "part2": "that makes your credit easy",
+      "paragraph": "Our proprietary technology analyzes in real-time the eligibility of your credit request according to the criteria of our 300+ partners, lenders, and online credit organizations. Fewer steps, forms, and intermediaries: Youdge centralizes all your procedures in just a few clicks! Discover the different types of fast credits and find the one that suits you."
+    },
+    "cards": [
+      {
+        "title": "Select easily",
+        "paragraph": "the credit of your choice via our simulator"
+      },
+      {
+        "title": "Fill quickly",
+        "paragraph": "our form in 4min directly online"
+      },
+      {
+        "title": "Receive instantly",
+        "paragraph": "at the end of your form"
+      }
+    ]
+  },
+  "compteur": {
+    "title": {
+      "colorTitle": "Myloan,",
+      "title2": "is also:",
+      "paragraph": "Discover our comparison through key figures"
+    },
+    "items": [
+      { "number": 500, "description": "partners (brokers and credit institutions)" },
+      { "number": 6000, "description": "financing requests per day" },
+      { "number": 400000, "description": "credits granted" },
+      { "number": 500621, "description": "loan buybacks completed*" },
+      { "number": 600000, "description": "personal loan projects completed*" },
+      { "number": 43987, "description": "car loan projects completed*" }
+    ]
+  },
+  "card1ext": {
+    "button": "Apply now"
+  },
+  "contacts": {
+    "title": "Contact Us",
+    "messaging": "Messaging",
+    "questions": "Questions",
+    "appointment": "Make an Appointment"
+  },
+ 
+  "infos": {
+    "title": "Financing Examples",
+    "card1": {
+      "title": "Borrow €1000, repay €36/month over 36 months",
+      "description": "Example for a €1000 financing (excluding optional insurance) over 36 months at a fixed APR of 20.89%: 36 monthly payments of €36.71 over 36 months. Total amount owed by the borrower: €1321.56 - including €321.56 interest - excluding optional insurance. The cost of optional insurance for a borrower is €6.90 per month, to be added to the monthly payment for death, disability, and incapacity coverage."
+    },
+    "card2": {
+      "title": "Borrow €3000, repay €80/month over 60 months",
+      "description": "Example for a €3000 financing (excluding optional insurance) over 60 months at a fixed APR of 22.91%: 60 monthly payments of €80.83 over 60 months. Total amount owed by the borrower: €4849.80 - including €1849.80 interest - excluding optional insurance. The cost of optional insurance for a borrower is €20.70 per month, to be added to the monthly payment for death, disability, and incapacity coverage."
+    },
+    "card3": {
+      "title": "Borrow €5000, repay €104/month over 72 months",
+      "description": "Example for a €5000 financing (excluding optional insurance) over 72 months at a fixed APR of 15.67%: 72 monthly payments of €104.76 over 72 months. Total amount owed by the borrower: €7542.72 - including €2542.72 interest - excluding optional insurance. The cost of optional insurance for a borrower is €12.60 per month, to be added to the monthly payment for death, disability, and incapacity coverage."
+    },
+    "card4": {
+      "title": "Borrow €10,000, repay €208/month over 72 months",
+      "description": "Example for a €10,000 financing (excluding optional insurance) over 72 months at a fixed APR of 15.67%: 72 monthly payments of €208.76 over 72 months. Total amount owed by the borrower: €15,085.44 - including €5085.44 interest - excluding optional insurance. The cost of optional insurance for a borrower is €25.20 per month, to be added to the monthly payment for death, disability, and incapacity coverage."
+    }
+  },
+  "simulateur": {
+    "title": "Simulator",
+    "cards": {
+      "card1": "Secure",
+      "card2": "100% digital",
+      "card3": "Transfer 72h*",
+      "card4": "Instant Response"
+    }
+  },
+  "hero": {
+    "title": "MyLoan Simplifies Your Online Loan Application",
+    "description": "Access the best offers suited to your situation via our credit simulator. Select your loan, receive an instant pre-approval, and subscribe in real-time.",
+    "button": "I request a loan"
+  },
+   "heroForm": {
+    "name": "Name",
+    "namePlaceholder": "Brice Sam",
+    "amount": "Loan Amount",
+    "amountPlaceholder": "Loan Amount",
+    "type": "Duration",
+    "creditExpress": "Express Loan",
     "creditAuto": "Auto Loan",
-    "about": "About",
-    "independentCompany": "Independent French company",
-    "partners": "+300 banking partners",
-    "personalizedSupport": "Personalized support",
-    "digitalSecured": "100% digital and secure",
-    "responsiveSupport": "Responsive customer support",
-    "newsletter": "Get our news",
-    "emailPlaceholder": "Your email",
-    "subscribe": "Subscribe",
-    "thankYou": "Thank you for subscribing!",
-    "rights": "All rights reserved."
+    "creditInstant": "Instant Loan",
+    "creditNoDocs": "Loan Without Documents",
+    "submit": "See Offers"
+  },
+  "logue": {
+    "secure": {
+      "title": "Secure",
+      "text": "Data protection guaranteed"
+    },
+    "digital": {
+      "title": "100% digital",
+      "text": "Make your loan request entirely online."
+    },
+    "fastTransfer": {
+      "title": "Transfer 72h*",
+      "text": "Ultra fast fund release.",
+      "note": "*After legal withdrawal period and final approval"
+    },
+    "instantReply": {
+      "title": "Instant Reply",
+      "text": "Immediate pre-approval"
+    },
+    "loansGranted": {
+      "title": "Loans Granted",
+      "text": "200,000 users have already received their loan with Myloan simulator"
+    },
+    "realtimeSubscription": {
+      "title": "Real-time Subscription",
+      "text": "Sign live"
+    },
+    "button": "I take advantage!"
+  },
+  "acheterMaison": {
+    "card": {
+      "title": "Buy a house:",
+      "subtitle": "make your real estate dream come true with a suitable loan",
+      "description": "Buying a house is a major step in life, often synonymous with stability and long-term investment. To make this project a reality, it is essential to understand the different financing options available. A home loan adapted to your financial situation can make all the difference. Discover how to choose the right loan, the criteria to consider, and the key steps to successfully buying your home with peace of mind."
+    },
+    "sections": {
+      "text1": {
+        "title": "What is a ",
+        "highlight": "mortgage?",
+        "paragraph": "A mortgage is financing intended for the purchase of real estate. It allows you to borrow a large sum of money over a long period, usually 15 to 25 years. This type of loan is specifically designed to help buyers achieve their real estate project by spreading repayment over several years."
+      },
+      "text2": {
+        "title": "Why take out a ",
+        "highlight": "mortgage?",
+        "paragraph": "Taking out a mortgage has several advantages. First, it allows you to finance the purchase of a home without using up most of your savings. In addition, mortgage rates are often more favorable than other types of credit, making the total cost of financing more affordable. Finally, mortgages may offer tax benefits, particularly regarding interest payments."
+      },
+      "text3": {
+        "title": "How to choose the right ",
+        "highlight": "mortgage?",
+        "paragraph": "The choice of a mortgage depends on several criteria. It is important to consider the borrowed amount, loan duration, interest rate (fixed or variable), as well as additional fees such as processing fees and borrower’s insurance. It is also advisable to compare offers from different banks and financial institutions to find the one that best suits your profile and project."
+      },
+      "text4": {
+        "title": "The key steps to ",
+        "highlight": "buying a house",
+        "paragraph": "Buying a house with a mortgage involves several steps. First, it is essential to define your budget and search for the property that meets your needs. Then, you must prepare a solid application for the loan, providing all the required supporting documents. Once the loan is approved, you need to sign the loan offer and then sign the deed of sale with the notary. Finally, it is important to manage loan repayments properly throughout its duration."
+      }
+    }
+  },
+  "besoinFinancement": {
+    "card": {
+      "title": "Need Financing:",
+      "h2": "make your projects a reality",
+      "description": "This section is dedicated to your financing needs. Whether you want to carry out renovations, buy a vehicle, or fund a personal project, we are here to support you in your steps. Do not hesitate to share your needs and expectations with us."
+    },
+    "texte1": {
+      "title1": "What is a ",
+      "colorTitle": "personal loan?",
+      "paragraph": "A personal loan is financing intended for personal projects, such as renovations, buying a vehicle, or unexpected expenses. Unlike a mortgage, it does not require collateral and can be obtained quickly."
+    },
+    "texte2": {
+      "title1": "Why choose a ",
+      "colorTitle": "personal loan?",
+      "paragraph": "The personal loan offers great flexibility, with amounts and repayment terms adapted to your needs. In addition, interest rates are often competitive, making it an attractive option for financing your projects."
+    },
+    "texte3": {
+      "title1": "How to obtain a ",
+      "colorTitle": "personal loan?",
+      "paragraph": "To obtain a personal loan, simply contact us to discuss your project. We will guide you through the application process, help you gather the necessary documents, and explain the loan conditions."
+    }
+  },
+  "creditAuto": {
+    "card": {
+      "title": "Car Loan:",
+      "h2": "finance your vehicle with peace of mind",
+      "description": "The car loan is a financing solution specifically designed for purchasing a vehicle. Whether it is a new or used car, this type of loan allows you to finance your automotive project with confidence. It features advantageous conditions and personalized support."
+    },
+    "texte1": {
+      "title1": "What is a ",
+      "colorTitle": "car loan?",
+      "paragraph": "A car loan is a loan intended to finance the purchase of a vehicle, whether new or used. It allows borrowers to spread the cost of their purchase over a determined period, making budget management easier."
+    },
+    "texte2": {
+      "title1": "Why choose a ",
+      "colorTitle": "car loan?",
+      "paragraph": "A car loan offers several advantages, including competitive interest rates and flexible repayment terms. Additionally, it allows you to preserve your savings while achieving your automotive project."
+    },
+    "texte3": {
+      "title1": "How to obtain a ",
+      "colorTitle": "car loan?",
+      "paragraph": "To obtain a car loan, simply contact us to discuss your project. We will guide you throughout the application process, helping you gather the necessary documents and explaining the loan conditions."
+    }
   }
 }

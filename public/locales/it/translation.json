@@ -1,0 +1,265 @@
+{
+    "footer": {
+    "company": {
+      "name": "MyLoan",
+      "slogan": "Il tuo partner per un credito veloce, semplice e sicuro.",
+      "about": [
+        "Azienda francese indipendente",
+        "+300 partner bancari",
+        "Supporto personalizzato",
+        "100% digitale e sicuro",
+        "Assistenza clienti reattiva"
+      ]
+    },
+    "navbar": {
+      "title": "Le nostre offerte",
+      "links": {
+        "creditExpress": "Credito Express",
+        "personalLoan": "Prestito Personale",
+        "projects": "I tuoi progetti",
+        "creditBuyback": "Riscatto Credito",
+        "carLoan": "Credito Auto"
+      }
+    },
+    "language": "Lingua",
+    "newsletter": {
+      "title": "Ricevi le nostre notizie",
+      "placeholder": "La tua email",
+      "button": "Iscriviti",
+      "success": "Grazie per esserti iscritto!"
+    },
+    "cta": "Richiedo un credito",
+    "copyright": "Tutti i diritti riservati"
+  },
+    "badges": {
+        "security": "Sicurezza",
+        "digital": "100% digitale",
+        "transfer72h": "Bonifico entro 72h*",
+        "instant": "Istantaneo"
+  },
+  "cards": {
+    "express": {
+      "title": "Credito express",
+      "content": "Il credito express offre grande flessibilità per tutte le tue esigenze di denaro urgenti: spese, riparazioni o bollette impreviste. Se cerchi un credito veloce e senza rifiuto, scegli la semplicità accedendo subito ai fondi senza le complicazioni delle procedure tradizionali."
+    },
+    "auto": {
+      "title": "Credito auto",
+      "content": "Tassi di interesse più bassi rispetto al prestito personale rendono il credito auto spesso più vantaggioso per finanziare l’acquisto di una nuova auto. Scopri le migliori offerte di credito veloce dal simulatore Youdge e guida verso il tuo progetto senza essere frenato dal budget."
+    },
+    "personal": {
+      "title": "Prestiti personali",
+      "content": "Hai bisogno di liquidità per un grande progetto? Il prestito personale è qui per rispondere alle tue esigenze specifiche. Youdge ti spiega come funziona, come accedervi, i criteri e le condizioni personalizzate. Confronta le offerte tramite il nostro simulatore e scegli la tranquillità di un credito rapido e su misura!"
+    },
+    "works": {
+      "title": "Prestiti per lavori",
+      "content": "Progettato appositamente per aiutarti a realizzare i tuoi progetti di ristrutturazione e miglioramento, il prestito lavori è il modo ideale per gestire il tuo budget in modo efficace. Scopri come ottenere subito i fondi per i tuoi lavori grazie alle offerte di credito veloce del nostro simulatore."
+    },
+    "revolving": {
+      "title": "Credito rinnovabile",
+      "content": "Se hai bisogno di una riserva di denaro disponibile in qualsiasi momento, il credito rinnovabile ti consente di accedervi quando vuoi. Questo credito veloce offre la flessibilità necessaria per gestire il tuo budget in tempo reale. Scopri l’offerta più adatta a te con il nostro simulatore."
+    },
+    "consolidation": {
+      "title": "Consolidamento crediti",
+      "content": "Il consolidamento del credito è la tua occasione per riprendere il controllo delle tue finanze. Offre molte soluzioni per consolidare i debiti in modo efficace e semplificare la gestione del budget. Youdge ti mostra come usarlo per aumentare le tue possibilità di risparmiare."
+    },
+    "button": "Scopri di più"
+  },
+  "categories": {
+    "title1": "Il",
+    "colorTitle": "credito veloce",
+    "title2": "al centro del nostro mestiere",
+    "paragraph": "La nostra missione è semplificare la tua richiesta di credito permettendoti di sottoscrivere direttamente online le migliori offerte sul mercato. Esperto in credito veloce, Youdge è qui per facilitare la tua procedura: meno passaggi e intermediari, fino ad ottenere il tuo prestito in pochi clic! Completamente digitale e 100% sicuro, garantiamo un credito adatto alle tue esigenze, qualunque sia l'urgenza del tuo progetto."
+  },
+   "clearfix": {
+    "title": {
+      "part1": "Il",
+      "highlight": "riflesso",
+      "part2": "che rende facile il tuo credito",
+      "paragraph": "La nostra tecnologia proprietaria analizza in tempo reale l'idoneità della tua richiesta di credito in base ai criteri dei nostri 300+ partner, prestatori e organizzazioni di credito online. Meno passaggi, moduli e intermediari: Youdge centralizza tutte le tue pratiche in pochi clic! Scopri i diversi tipi di crediti veloci e trova quello che fa per te."
+    },
+    "cards": [
+      {
+        "title": "Seleziona facilmente",
+        "paragraph": "il credito di tua scelta tramite il nostro simulatore"
+      },
+      {
+        "title": "Compila rapidamente",
+        "paragraph": "il nostro modulo in 4 minuti direttamente online"
+      },
+      {
+        "title": "Ricevi immediatamente",
+        "paragraph": "al termine del modulo"
+      }
+    ]
+  },
+  "compteur": {
+    "title": {
+      "colorTitle": "Myloan,",
+      "title2": "è anche:",
+      "paragraph": "Scopri il nostro comparatore attraverso diverse cifre chiave"
+    },
+    "items": [
+      { "number": 500, "description": "partner (broker e istituti di credito)" },
+      { "number": 6000, "description": "richieste di finanziamento al giorno" },
+      { "number": 400000, "description": "crediti concessi" },
+      { "number": 500621, "description": "riacquisti di prestiti completati*" },
+      { "number": 600000, "description": "progetti di prestito personale completati*" },
+      { "number": 43987, "description": "progetti di prestito auto completati*" }
+    ]
+  },
+  "card1ext": {
+    "button": "Fai la richiesta"
+  },
+  "contacts": {
+    "title": "Contattaci",
+    "messaging": "Messaggistica",
+    "questions": "Domande",
+    "appointment": "Prendere un Appuntamento"
+  },
+  "infos": {
+    "title": "Esempi di Finanziamento",
+    "card1": {
+      "title": "Prendi in prestito €1000, rimborso €36/mese per 36 mesi",
+      "description": "Esempio per un finanziamento di €1000 (assicurazione opzionale esclusa) per 36 mesi a tasso fisso del 20,89%: 36 rate mensili da €36,71 per 36 mesi. Importo totale dovuto dal richiedente: €1321,56 - di cui €321,56 interessi - assicurazione opzionale esclusa. Il costo dell'assicurazione opzionale per un richiedente è €6,90 al mese, da aggiungere alla rata per coperture morte, invalidità e incapacità."
+    },
+    "card2": {
+      "title": "Prendi in prestito €3000, rimborso €80/mese per 60 mesi",
+      "description": "Esempio per un finanziamento di €3000 (assicurazione opzionale esclusa) per 60 mesi a tasso fisso del 22,91%: 60 rate mensili da €80,83 per 60 mesi. Importo totale dovuto dal richiedente: €4849,80 - di cui €1849,80 interessi - assicurazione opzionale esclusa. Il costo dell'assicurazione opzionale per un richiedente è €20,70 al mese, da aggiungere alla rata per coperture morte, invalidità e incapacità."
+    },
+    "card3": {
+      "title": "Prendi in prestito €5000, rimborso €104/mese per 72 mesi",
+      "description": "Esempio per un finanziamento di €5000 (assicurazione opzionale esclusa) per 72 mesi a tasso fisso del 15,67%: 72 rate mensili da €104,76 per 72 mesi. Importo totale dovuto dal richiedente: €7542,72 - di cui €2542,72 interessi - assicurazione opzionale esclusa. Il costo dell'assicurazione opzionale per un richiedente è €12,60 al mese, da aggiungere alla rata per coperture morte, invalidità e incapacità."
+    },
+    "card4": {
+      "title": "Prendi in prestito €10,000, rimborso €208/mese per 72 mesi",
+      "description": "Esempio per un finanziamento di €10.000 (assicurazione opzionale esclusa) per 72 mesi a tasso fisso del 15,67%: 72 rate mensili da €208,76 per 72 mesi. Importo totale dovuto dal richiedente: €15.085,44 - di cui €5085,44 interessi - assicurazione opzionale esclusa. Il costo dell'assicurazione opzionale per un richiedente è €25,20 al mese, da aggiungere alla rata per coperture morte, invalidità e incapacità."
+    }
+  },
+  "simulateur": {
+    "title": "Simulatore",
+    "cards": {
+      "card1": "Sicuro",
+      "card2": "100% digitale",
+      "card3": "Trasferimento 72h*",
+      "card4": "Risposta Istantanea"
+    }
+  },
+  "hero": {
+    "title": "MyLoan Semplifica la tua richiesta di prestito online",
+    "description": "Accedi alle migliori offerte adatte alla tua situazione tramite il nostro simulatore di credito. Seleziona il tuo prestito, ricevi un'approvazione immediata e sottoscrivi in tempo reale.",
+    "button": "Richiedo un prestito"
+  },
+  "heroForm": {
+    "name": "Nome",
+    "namePlaceholder": "Brice Sam",
+    "amount": "Importo del prestito",
+    "amountPlaceholder": "Importo del prestito",
+    "type": "Durata",
+    "creditExpress": "Prestito Espresso",
+    "creditAuto": "Prestito Auto",
+    "creditInstant": "Prestito Istantaneo",
+    "creditNoDocs": "Prestito Senza Documenti",
+    "submit": "Vedi Offerte"
+  },
+   "logue": {
+    "secure": {
+      "title": "Sicuro",
+      "text": "Protezione dei dati garantita"
+    },
+    "digital": {
+      "title": "100% digitale",
+      "text": "Effettua la richiesta del prestito interamente online."
+    },
+    "fastTransfer": {
+      "title": "Bonifico 72h*",
+      "text": "Sblocco fondi ultra veloce.",
+      "note": "*Dopo il periodo legale di recesso e l'approvazione finale"
+    },
+    "instantReply": {
+      "title": "Risposta Istantanea",
+      "text": "Pre-approvazione immediata"
+    },
+    "loansGranted": {
+      "title": "Prestiti Concessi",
+      "text": "200.000 utenti hanno già ricevuto il loro prestito con il simulatore Myloan"
+    },
+    "realtimeSubscription": {
+      "title": "Sottoscrizione in tempo reale",
+      "text": "Firma in diretta"
+    },
+    "button": "Ne approfitto!"
+  },
+   "acheterMaison": {
+    "card": {
+      "title": "Comprare una casa:",
+      "subtitle": "realizza il tuo sogno immobiliare con un prestito adatto",
+      "description": "Comprare una casa è un passo importante nella vita, spesso sinonimo di stabilità e investimento a lungo termine. Per realizzare questo progetto, è essenziale comprendere le diverse opzioni di finanziamento disponibili. Un mutuo adeguato alla tua situazione finanziaria può fare la differenza. Scopri come scegliere il prestito giusto, i criteri da considerare e le fasi chiave per acquistare la tua casa in totale serenità."
+    },
+    "sections": {
+      "text1": {
+        "title": "Che cos'è un ",
+        "highlight": "mutuo?",
+        "paragraph": "Il mutuo è un finanziamento destinato all'acquisto di un immobile. Permette di prendere in prestito una somma importante di denaro per un lungo periodo, generalmente da 15 a 25 anni. Questo tipo di prestito è specificamente progettato per aiutare gli acquirenti a realizzare il proprio progetto immobiliare distribuendo il rimborso su diversi anni."
+      },
+      "text2": {
+        "title": "Perché sottoscrivere un ",
+        "highlight": "mutuo?",
+        "paragraph": "Sottoscrivere un mutuo presenta diversi vantaggi. Innanzitutto, permette di finanziare l'acquisto di una casa senza dover utilizzare la maggior parte dei propri risparmi. Inoltre, i tassi di interesse dei mutui sono spesso più vantaggiosi rispetto ad altri tipi di credito, rendendo il costo totale del finanziamento più accessibile. Infine, il mutuo può offrire vantaggi fiscali, in particolare per quanto riguarda gli interessi sul prestito."
+      },
+      "text3": {
+        "title": "Come scegliere il ",
+        "highlight": "mutuo giusto?",
+        "paragraph": "La scelta del mutuo dipende da diversi criteri. È importante considerare l'importo preso in prestito, la durata del prestito, il tasso di interesse (fisso o variabile), così come le spese accessorie come le commissioni e l'assicurazione del mutuatario. È inoltre consigliabile confrontare le offerte di diverse banche e istituti finanziari per trovare quella che meglio si adatta al tuo profilo e al tuo progetto."
+      },
+      "text4": {
+        "title": "Le fasi chiave per ",
+        "highlight": "comprare una casa",
+        "paragraph": "L'acquisto di una casa con un mutuo si svolge in diverse fasi. Prima di tutto, è fondamentale definire il proprio budget e cercare l'immobile che soddisfi le proprie esigenze. Successivamente, occorre preparare un dossier solido per la richiesta del prestito, fornendo tutti i documenti richiesti. Una volta approvato il mutuo, bisogna firmare l'offerta e successivamente l'atto di vendita dal notaio. Infine, è importante gestire correttamente il rimborso del prestito per tutta la sua durata."
+      }
+    }
+  },
+  "besoinFinancement": {
+    "card": {
+      "title": "Bisogno di finanziamento:",
+      "h2": "realizza i tuoi progetti",
+      "description": "Questa sezione è dedicata alle tue esigenze di finanziamento. Che tu voglia eseguire lavori, acquistare un veicolo o finanziare un progetto personale, siamo qui per accompagnarti nel processo. Non esitare a comunicarci le tue esigenze e aspettative."
+    },
+    "texte1": {
+      "title1": "Cos'è un ",
+      "colorTitle": "prestito personale?",
+      "paragraph": "Un prestito personale è un finanziamento destinato a progetti personali, come lavori, acquisto di un veicolo o spese impreviste. A differenza di un mutuo, non richiede garanzie e può essere ottenuto rapidamente."
+    },
+    "texte2": {
+      "title1": "Perché scegliere un ",
+      "colorTitle": "prestito personale?",
+      "paragraph": "Il prestito personale offre grande flessibilità, con importi e durate di rimborso adattati alle tue esigenze. Inoltre, i tassi di interesse sono spesso competitivi, rendendolo un'opzione interessante per finanziare i tuoi progetti."
+    },
+    "texte3": {
+      "title1": "Come ottenere un ",
+      "colorTitle": "prestito personale?",
+      "paragraph": "Per ottenere un prestito personale, contattaci per discutere del tuo progetto. Ti guideremo nel processo di richiesta, aiutandoti a raccogliere i documenti necessari e spiegandoti le condizioni del prestito."
+    }
+  },
+  "creditAuto": {
+    "card": {
+      "title": "Prestito Auto:",
+      "h2": "finanzia il tuo veicolo in tutta tranquillità",
+      "description": "Il prestito auto è una soluzione di finanziamento progettata appositamente per l'acquisto di un veicolo. Che si tratti di un'auto nuova o usata, questo tipo di prestito ti consente di finanziare il tuo progetto automobilistico in tutta tranquillità, con condizioni vantaggiose e supporto personalizzato."
+    },
+    "texte1": {
+      "title1": "Cos'è un ",
+      "colorTitle": "prestito auto?",
+      "paragraph": "Il prestito auto è un finanziamento destinato all'acquisto di un veicolo, nuovo o usato. Permette ai richiedenti di suddividere il costo dell'acquisto in un periodo determinato, facilitando la gestione del budget."
+    },
+    "texte2": {
+      "title1": "Perché scegliere un ",
+      "colorTitle": "prestito auto?",
+      "paragraph": "Il prestito auto offre diversi vantaggi, tra cui tassi di interesse competitivi e condizioni di rimborso flessibili. Inoltre, consente di preservare i propri risparmi mentre si realizza il progetto automobilistico."
+    },
+    "texte3": {
+      "title1": "Come ottenere un ",
+      "colorTitle": "prestito auto?",
+      "paragraph": "Per ottenere un prestito auto, contattaci per discutere il tuo progetto. Ti guideremo durante tutto il processo di richiesta, aiutandoti a raccogliere i documenti necessari e spiegandoti le condizioni del prestito."
+    }
+  }
+}

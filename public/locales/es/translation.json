@@ -1,0 +1,265 @@
+{
+   "footer": {
+    "company": {
+      "name": "MyLoan",
+      "slogan": "Su socio para un crédito rápido, sencillo y seguro.",
+      "about": [
+        "Empresa francesa independiente",
+        "+300 socios bancarios",
+        "Asistencia personalizada",
+        "100% digital y seguro",
+        "Soporte al cliente ágil"
+      ]
+    },
+    "navbar": {
+      "title": "Nuestras ofertas",
+      "links": {
+        "creditExpress": "Crédito Exprés",
+        "personalLoan": "Préstamo Personal",
+        "projects": "Tus proyectos",
+        "creditBuyback": "Recompra de Crédito",
+        "carLoan": "Crédito Auto"
+      }
+    },
+    "language": "Idioma",
+    "newsletter": {
+      "title": "Recibe nuestras noticias",
+      "placeholder": "Tu email",
+      "button": "Suscribirse",
+      "success": "¡Gracias por suscribirte!"
+    },
+    "cta": "Solicito un crédito",
+    "copyright": "Todos los derechos reservados"
+  },
+  "badges": {
+    "security": "Seguridad",
+    "digital": "100% digital",
+    "transfer72h": "Transferencia en 72h*",
+    "instant": "Instantáneo"
+  },
+   "cards": {
+    "express": {
+      "title": "Crédito exprés",
+      "content": "El crédito exprés ofrece gran flexibilidad para todas tus necesidades urgentes de dinero: gastos, reparaciones o facturas imprevistas. Si buscas un crédito rápido y sin rechazo, elige la simplicidad accediendo a fondos instantáneos sin las molestias de los procedimientos tradicionales."
+    },
+    "auto": {
+      "title": "Crédito automotriz",
+      "content": "Tasas de interés más bajas que el préstamo personal hacen que el crédito automotriz sea a menudo más ventajoso para financiar la compra de un coche nuevo. Descubre las mejores ofertas de crédito rápido en el simulador Youdge y avanza hacia tu proyecto sin que el presupuesto te detenga."
+    },
+    "personal": {
+      "title": "Préstamos personales",
+      "content": "¿Necesitas dinero para un gran proyecto? El préstamo personal está aquí para responder a tus necesidades específicas. Youdge te explica cómo funciona, cómo acceder, sus criterios y condiciones personalizadas. Compara las ofertas en nuestro simulador y elige la tranquilidad de este crédito rápido y a medida."
+    },
+    "works": {
+      "title": "Préstamos para reformas",
+      "content": "Diseñado especialmente para ayudarte a realizar tus proyectos de renovación y reformas, el préstamo para obras es la forma ideal de gestionar tu presupuesto de manera eficaz. Descubre cómo obtener fondos de inmediato gracias a las ofertas de crédito rápido de nuestro simulador."
+    },
+    "revolving": {
+      "title": "Crédito renovable",
+      "content": "Si necesitas una reserva de dinero disponible de forma permanente, el crédito renovable te permite acceder a él en cualquier momento. Este crédito rápido te ofrece la flexibilidad que necesitas para gestionar tu presupuesto en tiempo real. Descubre la oferta que mejor se adapta a ti con nuestro simulador."
+    },
+    "consolidation": {
+      "title": "Reunificación de créditos",
+      "content": "La reunificación de créditos es tu oportunidad para retomar el control de tus finanzas. Ofrece una amplia gama de soluciones para consolidar tus deudas eficazmente y simplificar la gestión de tu presupuesto. Youdge te muestra cómo usarla para aumentar tus posibilidades de ahorrar."
+    },
+    "button": "Saber más"
+  },
+  "categories": {
+    "title1": "El",
+    "colorTitle": "crédito rápido",
+    "title2": "en el corazón de nuestro oficio",
+    "paragraph": "Nuestra misión es simplificar tu solicitud de crédito permitiéndote suscribirte directamente en línea a las mejores ofertas del mercado. Experto en crédito rápido, Youdge está aquí para facilitar tu trámite: menos pasos e intermediarios, hasta obtener tu préstamo en pocos clics. Totalmente digital y 100% seguro, garantizamos un crédito adaptado a tus necesidades, sea cual sea la urgencia de tu proyecto."
+  },
+  "clearfix": {
+    "title": {
+      "part1": "El",
+      "highlight": "reflejo",
+      "part2": "que facilita tu crédito",
+      "paragraph": "Nuestra tecnología propietaria analiza en tiempo real la elegibilidad de tu solicitud de crédito según los criterios de nuestros 300+ socios, prestamistas y organizaciones de crédito en línea. Menos pasos, formularios e intermediarios: ¡Youdge centraliza todos tus trámites en unos pocos clics! Descubre los diferentes tipos de créditos rápidos y encuentra el que más te convenga."
+    },
+    "cards": [
+      {
+        "title": "Selecciona fácilmente",
+        "paragraph": "el crédito de tu elección a través de nuestro simulador"
+      },
+      {
+        "title": "Rellena rápidamente",
+        "paragraph": "nuestro formulario en 4 minutos directamente en línea"
+      },
+      {
+        "title": "Recibe instantáneamente",
+        "paragraph": "al final de tu formulario"
+      }
+    ]
+  },
+  "compteur": {
+    "title": {
+      "colorTitle": "Myloan,",
+      "title2": "también es:",
+      "paragraph": "Descubre nuestro comparador a través de diferentes cifras clave"
+    },
+    "items": [
+      { "number": 500, "description": "socios (corredores y entidades de crédito)" },
+      { "number": 6000, "description": "solicitudes de financiación por día" },
+      { "number": 400000, "description": "créditos otorgados" },
+      { "number": 500621, "description": "compras de préstamos realizadas*" },
+      { "number": 600000, "description": "proyectos de préstamo personal realizados*" },
+      { "number": 43987, "description": "proyectos de crédito automotriz realizados*" }
+    ]
+  },
+  "card1ext": {
+    "button": "Hago mi solicitud"
+  },
+  "contacts": {
+    "title": "Contáctanos",
+    "messaging": "Mensajería",
+    "questions": "Preguntas",
+    "appointment": "Pedir Cita"
+  },
+  "infos": {
+    "title": "Ejemplos de Financiamiento",
+    "card1": {
+      "title": "Solicita €1000, paga €36/mes durante 36 meses",
+      "description": "Ejemplo para un financiamiento de €1000 (excluyendo seguro opcional) durante 36 meses con TAEG fijo de 20,89%: 36 cuotas de €36,71 en 36 meses. Monto total adeudado por el prestatario: €1321,56 - incluyendo €321,56 de intereses - excluyendo seguro opcional. El costo del seguro opcional para un prestatario es de €6,90 por mes, a añadir a la cuota mensual para coberturas de fallecimiento, invalidez e incapacidad."
+    },
+    "card2": {
+      "title": "Solicita €3000, paga €80/mes durante 60 meses",
+      "description": "Ejemplo para un financiamiento de €3000 (excluyendo seguro opcional) durante 60 meses con TAEG fijo de 22,91%: 60 cuotas de €80,83 en 60 meses. Monto total adeudado por el prestatario: €4849,80 - incluyendo €1849,80 de intereses - excluyendo seguro opcional. El costo del seguro opcional para un prestatario es de €20,70 por mes, a añadir a la cuota mensual para coberturas de fallecimiento, invalidez e incapacidad."
+    },
+    "card3": {
+      "title": "Solicita €5000, paga €104/mes durante 72 meses",
+      "description": "Ejemplo para un financiamiento de €5000 (excluyendo seguro opcional) durante 72 meses con TAEG fijo de 15,67%: 72 cuotas de €104,76 en 72 meses. Monto total adeudado por el prestatario: €7542,72 - incluyendo €2542,72 de intereses - excluyendo seguro opcional. El costo del seguro opcional para un prestatario es de €12,60 por mes, a añadir a la cuota mensual para coberturas de fallecimiento, invalidez e incapacidad."
+    },
+    "card4": {
+      "title": "Solicita €10000, paga €208/mes durante 72 meses",
+      "description": "Ejemplo para un financiamiento de €10000 (excluyendo seguro opcional) durante 72 meses con TAEG fijo de 15,67%: 72 cuotas de €208,76 en 72 meses. Monto total adeudado por el prestatario: €15085,44 - incluyendo €5085,44 de intereses - excluyendo seguro opcional. El costo del seguro opcional para un prestatario es de €25,20 por mes, a añadir a la cuota mensual para coberturas de fallecimiento, invalidez e incapacidad."
+    }
+  },
+  "simulateur": {
+    "title": "Simulador",
+    "cards": {
+      "card1": "Seguro",
+      "card2": "100% digital",
+      "card3": "Transferencia 72h*",
+      "card4": "Respuesta Instantánea"
+    }
+  },
+  "hero": {
+    "title": "MyLoan Simplifica su solicitud de crédito en línea",
+    "description": "Acceda a las mejores ofertas adaptadas a su situación a través de nuestro simulador de crédito. Seleccione su préstamo, reciba una aprobación instantánea y suscríbase en tiempo real.",
+    "button": "Solicito un préstamo"
+  },
+   "heroForm": {
+    "name": "Nombre",
+    "namePlaceholder": "Brice Sam",
+    "amount": "Monto del préstamo",
+    "amountPlaceholder": "Monto del préstamo",
+    "type": "Duración",
+    "creditExpress": "Crédito Express",
+    "creditAuto": "Crédito Auto",
+    "creditInstant": "Crédito Instantáneo",
+    "creditNoDocs": "Crédito Sin Documentos",
+    "submit": "Ver Ofertas"
+  },
+  "logue": {
+    "secure": {
+      "title": "Seguro",
+      "text": "Protección de datos garantizada"
+    },
+    "digital": {
+      "title": "100% digital",
+      "text": "Realiza tu solicitud de préstamo completamente en línea."
+    },
+    "fastTransfer": {
+      "title": "Transferencia 72h*",
+      "text": "Liberación de fondos ultra rápida.",
+      "note": "*Después del periodo legal de retracto y aprobación final"
+    },
+    "instantReply": {
+      "title": "Respuesta Instantánea",
+      "text": "Preaprobación inmediata"
+    },
+    "loansGranted": {
+      "title": "Préstamos Otorgados",
+      "text": "200.000 usuarios ya han recibido su préstamo con el simulador Myloan"
+    },
+    "realtimeSubscription": {
+      "title": "Suscripción en tiempo real",
+      "text": "Firma en directo"
+    },
+    "button": "¡Lo aprovecho!"
+  },
+   "acheterMaison": {
+    "card": {
+      "title": "Comprar una casa:",
+      "subtitle": "realiza tu sueño inmobiliario con un préstamo adecuado",
+      "description": "Comprar una casa es un paso importante en la vida, a menudo sinónimo de estabilidad e inversión a largo plazo. Para llevar a cabo este proyecto, es esencial comprender las diferentes opciones de financiación disponibles. Un préstamo hipotecario adaptado a tu situación financiera puede marcar la diferencia. Descubre cómo elegir el préstamo adecuado, los criterios a considerar y los pasos clave para comprar tu casa con total tranquilidad."
+    },
+    "sections": {
+      "text1": {
+        "title": "¿Qué es un ",
+        "highlight": "préstamo hipotecario?",
+        "paragraph": "Un préstamo hipotecario es una financiación destinada a la compra de bienes inmuebles. Permite pedir prestada una suma importante de dinero durante un largo período, generalmente de 15 a 25 años. Este tipo de préstamo está diseñado específicamente para ayudar a los compradores a realizar su proyecto inmobiliario distribuyendo el reembolso en varios años."
+      },
+      "text2": {
+        "title": "¿Por qué contratar un ",
+        "highlight": "préstamo hipotecario?",
+        "paragraph": "Contratar un préstamo hipotecario tiene varias ventajas. En primer lugar, permite financiar la compra de una vivienda sin tener que usar la mayor parte de tus ahorros. Además, las tasas de interés de los préstamos hipotecarios suelen ser más favorables que otros tipos de crédito, lo que hace que el coste total de la financiación sea más asequible. Finalmente, los préstamos hipotecarios pueden ofrecer beneficios fiscales, especialmente en lo que respecta a los intereses."
+      },
+      "text3": {
+        "title": "¿Cómo elegir el ",
+        "highlight": "préstamo hipotecario adecuado?",
+        "paragraph": "La elección del préstamo hipotecario depende de varios criterios. Es importante tener en cuenta el importe prestado, la duración del préstamo, la tasa de interés (fija o variable), así como las comisiones adicionales como los gastos de tramitación y el seguro del prestatario. También es recomendable comparar las ofertas de diferentes bancos e instituciones financieras para encontrar la que mejor se adapte a tu perfil y proyecto."
+      },
+      "text4": {
+        "title": "Los pasos clave para ",
+        "highlight": "comprar una casa",
+        "paragraph": "Comprar una casa con un préstamo hipotecario implica varios pasos. Primero, es esencial definir tu presupuesto y buscar la propiedad que se ajuste a tus necesidades. Luego, debes preparar una solicitud sólida para el préstamo, proporcionando todos los documentos requeridos. Una vez aprobado el préstamo, se debe firmar la oferta y posteriormente el contrato de compraventa ante notario. Finalmente, es importante gestionar correctamente los pagos durante toda la duración del préstamo."
+      }
+    }
+  },
+   "besoinFinancement": {
+    "card": {
+      "title": "Necesidad de financiación:",
+      "h2": "realiza tus proyectos",
+      "description": "Esta sección está dedicada a tus necesidades de financiación. Ya sea que quieras realizar reformas, comprar un vehículo o financiar un proyecto personal, estamos aquí para guiarte en el proceso. No dudes en compartir tus necesidades y expectativas con nosotros."
+    },
+    "texte1": {
+      "title1": "¿Qué es un ",
+      "colorTitle": "préstamo personal?",
+      "paragraph": "Un préstamo personal es un financiamiento destinado a proyectos personales, como reformas, compra de un vehículo o gastos imprevistos. A diferencia de un préstamo hipotecario, no requiere garantía y puede obtenerse rápidamente."
+    },
+    "texte2": {
+      "title1": "¿Por qué elegir un ",
+      "colorTitle": "préstamo personal?",
+      "paragraph": "El préstamo personal ofrece gran flexibilidad, con montos y plazos de pago adaptados a tus necesidades. Además, las tasas de interés suelen ser competitivas, lo que lo convierte en una opción atractiva para financiar tus proyectos."
+    },
+    "texte3": {
+      "title1": "¿Cómo obtener un ",
+      "colorTitle": "préstamo personal?",
+      "paragraph": "Para obtener un préstamo personal, simplemente contáctanos para discutir tu proyecto. Te guiaremos a través del proceso de solicitud, ayudándote a reunir los documentos necesarios y explicándote las condiciones del préstamo."
+    }
+  },
+  "creditAuto": {
+    "card": {
+      "title": "Préstamo de coche:",
+      "h2": "financia tu vehículo con tranquilidad",
+      "description": "El préstamo de coche es una solución de financiación específicamente diseñada para la compra de un vehículo. Ya sea un coche nuevo o de segunda mano, este tipo de préstamo te permite financiar tu proyecto automovilístico con confianza, ofreciendo condiciones ventajosas y soporte personalizado."
+    },
+    "texte1": {
+      "title1": "¿Qué es un ",
+      "colorTitle": "préstamo de coche?",
+      "paragraph": "El préstamo de coche es un préstamo destinado a financiar la compra de un vehículo, ya sea nuevo o de segunda mano. Permite a los prestatarios repartir el coste de la compra durante un periodo determinado, facilitando la gestión del presupuesto."
+    },
+    "texte2": {
+      "title1": "¿Por qué elegir un ",
+      "colorTitle": "préstamo de coche?",
+      "paragraph": "El préstamo de coche ofrece varias ventajas, incluyendo tasas de interés competitivas y condiciones de reembolso flexibles. Además, permite conservar tus ahorros mientras realizas tu proyecto automovilístico."
+    },
+    "texte3": {
+      "title1": "¿Cómo obtener un ",
+      "colorTitle": "préstamo de coche?",
+      "paragraph": "Para obtener un préstamo de coche, simplemente contáctanos para discutir tu proyecto. Te guiaremos durante todo el proceso de solicitud, ayudándote a reunir los documentos necesarios y explicándote las condiciones del préstamo."
+    }
+  }
+}
