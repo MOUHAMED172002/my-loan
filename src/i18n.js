@@ -4,7 +4,7 @@ import fr from '../public/locales/fr/translation.json';
 import en from '../public/locales/en/translation.json';
 import es from '../public/locales/es/translation.json';
 import pt from '../public/locales/pt/translation.json';
-import al from '../public/locales/al/translation.json';
+import de from '../public/locales/de/translation.json';
 import it from '../public/locales/it/translation.json';
 
 
@@ -24,8 +24,8 @@ const resources = {
   pt: {
     translation: pt
   },
-  al: {
-    translation: al
+  de: {
+    translation: de
   },
   it: {
     translation: it

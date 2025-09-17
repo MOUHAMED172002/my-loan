@@ -261,6 +261,316 @@
       "colorTitle": "empréstimo automóvel?",
       "paragraph": "Para obter um empréstimo automóvel, basta contactar-nos para discutir o seu projeto. Nós iremos guiá-lo durante todo o processo de candidatura, ajudando-o a reunir os documentos necessários e explicando-lhe as condições do empréstimo."
     }
+  },
+   "creditExpress": {
+    "card": {
+      "title": "Crédito Rápido:",
+      "h2": "Como obter fundos rapidamente?",
+      "description": "Precisa de um impulso rápido para lidar com uma emergência? O crédito rápido é uma solução de empréstimo instantâneo com procedimentos simplificados. Reparações, compras ou contas inesperadas: adapta-se a qualquer situação. Este empréstimo urgente permite obter fundos imediatos sem ter que fornecer inúmeros documentos. A Youdge detalha as condições (taxas, requisitos, vantagens, etc.) e como subscrever ao crédito rápido passo a passo."
+    },
+    "texte1": {
+      "title1": "O que é ",
+      "colorTitle": "crédito rápido?",
+      "paragraph": "O crédito rápido faz parte da família de crédito ao consumo, mas destaca-se pela rapidez de execução e formalidades simplificadas. Ao contrário dos créditos tradicionais, o crédito rápido online oferece taxas anuais atrativas e acompanhamento em tempo real do processo via e-mail ou SMS, tornando-o uma solução ideal em caso de imprevistos."
+    },
+    "texte2": {
+      "title1": "",
+      "colorTitle": "Para quem é ",
+      "title2": "o crédito rápido?",
+      "paragraph": "O crédito rápido destina-se a adultos cuja residência fiscal está em França e que necessitam de dinheiro rapidamente. As instituições que o oferecem são cada vez mais numerosas e dirigem-se a todos os perfis de consumidores. No entanto, nem todas estas instituições são iguais e, muitas vezes, é mais vantajoso recorrer a um comparador de crédito, que liste as diferentes ofertas online e apresente instantaneamente as mais vantajosas."
+    },
+    "texte3": {
+      "title1": "Quanto tempo leva para ",
+      "colorTitle": "os fundos serem liberados?",
+      "paragraph": "Uma das principais vantagens do crédito rápido online é a liberação rápida dos fundos. Após o acordo inicial, normalmente não leva mais de 48 horas para receber a transferência na conta, juntamente com o período legal de arrependimento, se aplicável. Em alguns casos, a liberação é imediata. Isso torna o crédito rápido uma solução ideal para necessidades urgentes, sem precisar justificar o uso dos fundos. Além disso, é possível realizar um reembolso antecipado com penalidades reduzidas, ao contrário de algumas instituições financeiras. Isso representa uma vantagem significativa para todos os tipos de crédito rápido, desde microcréditos a valores maiores."
+    },
+    "texte4": {
+      "title1": "",
+      "colorTitle": "Por que solicitar ",
+      "title2": "o crédito rápido?",
+      "paragraph": "A vantagem do crédito rápido é que ele é acessível à maioria das pessoas. Solicitar crédito rápido online é possível para qualquer pessoa que precise de dinheiro rapidamente, seja para obras em casa, comprar um veículo, passagens aéreas ou criar uma reserva de dinheiro para despesas imprevistas. Este crédito rápido tem pontos fortes interessantes e permite realizar projetos rapidamente. A principal vantagem é que a solicitação pode ser feita em poucos cliques. Rapidez e simplicidade são os seus principais pontos fortes."
+    }
+  },
+  "creditInstantane": {
+    "card": {
+      "title": "Crédito Instantâneo:",
+      "h2": "Obtenha fundos rapidamente",
+      "description": "O crédito instantâneo é uma solução de financiamento que permite obter fundos rapidamente, sem os prazos habituais dos bancos tradicionais. Seja para um projeto urgente ou uma despesa imprevista, este tipo de empréstimo é projetado para atender às suas necessidades imediatas de liquidez."
+    },
+    "texte1": {
+      "title1": "O que é ",
+      "colorTitle": "crédito instantâneo?",
+      "paragraph": "O crédito instantâneo faz parte da família de crédito ao consumidor, mas se diferencia pela rapidez de execução e formalidades simplificadas. Ao contrário dos créditos tradicionais, o crédito instantâneo online oferece taxas anuais atraentes e acompanhamento em tempo real do seu processo via e-mails ou SMS, tornando-se uma solução ideal em caso de imprevistos."
+    },
+    "texte2": {
+      "title1": "",
+      "colorTitle": "Para quem é ",
+      "title2": "o crédito instantâneo?",
+      "paragraph": "O crédito instantâneo destina-se a adultos com residência fiscal na França que necessitam de dinheiro rapidamente. As instituições que o oferecem são cada vez mais numerosas e atendem a todos os perfis de consumidores. No entanto, nem todas são iguais, e muitas vezes é mais vantajoso usar um comparador de crédito que liste as diferentes ofertas online e apresente imediatamente as mais vantajosas."
+    },
+    "texte3": {
+      "title1": "Quanto tempo leva para ",
+      "colorTitle": "liberar os fundos?",
+      "paragraph": "Uma das principais vantagens do crédito instantâneo online é a liberação rápida dos fundos. Após a aprovação inicial, geralmente não leva mais de 48 horas para receber a transferência na sua conta, juntamente com o prazo legal de cancelamento, se aplicável. Em alguns casos, a liberação é imediata. Isso torna o crédito instantâneo uma solução ideal para necessidades urgentes, sem precisar justificar o uso dos fundos. Além disso, é possível efetuar pagamento antecipado com penalidades reduzidas, ao contrário de algumas instituições financeiras."
+    },
+    "texte4": {
+      "title1": "",
+      "colorTitle": "Por que solicitar ",
+      "title2": "o crédito instantâneo?",
+      "paragraph": "A vantagem do crédito instantâneo é que ele é acessível à maioria. Solicitar um crédito instantâneo online é possível para qualquer pessoa que precise de liquidez em curto prazo, seja qual for o motivo: reparos em casa, compra de veículo, passagens aéreas ou criar uma reserva de dinheiro para despesas imprevistas. Este crédito rápido permite realizar projetos rapidamente e a solicitação pode ser feita em poucos cliques. Sua principal força é a rapidez e simplicidade."
+    }
+  },
+  "creditRenouvelable": {
+    "card": {
+      "title": "Crédito Renovável:",
+      "h2": "Uma solução de financiamento flexível",
+      "description": "O crédito renovável é uma solução de financiamento flexível que permite acessar fundos a qualquer momento, dentro de um limite predefinido. Funciona como uma reserva de dinheiro que o tomador pode usar conforme suas necessidades, com pagamentos adaptados à sua situação financeira. Esta opção é ideal para projetos que exigem flexibilidade no financiamento."
+    },
+    "texte1": {
+      "colorTitle": "O que é ",
+      "title2": "crédito renovável?",
+      "paragraph": "O crédito renovável é um tipo de empréstimo que permite ao tomador ter uma reserva de dinheiro que pode ser usada a qualquer momento, dentro de um limite pré-definido."
+    },
+    "texte2": {
+      "title1": "Funcionamento do ",
+      "colorTitle": "crédito renovável",
+      "paragraph": "O crédito renovável funciona como uma reserva de dinheiro que o tomador pode usar conforme suas necessidades. Quando uma parte dessa reserva é utilizada, deve-se reembolsar o valor usado, com juros calculados sobre o valor emprestado."
+    },
+    "texte3": {
+      "title1": "Vantagens do ",
+      "colorTitle": "crédito renovável",
+      "paragraph": "O crédito renovável oferece grande flexibilidade, pois o tomador pode usar os fundos conforme suas necessidades e reembolsar no seu próprio ritmo. Além disso, permite lidar com despesas inesperadas ou financiar projetos de curto prazo."
+    },
+    "texte4": {
+      "colorTitle": "Condições para obter ",
+      "title2": "crédito renovável",
+      "paragraph": "Para obter crédito renovável, o tomador geralmente deve fornecer informações sobre sua situação financeira, incluindo renda e despesas. As condições variam de acordo com o credor."
+    }
+  },
+  "creditSansJustificatif": {
+    "card": {
+      "title": "Crédito Sem Comprovativo:",
+      "h2": "Obtenha fundos rapidamente",
+      "description": "Esta seção é dedicada ao crédito sem comprovativo. Quer pretenda financiar um projeto pessoal, uma compra urgente ou qualquer outra despesa, estamos aqui para ajudá-lo no processo. Não hesite em comunicar as suas necessidades e expectativas."
+    },
+    "texte1": {
+      "title1": "O que é um ",
+      "colorTitle": "crédito sem comprovativo",
+      "paragraph": "O crédito sem comprovativo é uma solução de financiamento que permite obter fundos rapidamente, sem ter que fornecer comprovativos de despesas. Isto o torna especialmente adequado para projetos pessoais ou compras urgentes."
+    },
+    "texte2": {
+      "title1": "Funcionamento do ",
+      "colorTitle": "crédito sem comprovativo",
+      "paragraph": "O crédito sem comprovativo funciona de forma semelhante a outros tipos de crédito ao consumo. O tomador solicita o crédito e, se aprovado, recebe os fundos rapidamente, muitas vezes em poucos dias."
+    },
+    "texte3": {
+      "title1": "Vantagens do ",
+      "colorTitle": "crédito sem comprovativo",
+      "paragraph": "A principal vantagem do crédito sem comprovativo é a rapidez e simplicidade do processo. Não é necessário fornecer documentos detalhando a utilização dos fundos, o que acelera a aprovação e liberação."
+    },
+    "texte4": {
+      "title1": "Condições para obter ",
+      "colorTitle": "crédito sem comprovativo",
+      "paragraph": "Para obter crédito sem comprovativo, o tomador geralmente deve fornecer informações sobre sua situação financeira, incluindo renda e despesas. As condições variam de acordo com o credor."
+    }
+  },
+  "creerEntreprise": {
+    "card": {
+      "title": "Criar uma Empresa:",
+      "h2": "Dê vida ao seu projeto",
+      "description": "Esta seção é dedicada ao seu projeto de criação de empresa. Quer pretenda lançar uma startup, abrir um comércio ou desenvolver um negócio existente, estamos aqui para ajudá-lo nos passos de financiamento. Não hesite em comunicar as suas necessidades e expectativas."
+    },
+    "texte1": {
+      "title1": "O que é um ",
+      "colorTitle": "crédito para criação de empresa?",
+      "paragraph": "O crédito para criação de empresa é uma solução de financiamento especialmente concebida para ajudar os empreendedores a lançar o seu projeto. Pode assumir a forma de empréstimos, subvenções ou outros instrumentos de apoio financeiro."
+    },
+    "texte2": {
+      "title1": "Por que escolher um ",
+      "colorTitle": "crédito para criação de empresa?",
+      "paragraph": "Escolher um crédito para criação de empresa oferece várias vantagens. Permite dispor dos fundos necessários para iniciar a atividade, investir em equipamentos, cobrir os custos operacionais iniciais e reforçar a credibilidade junto de parceiros e clientes."
+    },
+    "texte3": {
+      "title1": "Como obter um ",
+      "colorTitle": "crédito para criação de empresa?",
+      "paragraph": "Para obter um crédito para criação de empresa, geralmente é necessário apresentar um dossiê sólido que inclua um plano de negócios, previsões financeiras e informações sobre a equipa de gestão."
+    }
+  },
+  "pretEtudiant": {
+    "card": {
+      "title": "Empréstimo Estudantil:",
+      "h2": "Financie seus estudos",
+      "description": "O empréstimo estudantil é uma solução de financiamento especialmente projetada para estudantes. Permite cobrir taxas escolares, despesas de vida e outros custos relacionados aos estudos. Com condições vantajosas e taxas de juros competitivas, este empréstimo ajuda você a se concentrar nos estudos sem se preocupar com as finanças."
+    },
+    "texte1": {
+      "title1": "O que é um ",
+      "colorTitle": "empréstimo estudantil?",
+      "paragraph": "O empréstimo estudantil é uma solução de financiamento projetada para ajudar os estudantes a cobrir taxas escolares, despesas de vida e outros custos relacionados aos estudos. Pode assumir a forma de empréstimos com juros reduzidos, bolsas de estudo ou outros programas de auxílio financeiro."
+    },
+    "texte2": {
+      "title1": "Por que escolher um ",
+      "colorTitle": "empréstimo estudantil?",
+      "paragraph": "Escolher um empréstimo estudantil apresenta várias vantagens. Ele fornece os fundos necessários para financiar os estudos, alivia a carga financeira durante o período de aprendizagem e oferece condições de reembolso flexíveis."
+    },
+    "texte3": {
+      "title1": "Como obter um ",
+      "colorTitle": "empréstimo estudantil?",
+      "paragraph": "Para obter um empréstimo estudantil, geralmente é necessário apresentar um dossiê completo contendo informações sobre o curso, necessidades financeiras e eventuais garantias."
+    }
+  },
+  "creditVoyage": {
+    "card": {
+      "title": "Viagem",
+      "h2": "Realize seus sonhos de fuga",
+      "description": "Esta seção é dedicada ao seu projeto de viagem. Quer você queira sair de férias, organizar uma viagem de negócios ou descobrir novos destinos, estamos aqui para apoiá-lo no processo de financiamento. Sinta-se à vontade para compartilhar suas necessidades e expectativas."
+    },
+    "texte1": {
+      "title1": "O que é um ",
+      "colorTitle": "crédito viagem?",
+      "paragraph": "O crédito viagem é uma solução de financiamento projetada especificamente para ajudar os viajantes a realizar seus projetos de fuga. Pode cobrir transporte, hospedagem, alimentação e atividades no local."
+    },
+    "texte2": {
+      "title1": "Por que escolher um ",
+      "colorTitle": "crédito viagem?",
+      "paragraph": "Escolher um crédito viagem apresenta várias vantagens. Fornece os fundos necessários para financiar seus projetos de fuga, alivia a carga financeira durante o planejamento da viagem e oferece condições de reembolso flexíveis."
+    },
+    "texte3": {
+      "title1": "Como obter um ",
+      "colorTitle": "crédito viagem?",
+      "paragraph": "Para obter um crédito viagem, geralmente é necessário apresentar uma solicitação completa incluindo informações sobre o projeto de viagem, necessidades financeiras e garantias possíveis."
+    }
+  },
+  "creditTravaux": {
+    "card": {
+      "title": "Empréstimo para Obras:",
+      "h2": "Financie seus projetos de renovação",
+      "description": "Esta seção é dedicada ao seu projeto de obras. Quer você queira renovar sua casa, melhorar a eficiência energética ou realizar ampliações, estamos aqui para apoiá-lo no processo de financiamento. Sinta-se à vontade para compartilhar suas necessidades e expectativas."
+    },
+    "texte1": {
+      "title1": "O que é um ",
+      "colorTitle": "empréstimo para obras?",
+      "paragraph": "O empréstimo para obras é uma solução de financiamento projetada para ajudar os proprietários a realizar trabalhos de renovação, melhoria ou ampliação de sua casa. Pode cobrir os custos de materiais, mão de obra e outras despesas relacionadas às obras."
+    },
+    "texte2": {
+      "title1": "Por que escolher um ",
+      "colorTitle": "empréstimo para obras?",
+      "paragraph": "Escolher um empréstimo para obras apresenta várias vantagens. Fornece os fundos necessários para financiar projetos de renovação, melhora o valor do imóvel e oferece condições de reembolso flexíveis."
+    },
+    "texte3": {
+      "title1": "Como obter um ",
+      "colorTitle": "empréstimo para obras?",
+      "paragraph": "Para obter um empréstimo para obras, geralmente é necessário apresentar uma solicitação completa incluindo informações sobre o projeto de obras, necessidades financeiras e garantias possíveis."
+    }
+  },
+  "rachatCredit": {
+    "card": {
+      "title": "Compra de Crédito:",
+      "h2": "Simplifique suas finanças",
+      "description": "Esta seção é dedicada à compra de crédito. Quer você queira consolidar seus empréstimos para reduzir suas parcelas mensais ou se beneficiar de uma taxa melhor, estamos aqui para apoiá-lo no processo. Sinta-se à vontade para compartilhar suas necessidades e expectativas."
+    },
+    "texte1": {
+      "title1": "O que é a ",
+      "colorTitle": "compra de crédito?",
+      "paragraph": "A compra de crédito é uma operação financeira que consiste em consolidar vários empréstimos em um único, a fim de simplificar a gestão das suas finanças e reduzir o valor das parcelas mensais."
+    },
+    "texte2": {
+      "title1": "Por que escolher a ",
+      "colorTitle": "compra de crédito?",
+      "paragraph": "Escolher a compra de crédito apresenta várias vantagens. Permite reduzir o valor das parcelas mensais, beneficiar-se de uma taxa de juros melhor e simplificar a gestão das suas finanças."
+    },
+    "texte3": {
+      "title1": "Como obter a ",
+      "colorTitle": "compra de crédito?",
+      "paragraph": "Para obter uma compra de crédito, geralmente é necessário apresentar um pedido completo com informações sobre os empréstimos a consolidar, necessidades financeiras e garantias possíveis."
+    }
+  },
+  "mariage": {
+    "card": {
+      "title": "Casar-se",
+      "h2": "Celebre seu amor",
+      "description": "Esta seção é dedicada ao seu projeto de casamento. Quer você queira organizar uma cerimônia íntima ou uma grande recepção, estamos aqui para apoiá-lo no processo de financiamento. Sinta-se à vontade para compartilhar suas necessidades e expectativas."
+    },
+    "texte1": {
+      "title1": "O que é um ",
+      "colorTitle": "empréstimo para casamento?",
+      "paragraph": "O empréstimo para casamento é uma solução de financiamento projetada especificamente para ajudar os casais a realizar seu projeto de casamento. Pode cobrir despesas relacionadas à organização da cerimônia, aluguel do local, decoração, fotografia e muito mais."
+    },
+    "texte2": {
+      "title1": "Por que escolher um ",
+      "colorTitle": "empréstimo para casamento?",
+      "paragraph": "Escolher um empréstimo para casamento apresenta várias vantagens. Permite dispor dos fundos necessários para financiar o casamento, reduzir o ônus financeiro e beneficiar-se de condições de reembolso flexíveis."
+    },
+    "texte3": {
+      "title1": "Como obter um ",
+      "colorTitle": "empréstimo para casamento?",
+      "paragraph": "Para obter um empréstimo para casamento, geralmente é necessário apresentar um pedido completo com informações sobre o projeto de casamento, necessidades financeiras e eventuais garantias."
+    }
+  },
+  "senior": {
+    "card": {
+      "title": "Seniores:",
+      "h2": "Aproveite nossas ofertas",
+      "description": "Esta seção é dedicada aos seniores. Quer você queira financiar um projeto de aposentadoria, uma viagem ou qualquer outra despesa, estamos aqui para apoiá-lo no processo de financiamento. Sinta-se à vontade para compartilhar suas necessidades e expectativas."
+    },
+    "texte1": {
+      "title1": "O que é um ",
+      "colorTitle": "empréstimo sénior?",
+      "paragraph": "O empréstimo sénior é uma solução de financiamento projetada especificamente para ajudar pessoas idosas a realizar seus projetos. Pode cobrir despesas relacionadas à saúde, à casa ou ao lazer."
+    },
+    "texte2": {
+      "title1": "Por que escolher um ",
+      "colorTitle": "empréstimo sénior?",
+      "paragraph": "Escolher um empréstimo sénior apresenta várias vantagens. Permite dispor dos fundos necessários para financiar seus projetos, reduzir o encargo financeiro e beneficiar-se de condições de reembolso flexíveis."
+    },
+    "texte3": {
+      "title1": "Como obter um ",
+      "colorTitle": "empréstimo sénior?",
+      "paragraph": "Para obter um empréstimo sénior, geralmente é necessário apresentar um pedido completo com informações sobre o projeto, necessidades financeiras e eventuais garantias."
+    }
+  },
+  "projet": {
+    "card": {
+      "title": "Seus Projetos:",
+      "h2": "Realize suas ambições",
+      "description": "Esta seção é dedicada aos seus projetos. Quer realizar obras, comprar um veículo ou financiar uma viagem, estamos aqui para apoiá-lo no processo de financiamento. Sinta-se à vontade para compartilhar suas necessidades e expectativas."
+    },
+    "texte1": {
+      "title1": "O que é um ",
+      "colorTitle": "empréstimo de projeto?",
+      "paragraph": "O empréstimo de projeto é uma solução de financiamento projetada especificamente para ajudar as pessoas a realizar seus projetos. Pode cobrir despesas relacionadas a obras, compra de veículo ou viagem."
+    },
+    "texte2": {
+      "title1": "Por que escolher um ",
+      "colorTitle": "empréstimo de projeto?",
+      "paragraph": "Escolher um empréstimo de projeto apresenta várias vantagens. Permite dispor dos fundos necessários para financiar o projeto, reduzir a carga financeira e beneficiar-se de condições de reembolso flexíveis."
+    },
+    "texte3": {
+      "title1": "Como obter um ",
+      "colorTitle": "empréstimo de projeto?",
+      "paragraph": "Para obter um empréstimo de projeto, geralmente é necessário apresentar um pedido completo com informações sobre o projeto, necessidades financeiras e eventuais garantias."
+    }
+  },
+  "translation":{
+    "menu": {
+    "creditExpress": "Crédito Expresso",
+    "creditInstantane": "Crédito Instantâneo",
+    "creditSansJustificatif": "Crédito sem Justificativo",
+    "creditRenouvelable": "Crédito Renovável",
+    "rachatCredit": "Recompra de Crédito",
+
+    "pretPersonnel": "Empréstimo Pessoal",
+    "pretTravaux": "Empréstimo para Obras",
+    "creditAuto": "Crédito Automóvel",
+    "besoinFinancement": "Necessidade de Financiamento",
+
+    "vosProjet": "Seus Projetos",
+    "seMarier": "Casar",
+    "faireVoyage": "Fazer uma Viagem",
+    "acheterMaison": "Comprar uma Casa",
+    "creerEntreprise": "Criar uma Empresa",
+    "etudiant": "Estudante",
+    "seniors": "Seniores"
+  }
   }
 
 }

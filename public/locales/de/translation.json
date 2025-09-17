@@ -1,0 +1,573 @@
+{
+    "footer": {
+    "company": {
+      "name": "MyLoan",
+      "slogan": "Ihr Partner für schnelle, einfache und sichere Kredite.",
+      "about": [
+        "Unabhängiges französisches Unternehmen",
+        "+300 Bankpartner",
+        "Personalisierte Unterstützung",
+        "100% digital und sicher",
+        "Reaktionsschneller Kundendienst"
+      ]
+    },
+    "navbar": {
+      "title": "Unsere Angebote",
+      "links": {
+        "creditExpress": "Expresskredit",
+        "personalLoan": "Privatkredit",
+        "projects": "Ihre Projekte",
+        "creditBuyback": "Kreditrückkauf",
+        "carLoan": "Autokredit"
+      }
+    },
+    "language": "Sprache",
+    "newsletter": {
+      "title": "Erhalten Sie unsere Neuigkeiten",
+      "placeholder": "Ihre E-Mail",
+      "button": "Abonnieren",
+      "success": "Vielen Dank für Ihre Anmeldung!"
+    },
+    "cta": "Ich beantrage einen Kredit",
+    "copyright": "Alle Rechte vorbehalten"
+  },
+    "badges": {
+        "security": "Sicherheit",
+        "digital": "100% digital",
+        "transfer72h": "Überweisung in 72h*",
+        "instant": "Sofort"
+  },
+  "cards": {
+    "express": {
+      "title": "Expresskredit",
+      "content": "Der Expresskredit bietet große Flexibilität für all Ihre dringenden Geldbedürfnisse: Ausgaben, Reparaturen oder unerwartete Rechnungen. Wenn Sie einen schnellen Kredit ohne Ablehnung suchen, wählen Sie die Einfachheit, indem Sie sofortigen Zugang zu Geldmitteln erhalten – ohne den Aufwand traditioneller Verfahren."
+    },
+    "auto": {
+      "title": "Autokredit",
+      "content": "Niedrigere Zinssätze als beim Privatkredit machen den Autokredit oft vorteilhafter, um den Kauf eines neuen Autos zu finanzieren. Entdecken Sie die besten Schnellkreditangebote im Youdge-Simulator und fahren Sie Ihrem Projekt entgegen, ohne durch Budgetmangel gebremst zu werden."
+    },
+    "personal": {
+      "title": "Privatkredite",
+      "content": "Brauchen Sie Geld für ein großes Projekt? Der Privatkredit ist da, um Ihre spezifischen Bedürfnisse zu erfüllen. Youdge erklärt Ihnen, wie er funktioniert, wie Sie Zugang erhalten und welche personalisierten Bedingungen gelten. Vergleichen Sie Angebote mit unserem Simulator und wählen Sie die Ruhe dieses schnellen und maßgeschneiderten Kredits!"
+    },
+    "works": {
+      "title": "Renovierungskredit",
+      "content": "Speziell entwickelt, um Ihnen bei der Umsetzung Ihrer Renovierungs- und Modernisierungsprojekte zu helfen, ist der Renovierungskredit der ideale Weg, Ihr Budget effektiv zu verwalten. Erfahren Sie, wie Sie sofort Mittel für Ihre Arbeiten erhalten können – dank der Schnellkreditangebote unseres Simulators."
+    },
+    "revolving": {
+      "title": "Rahmenkredit",
+      "content": "Wenn Sie jederzeit über eine dauerhafte Geldreserve verfügen möchten, ermöglicht Ihnen der Rahmenkredit den Zugriff wann immer Sie wollen. Dieser Schnellkredit bietet Ihnen die Flexibilität, die Sie benötigen, um Ihr Budget in Echtzeit zu verwalten. Finden Sie mit unserem Simulator das passende Angebot."
+    },
+    "consolidation": {
+      "title": "Kreditumschuldung",
+      "content": "Die Kreditumschuldung ist Ihre Chance, die Kontrolle über Ihre Finanzen zurückzugewinnen. Sie bietet eine Vielzahl von Lösungen, um Ihre Schulden effektiv zu konsolidieren und die Verwaltung Ihres Budgets zu vereinfachen. Youdge zeigt Ihnen, wie Sie sie nutzen können, um Ihre Sparchancen zu erhöhen."
+    },
+    "button": "Mehr erfahren"
+  },
+   "categories": {
+    "title1": "Der",
+    "colorTitle": "Schnellkredit",
+    "title2": "im Mittelpunkt unseres Geschäfts",
+    "paragraph": "Unsere Aufgabe ist es, Ihren Kreditantrag zu vereinfachen, indem Sie direkt online die besten Angebote auf dem Markt beantragen können. Als Experte für Schnellkredite ist Youdge hier, um Ihnen den Prozess zu erleichtern: weniger Schritte und Vermittler bis hin zur Auszahlung Ihres Kredits in nur wenigen Klicks! Vollständig digital und 100 % sicher garantieren wir einen Kredit, der auf Ihre Bedürfnisse zugeschnitten ist, unabhängig von der Dringlichkeit Ihres Projekts."
+  },
+  "clearfix": {
+    "title": {
+      "part1": "Der",
+      "highlight": "Reflex",
+      "part2": "der Ihren Kredit erleichtert",
+      "paragraph": "Unsere proprietäre Technologie analysiert in Echtzeit die Berechtigung Ihrer Kreditanfrage anhand der Kriterien unserer 300+ Partner, Kreditgeber und Online-Kreditorganisationen. Weniger Schritte, Formulare und Vermittler: Youdge zentralisiert alle Ihre Vorgänge in wenigen Klicks! Entdecken Sie die verschiedenen Arten von Schnellkrediten und finden Sie den, der zu Ihnen passt."
+    },
+    "cards": [
+      {
+        "title": "Einfach auswählen",
+        "paragraph": "den Kredit Ihrer Wahl über unseren Simulator"
+      },
+      {
+        "title": "Schnell ausfüllen",
+        "paragraph": "unser Formular in 4 Minuten direkt online"
+      },
+      {
+        "title": "Sofort erhalten",
+        "paragraph": "am Ende Ihres Formulars"
+      }
+    ]
+  },
+   "compteur": {
+    "title": {
+      "colorTitle": "Myloan,",
+      "title2": "ist auch:",
+      "paragraph": "Entdecken Sie unseren Vergleich anhand verschiedener Kennzahlen"
+    },
+    "items": [
+      { "number": 500, "description": "Partner (Makler und Kreditinstitute)" },
+      { "number": 6000, "description": "Finanzierungsanfragen pro Tag" },
+      { "number": 400000, "description": "vergebene Kredite" },
+      { "number": 500621, "description": "durchgeführte Kreditrückkäufe*" },
+      { "number": 600000, "description": "abgeschlossene persönliche Kreditprojekte*" },
+      { "number": 43987, "description": "abgeschlossene Autokreditprojekte*" }
+    ]
+  },
+   "card1ext": {
+    "button": "Jetzt beantragen"
+  },
+  "contacts": {
+    "title": "Kontaktieren Sie Uns",
+    "messaging": "Nachrichten",
+    "questions": "Fragen",
+    "appointment": "Termin Vereinbaren"
+  },
+  "infos": {
+    "title": "Finanzierungsbeispiele",
+    "card1": {
+      "title": "Leihen Sie €1000, zahlen Sie €36/Monat über 36 Monate zurück",
+      "description": "Beispiel für eine Finanzierung von €1000 (ohne optionale Versicherung) über 36 Monate mit festem effektiven Jahreszins von 20,89 %: 36 Raten zu je €36,71 über 36 Monate. Vom Kreditnehmer insgesamt zu zahlender Betrag: €1321,56 - davon €321,56 Zinsen - ohne optionale Versicherung. Die Kosten der optionalen Versicherung für den Kreditnehmer betragen €6,90 pro Monat und sind zur Monatsrate für Todesfall-, Invaliditäts- und Arbeitsunfähigkeitsabsicherung hinzuzufügen."
+    },
+    "card2": {
+      "title": "Leihen Sie €3000, zahlen Sie €80/Monat über 60 Monate zurück",
+      "description": "Beispiel für eine Finanzierung von €3000 (ohne optionale Versicherung) über 60 Monate mit festem effektiven Jahreszins von 22,91 %: 60 Raten zu je €80,83 über 60 Monate. Vom Kreditnehmer insgesamt zu zahlender Betrag: €4849,80 - davon €1849,80 Zinsen - ohne optionale Versicherung. Die Kosten der optionalen Versicherung für den Kreditnehmer betragen €20,70 pro Monat und sind zur Monatsrate für Todesfall-, Invaliditäts- und Arbeitsunfähigkeitsabsicherung hinzuzufügen."
+    },
+    "card3": {
+      "title": "Leihen Sie €5000, zahlen Sie €104/Monat über 72 Monate zurück",
+      "description": "Beispiel für eine Finanzierung von €5000 (ohne optionale Versicherung) über 72 Monate mit festem effektiven Jahreszins von 15,67 %: 72 Raten zu je €104,76 über 72 Monate. Vom Kreditnehmer insgesamt zu zahlender Betrag: €7542,72 - davon €2542,72 Zinsen - ohne optionale Versicherung. Die Kosten der optionalen Versicherung für den Kreditnehmer betragen €12,60 pro Monat und sind zur Monatsrate für Todesfall-, Invaliditäts- und Arbeitsunfähigkeitsabsicherung hinzuzufügen."
+    },
+    "card4": {
+      "title": "Leihen Sie €10000, zahlen Sie €208/Monat über 72 Monate zurück",
+      "description": "Beispiel für eine Finanzierung von €10000 (ohne optionale Versicherung) über 72 Monate mit festem effektiven Jahreszins von 15,67 %: 72 Raten zu je €208,76 über 72 Monate. Vom Kreditnehmer insgesamt zu zahlender Betrag: €15085,44 - davon €5085,44 Zinsen - ohne optionale Versicherung. Die Kosten der optionalen Versicherung für den Kreditnehmer betragen €25,20 pro Monat und sind zur Monatsrate für Todesfall-, Invaliditäts- und Arbeitsunfähigkeitsabsicherung hinzuzufügen."
+    }
+  },
+  "simulateur": {
+    "title": "Simulator",
+    "cards": {
+      "card1": "Sicher",
+      "card2": "100% digital",
+      "card3": "Überweisung 72h*",
+      "card4": "Sofortige Antwort"
+    }
+  },
+  "hero": {
+    "title": "MyLoan vereinfacht Ihre Online-Kreditanfrage",
+    "description": "Greifen Sie über unseren Kreditrechner auf die besten Angebote zu, die auf Ihre Situation zugeschnitten sind. Wählen Sie Ihren Kredit, erhalten Sie eine sofortige Vorabgenehmigung und schließen Sie in Echtzeit ab.",
+    "button": "Ich beantrage einen Kredit"
+  },
+  "heroForm": {
+    "name": "Name",
+    "namePlaceholder": "Brice Sam",
+    "amount": "Darlehensbetrag",
+    "amountPlaceholder": "Darlehensbetrag",
+    "type": "Dauer",
+    "creditExpress": "Expresskredit",
+    "creditAuto": "Autokredit",
+    "creditInstant": "Sofortkredit",
+    "creditNoDocs": "Kredit Ohne Dokumente",
+    "submit": "Angebote anzeigen"
+  },
+  "logue": {
+    "secure": {
+      "title": "Sicher",
+      "text": "Datenschutz garantiert"
+    },
+    "digital": {
+      "title": "100% digital",
+      "text": "Stellen Sie Ihre Kreditanfrage vollständig online."
+    },
+    "fastTransfer": {
+      "title": "Überweisung 72h*",
+      "text": "Ultra schnelle Freigabe der Mittel.",
+      "note": "*Nach gesetzlicher Widerrufsfrist und endgültiger Genehmigung"
+    },
+    "instantReply": {
+      "title": "Sofortige Antwort",
+      "text": "Sofortige Vorabgenehmigung"
+    },
+    "loansGranted": {
+      "title": "Kredite Gewährt",
+      "text": "200.000 Nutzer haben bereits ihren Kredit mit dem Myloan-Simulator erhalten"
+    },
+    "realtimeSubscription": {
+      "title": "Echtzeit-Abschluss",
+      "text": "Direkt unterschreiben"
+    },
+    "button": "Ich nutze es!"
+  },
+  "acheterMaison": {
+    "card": {
+      "title": "Ein Haus kaufen:",
+      "subtitle": "verwirklichen Sie Ihren Immobilientraum mit einem passenden Kredit",
+      "description": "Der Kauf eines Hauses ist ein wichtiger Schritt im Leben, oft gleichbedeutend mit Stabilität und einer langfristigen Investition. Um dieses Projekt zu realisieren, ist es entscheidend, die verschiedenen verfügbaren Finanzierungsmöglichkeiten zu verstehen. Ein Immobilienkredit, der auf Ihre finanzielle Situation zugeschnitten ist, kann den Unterschied ausmachen. Erfahren Sie, wie Sie den richtigen Kredit wählen, welche Kriterien zu berücksichtigen sind und welche Schlüsselphasen für einen erfolgreichen Hauskauf wichtig sind."
+    },
+    "sections": {
+      "text1": {
+        "title": "Was ist ein ",
+        "highlight": "Immobilienkredit?",
+        "paragraph": "Ein Immobilienkredit ist eine Finanzierung, die für den Kauf einer Immobilie bestimmt ist. Er ermöglicht es, eine große Geldsumme über einen langen Zeitraum, in der Regel 15 bis 25 Jahre, zu leihen. Diese Art von Kredit ist speziell dafür konzipiert, Käufern zu helfen, ihr Immobilienprojekt zu verwirklichen, indem die Rückzahlung über mehrere Jahre verteilt wird."
+      },
+      "text2": {
+        "title": "Warum einen ",
+        "highlight": "Immobilienkredit aufnehmen?",
+        "paragraph": "Ein Immobilienkredit bietet mehrere Vorteile. Erstens ermöglicht er die Finanzierung des Hauskaufs, ohne den Großteil der Ersparnisse verwenden zu müssen. Darüber hinaus sind die Zinssätze von Immobilienkrediten oft günstiger als bei anderen Kreditarten, wodurch die Gesamtkosten der Finanzierung erschwinglicher werden. Schließlich bietet ein Immobilienkredit steuerliche Vorteile, insbesondere in Bezug auf die Zinsen."
+      },
+      "text3": {
+        "title": "Wie wählt man den richtigen ",
+        "highlight": "Immobilienkredit?",
+        "paragraph": "Die Wahl des Immobilienkredits hängt von mehreren Kriterien ab. Es ist wichtig, den geliehenen Betrag, die Laufzeit des Kredits, den Zinssatz (fest oder variabel) sowie zusätzliche Kosten wie Bearbeitungsgebühren und die Kreditversicherung zu berücksichtigen. Es wird außerdem empfohlen, Angebote verschiedener Banken und Finanzinstitute zu vergleichen, um dasjenige zu finden, das am besten zu Ihrem Profil und Projekt passt."
+      },
+      "text4": {
+        "title": "Die wichtigsten Schritte zum ",
+        "highlight": "Hauskauf",
+        "paragraph": "Der Kauf eines Hauses mit einem Immobilienkredit erfolgt in mehreren Schritten. Zunächst sollte man sein Budget festlegen und die Immobilie suchen, die den eigenen Bedürfnissen entspricht. Danach muss ein solides Dossier für den Kreditantrag erstellt werden, mit allen erforderlichen Nachweisen. Nach der Kreditbewilligung ist es notwendig, das Kreditangebot zu unterzeichnen und anschließend den Kaufvertrag beim Notar zu unterzeichnen. Schließlich ist es wichtig, die Rückzahlung des Kredits während der gesamten Laufzeit gut zu verwalten."
+      }
+    }
+  },
+  "besoinFinancement": {
+    "card": {
+      "title": "Finanzierungsbedarf:",
+      "h2": "verwirklichen Sie Ihre Projekte",
+      "description": "Dieser Abschnitt ist Ihren Finanzierungsbedürfnissen gewidmet. Ob Sie Renovierungen durchführen, ein Fahrzeug kaufen oder ein persönliches Projekt finanzieren möchten, wir sind hier, um Sie durch den Prozess zu führen. Teilen Sie uns gerne Ihre Bedürfnisse und Erwartungen mit."
+    },
+    "texte1": {
+      "title1": "Was ist ein ",
+      "colorTitle": "Privatkredit?",
+      "paragraph": "Ein Privatkredit ist eine Finanzierung für persönliche Projekte, wie Renovierungen, Fahrzeugkäufe oder unerwartete Ausgaben. Im Gegensatz zu einem Hypothekendarlehen ist keine Sicherheit erforderlich und er kann schnell erhalten werden."
+    },
+    "texte2": {
+      "title1": "Warum einen ",
+      "colorTitle": "Privatkredit wählen?",
+      "paragraph": "Der Privatkredit bietet große Flexibilität, mit Beträgen und Rückzahlungsfristen, die auf Ihre Bedürfnisse zugeschnitten sind. Außerdem sind die Zinssätze oft wettbewerbsfähig, was ihn zu einer attraktiven Option für die Finanzierung Ihrer Projekte macht."
+    },
+    "texte3": {
+      "title1": "Wie erhält man einen ",
+      "colorTitle": "Privatkredit?",
+      "paragraph": "Um einen Privatkredit zu erhalten, kontaktieren Sie uns einfach, um Ihr Projekt zu besprechen. Wir führen Sie durch den Antragsprozess, helfen Ihnen, die erforderlichen Dokumente zu sammeln, und erklären Ihnen die Kreditbedingungen."
+    }
+  },
+  "creditAuto": {
+    "card": {
+      "title": "Autokredit:",
+      "h2": "finanzieren Sie Ihr Fahrzeug sorgenfrei",
+      "description": "Der Autokredit ist eine Finanzierungslösung, die speziell für den Kauf eines Fahrzeugs entwickelt wurde. Egal, ob es sich um ein neues oder gebrauchtes Auto handelt, dieser Kredit ermöglicht es Ihnen, Ihr Automobilprojekt sicher zu finanzieren, mit vorteilhaften Bedingungen und individueller Betreuung."
+    },
+    "texte1": {
+      "title1": "Was ist ein ",
+      "colorTitle": "Autokredit?",
+      "paragraph": "Ein Autokredit ist ein Darlehen, das zum Kauf eines Fahrzeugs, neu oder gebraucht, bestimmt ist. Es ermöglicht den Kreditnehmern, die Kosten ihres Kaufs über einen bestimmten Zeitraum zu verteilen, was die Budgetverwaltung erleichtert."
+    },
+    "texte2": {
+      "title1": "Warum einen ",
+      "colorTitle": "Autokredit wählen?",
+      "paragraph": "Ein Autokredit bietet mehrere Vorteile, darunter wettbewerbsfähige Zinssätze und flexible Rückzahlungsbedingungen. Außerdem können Sie Ihre Ersparnisse behalten, während Sie Ihr Automobilprojekt verwirklichen."
+    },
+    "texte3": {
+      "title1": "Wie erhält man einen ",
+      "colorTitle": "Autokredit?",
+      "paragraph": "Um einen Autokredit zu erhalten, kontaktieren Sie uns einfach, um Ihr Projekt zu besprechen. Wir führen Sie durch den gesamten Antragsprozess, helfen Ihnen bei der Zusammenstellung der erforderlichen Dokumente und erklären Ihnen die Kreditbedingungen."
+    }
+  },
+  "creditExpress": {
+    "card": {
+      "title": "Expresskredit:",
+      "h2": "Wie erhält man schnell Geld?",
+      "description": "Brauchen Sie schnell finanzielle Unterstützung in einem Notfall? Der Expresskredit ist eine Sofortkreditlösung mit vereinfachten Verfahren. Reparaturen, Einkäufe oder unerwartete Rechnungen: Er passt sich jeder Situation an. Dieser dringende Kredit ermöglicht es, sofortige Mittel zu erhalten, ohne zahlreiche Nachweise vorlegen zu müssen. Youdge erläutert die Konditionen (Zinsen, Bedingungen, Vorteile usw.) und wie man den Expresskredit Schritt für Schritt beantragt."
+    },
+    "texte1": {
+      "title1": "Was ist ",
+      "colorTitle": "ein Expresskredit?",
+      "paragraph": "Der Expresskredit gehört zur Familie der Verbraucherkredite, zeichnet sich jedoch durch seine schnelle Abwicklung und vereinfachte Formalitäten aus. Im Gegensatz zu traditionellen Krediten bietet der Online-Expresskredit attraktive Jahreszinsen und die Möglichkeit, den Antrag in Echtzeit per E-Mail oder SMS zu verfolgen, was ihn in unvorhergesehenen Situationen ideal macht."
+    },
+    "texte2": {
+      "title1": "",
+      "colorTitle": "Für wen ist ",
+      "title2": "der Expresskredit geeignet?",
+      "paragraph": "Der Expresskredit richtet sich an Erwachsene mit steuerlichem Wohnsitz in Frankreich, die schnell Geld benötigen. Die Anzahl der Anbieter wächst stetig und richtet sich an alle Verbraucherprofile. Dennoch sind nicht alle Anbieter gleichwertig, und es ist oft vorteilhaft, zunächst einen Kreditvergleich zu nutzen, der die verschiedenen Online-Kreditangebote auflistet und sofort die günstigsten vorschlägt."
+    },
+    "texte3": {
+      "title1": "Wie lange dauert es, bis ",
+      "colorTitle": "die Mittel freigegeben werden?",
+      "paragraph": "Ein Hauptvorteil des Online-Expresskredits ist die schnelle Auszahlung der Mittel. Nach der grundsätzlichen Zusage dauert es in der Regel nicht länger als 48 Stunden, bis die Überweisung auf Ihrem Konto erfolgt, zusammen mit der gesetzlichen Widerrufsfrist, falls zutreffend. In einigen Fällen erfolgt die Freigabe sofort. Dies macht den Expresskredit zu einer idealen Lösung für dringende Bedürfnisse, ohne dass Sie die Verwendung der Mittel rechtfertigen müssen. Außerdem ist eine vorzeitige Rückzahlung mit reduzierten Strafgebühren möglich, im Gegensatz zu einigen Finanzinstituten. Dies ist ein erheblicher Vorteil für alle Arten von Schnellkrediten, von Kleinkrediten bis hin zu höheren Beträgen."
+    },
+    "texte4": {
+      "title1": "",
+      "colorTitle": "Warum einen Antrag auf ",
+      "title2": "Expresskredit stellen?",
+      "paragraph": "Der Vorteil des Expresskredits ist, dass er für die Mehrheit zugänglich ist. Einen Expresskredit online zu beantragen, ist für jeden möglich, der kurzfristig Geld benötigt, unabhängig vom Grund: Renovierungsarbeiten, Autokauf, Flugtickets oder Bildung einer Rücklage für unvorhergesehene Ausgaben. Dieser schnelle Kredit bietet interessante Vorteile und ermöglicht eine zügige Umsetzung von Projekten. Der Vorteil dieses Kredits besteht darin, dass die Beantragung mit wenigen Klicks erfolgen kann. Schnelligkeit und Einfachheit sind seine Hauptstärken."
+    }
+  },
+  "creditInstantane": {
+    "card": {
+      "title": "Sofortkredit:",
+      "h2": "Schnell Geld erhalten",
+      "description": "Der Sofortkredit ist eine Finanzierungslösung, die es Ihnen ermöglicht, schnell Geld zu erhalten, ohne die üblichen Verzögerungen traditioneller Banken. Ob für ein dringendes Projekt oder unerwartete Ausgaben – dieser Kredit ist dafür konzipiert, Ihren sofortigen Liquiditätsbedarf zu decken."
+    },
+    "texte1": {
+      "title1": "Was ist ",
+      "colorTitle": "ein Sofortkredit?",
+      "paragraph": "Der Sofortkredit gehört zur Familie der Verbraucherkredite, zeichnet sich jedoch durch seine schnelle Abwicklung und vereinfachte Formalitäten aus. Im Gegensatz zu herkömmlichen Krediten bietet der Online-Sofortkredit attraktive Jahreszinsen und die Möglichkeit, den Antrag in Echtzeit per E-Mail oder SMS zu verfolgen, was ihn ideal bei unvorhergesehenen Ereignissen macht."
+    },
+    "texte2": {
+      "title1": "",
+      "colorTitle": "Für wen ist ",
+      "title2": "der Sofortkredit geeignet?",
+      "paragraph": "Der Sofortkredit richtet sich an Erwachsene mit steuerlichem Wohnsitz in Frankreich, die schnell Geld benötigen. Die Anzahl der Anbieter wächst stetig und richtet sich an alle Verbraucherprofile. Dennoch sind nicht alle Anbieter gleichwertig, und es ist oft vorteilhaft, zunächst einen Kreditvergleich zu nutzen, der die verschiedenen Online-Kreditangebote auflistet und sofort die günstigsten vorschlägt."
+    },
+    "texte3": {
+      "title1": "Wie lange dauert es, bis ",
+      "colorTitle": "die Mittel freigegeben werden?",
+      "paragraph": "Ein Hauptvorteil des Online-Sofortkredits ist die schnelle Auszahlung der Mittel. Nach der grundsätzlichen Zusage dauert es in der Regel nicht länger als 48 Stunden, bis die Überweisung auf Ihrem Konto erfolgt, zusammen mit der gesetzlichen Widerrufsfrist, falls zutreffend. In einigen Fällen erfolgt die Freigabe sofort. Dies macht den Sofortkredit zu einer idealen Lösung für dringende Bedürfnisse, ohne dass Sie die Verwendung der Mittel rechtfertigen müssen. Außerdem ist eine vorzeitige Rückzahlung mit reduzierten Strafgebühren möglich, im Gegensatz zu einigen Finanzinstituten."
+    },
+    "texte4": {
+      "title1": "",
+      "colorTitle": "Warum einen Antrag auf ",
+      "title2": "Sofortkredit stellen?",
+      "paragraph": "Der Vorteil des Sofortkredits ist, dass er für die Mehrheit zugänglich ist. Einen Sofortkredit online zu beantragen ist möglich für jeden, der kurzfristig Geld benötigt, unabhängig vom Grund: Renovierungen, Autokauf, Flugtickets oder Bildung einer Rücklage für unvorhergesehene Ausgaben. Dieser schnelle Kredit ermöglicht eine zügige Umsetzung von Projekten und kann mit wenigen Klicks beantragt werden. Seine Hauptstärken sind Geschwindigkeit und Einfachheit."
+    }
+  },
+   "creditRenouvelable": {
+    "card": {
+      "title": "Revolving-Kredit:",
+      "h2": "Eine flexible Finanzierungslösung",
+      "description": "Der Revolving-Kredit ist eine flexible Finanzierungslösung, die den Zugang zu Mitteln jederzeit innerhalb eines vordefinierten Limits ermöglicht. Er funktioniert wie eine Geldreserve, die der Kreditnehmer je nach Bedarf nutzen kann, mit Rückzahlungen, die an seine finanzielle Situation angepasst sind. Diese Option ist ideal für Projekte, die Flexibilität in der Finanzierung erfordern."
+    },
+    "texte1": {
+      "colorTitle": "Was ist ",
+      "title2": "der Revolving-Kredit?",
+      "paragraph": "Der Revolving-Kredit ist eine Form des Kredits, die es dem Kreditnehmer ermöglicht, über eine Geldreserve zu verfügen, die jederzeit innerhalb eines vordefinierten Limits genutzt werden kann."
+    },
+    "texte2": {
+      "title1": "Funktionsweise des ",
+      "colorTitle": "Revolving-Kredits",
+      "paragraph": "Der Revolving-Kredit funktioniert wie eine Geldreserve, die der Kreditnehmer je nach Bedarf nutzen kann. Wird ein Teil dieser Reserve verwendet, muss der verwendete Betrag mit den darauf berechneten Zinsen zurückgezahlt werden."
+    },
+    "texte3": {
+      "title1": "Vorteile des ",
+      "colorTitle": "Revolving-Kredits",
+      "paragraph": "Der Revolving-Kredit bietet große Flexibilität, da der Kreditnehmer die Mittel nach Bedarf nutzen und in seinem eigenen Tempo zurückzahlen kann. Außerdem ermöglicht er, unvorhergesehene Ausgaben zu bewältigen oder kurzfristige Projekte zu finanzieren."
+    },
+    "texte4": {
+      "colorTitle": "Bedingungen zur Erlangung des ",
+      "title2": "Revolving-Kredits",
+      "paragraph": "Um einen Revolving-Kredit zu erhalten, muss der Kreditnehmer in der Regel Informationen über seine finanzielle Situation, einschließlich Einkommen und Ausgaben, bereitstellen. Die Bedingungen variieren je nach Kreditgeber."
+    }
+  },
+  "creditSansJustificatif": {
+    "card": {
+      "title": "Kredit Ohne Nachweis:",
+      "h2": "Schnell Geld erhalten",
+      "description": "Dieser Abschnitt widmet sich dem Kredit ohne Nachweis. Egal, ob Sie ein persönliches Projekt, einen dringenden Kauf oder andere Ausgaben finanzieren möchten, wir unterstützen Sie bei Ihren Schritten. Teilen Sie uns Ihre Bedürfnisse und Erwartungen mit."
+    },
+    "texte1": {
+      "title1": "Was ist ein ",
+      "colorTitle": "Kredit ohne Nachweis",
+      "paragraph": "Kredit ohne Nachweis ist eine Finanzierungslösung, die es ermöglicht, schnell Geld zu erhalten, ohne Nachweise für Ausgaben vorlegen zu müssen. Dies macht ihn besonders geeignet für persönliche Projekte oder dringende Anschaffungen."
+    },
+    "texte2": {
+      "title1": "Funktionsweise des ",
+      "colorTitle": "Kredit ohne Nachweis",
+      "paragraph": "Kredit ohne Nachweis funktioniert ähnlich wie andere Arten von Verbraucherkrediten. Der Antragsteller stellt einen Kreditantrag, und wenn er genehmigt wird, erhält er die Mittel schnell, oft innerhalb weniger Tage."
+    },
+    "texte3": {
+      "title1": "Vorteile des ",
+      "colorTitle": "Kredit ohne Nachweis",
+      "paragraph": "Der Hauptvorteil des Kredits ohne Nachweis ist die Geschwindigkeit und Einfachheit des Prozesses. Es ist nicht notwendig, Dokumente über die Verwendung der Mittel vorzulegen, was die Genehmigung und Auszahlung beschleunigt."
+    },
+    "texte4": {
+      "title1": "Bedingungen zur Erlangung des ",
+      "colorTitle": "Kredit ohne Nachweis",
+      "paragraph": "Um einen Kredit ohne Nachweis zu erhalten, muss der Antragsteller in der Regel Angaben zu seiner finanziellen Situation machen, einschließlich Einkommen und Ausgaben. Die Bedingungen variieren je nach Kreditgeber."
+    }
+  },
+   "creerEntreprise": {
+    "card": {
+      "title": "Ein Unternehmen Gründen:",
+      "h2": "Verwirklichen Sie Ihr Projekt",
+      "description": "Dieser Abschnitt widmet sich Ihrem Unternehmensgründungsprojekt. Ob Sie ein Startup gründen, ein Geschäft eröffnen oder ein bestehendes Unternehmen ausbauen möchten, wir unterstützen Sie bei Ihren Finanzierungsschritten. Teilen Sie uns Ihre Bedürfnisse und Erwartungen mit."
+    },
+    "texte1": {
+      "title1": "Was ist ein ",
+      "colorTitle": "Gründungskredit?",
+      "paragraph": "Ein Gründungskredit ist eine Finanzierungslösung, die speziell darauf ausgelegt ist, Unternehmern beim Start ihres Projekts zu helfen. Er kann in Form von Darlehen, Zuschüssen oder anderen finanziellen Hilfsmitteln bereitgestellt werden."
+    },
+    "texte2": {
+      "title1": "Warum einen ",
+      "colorTitle": "Gründungskredit wählen?",
+      "paragraph": "Die Wahl eines Gründungskredits bietet mehrere Vorteile. Er stellt die erforderlichen Mittel zur Verfügung, um die Tätigkeit zu starten, in Ausrüstung zu investieren, die anfänglichen Betriebskosten zu decken und die Glaubwürdigkeit bei Partnern und Kunden zu stärken."
+    },
+    "texte3": {
+      "title1": "Wie erhält man einen ",
+      "colorTitle": "Gründungskredit?",
+      "paragraph": "Um einen Gründungskredit zu erhalten, ist es in der Regel erforderlich, eine solide Unterlage vorzulegen, die einen Geschäftsplan, Finanzprognosen und Informationen über das Managementteam enthält."
+    }
+  },
+   "pretEtudiant": {
+    "card": {
+      "title": "Studentenkredit:",
+      "h2": "Finanzieren Sie Ihr Studium",
+      "description": "Der Studentenkredit ist eine Finanzierungslösung, die speziell für Studierende entwickelt wurde. Er ermöglicht die Deckung von Studiengebühren, Lebenshaltungskosten und anderen studienbezogenen Ausgaben. Mit günstigen Bedingungen und wettbewerbsfähigen Zinssätzen hilft Ihnen dieser Kredit, sich auf Ihr Studium zu konzentrieren, ohne sich um Ihre Finanzen sorgen zu müssen."
+    },
+    "texte1": {
+      "title1": "Was ist ein ",
+      "colorTitle": "Studentenkredit?",
+      "paragraph": "Der Studentenkredit ist eine Finanzierungslösung, die speziell dazu entwickelt wurde, Studierenden zu helfen, Studiengebühren, Lebenshaltungskosten und andere studienbezogene Kosten zu decken. Er kann in Form von zinsgünstigen Darlehen, Stipendien oder anderen finanziellen Hilfsprogrammen angeboten werden."
+    },
+    "texte2": {
+      "title1": "Warum einen ",
+      "colorTitle": "Studentenkredit wählen?",
+      "paragraph": "Die Wahl eines Studentenkredits bietet mehrere Vorteile. Er stellt die notwendigen Mittel zur Verfügung, um das Studium zu finanzieren, erleichtert die finanzielle Belastung während der Lernphase und bietet flexible Rückzahlungsbedingungen."
+    },
+    "texte3": {
+      "title1": "Wie erhält man einen ",
+      "colorTitle": "Studentenkredit?",
+      "paragraph": "Um einen Studentenkredit zu erhalten, ist es in der Regel erforderlich, einen vollständigen Antrag vorzulegen, der Informationen zum Studiengang, den finanziellen Bedürfnissen und eventuellen Sicherheiten enthält."
+    }
+  },
+  "creditVoyage": {
+    "card": {
+      "title": "Reisekredit",
+      "h2": "Verwirklichen Sie Ihre Reiseträume",
+      "description": "Dieser Abschnitt ist Ihrem Reiseprojekt gewidmet. Ob Sie in den Urlaub fahren, eine Geschäftsreise planen oder neue Ziele entdecken möchten, wir unterstützen Sie beim Finanzierungsprozess. Teilen Sie uns gerne Ihre Bedürfnisse und Erwartungen mit."
+    },
+    "texte1": {
+      "title1": "Was ist ein ",
+      "colorTitle": "Reisekredit?",
+      "paragraph": "Der Reisekredit ist eine Finanzierungslösung, die speziell entwickelt wurde, um Reisenden zu helfen, ihre Reiseprojekte zu verwirklichen. Er kann Transport, Unterkunft, Verpflegung und Aktivitäten vor Ort abdecken."
+    },
+    "texte2": {
+      "title1": "Warum einen ",
+      "colorTitle": "Reisekredit wählen?",
+      "paragraph": "Die Wahl eines Reisekredits bietet mehrere Vorteile. Er stellt die notwendigen Mittel zur Verfügung, um Ihre Reiseprojekte zu finanzieren, verringert die finanzielle Belastung während der Reiseplanung und bietet flexible Rückzahlungsbedingungen."
+    },
+    "texte3": {
+      "title1": "Wie erhält man einen ",
+      "colorTitle": "Reisekredit?",
+      "paragraph": "Um einen Reisekredit zu erhalten, ist es in der Regel notwendig, einen vollständigen Antrag mit Informationen über das Reiseprojekt, den finanziellen Bedarf und mögliche Sicherheiten einzureichen."
+    }
+  },
+  "creditTravaux": {
+    "card": {
+      "title": "Baudarlehen:",
+      "h2": "Finanzieren Sie Ihre Renovierungsprojekte",
+      "description": "Dieser Abschnitt ist Ihrem Renovierungsprojekt gewidmet. Ob Sie Ihr Haus renovieren, die Energieeffizienz verbessern oder Erweiterungen durchführen möchten, wir unterstützen Sie im Finanzierungsprozess. Teilen Sie uns gerne Ihre Bedürfnisse und Erwartungen mit."
+    },
+    "texte1": {
+      "title1": "Was ist ein ",
+      "colorTitle": "Baudarlehen?",
+      "paragraph": "Das Baudarlehen ist eine Finanzierungslösung, die speziell entwickelt wurde, um Eigentümern bei Renovierungs-, Verbesserungs- oder Erweiterungsarbeiten zu helfen. Es kann Material-, Arbeits- und sonstige mit den Arbeiten verbundene Kosten abdecken."
+    },
+    "texte2": {
+      "title1": "Warum ein ",
+      "colorTitle": "Baudarlehen wählen?",
+      "paragraph": "Die Wahl eines Baudarlehens bietet mehrere Vorteile. Es stellt die notwendigen Mittel zur Verfügung, um Renovierungsprojekte zu finanzieren, erhöht den Wert der Immobilie und bietet flexible Rückzahlungsbedingungen."
+    },
+    "texte3": {
+      "title1": "Wie erhält man ein ",
+      "colorTitle": "Baudarlehen?",
+      "paragraph": "Um ein Baudarlehen zu erhalten, ist es in der Regel erforderlich, einen vollständigen Antrag mit Informationen über das Renovierungsprojekt, den finanziellen Bedarf und mögliche Sicherheiten einzureichen."
+    }
+  },
+  "rachatCredit": {
+    "card": {
+      "title": "Kreditzusammenlegung:",
+      "h2": "Vereinfachen Sie Ihre Finanzen",
+      "description": "Dieser Abschnitt ist der Kreditzusammenlegung gewidmet. Ob Sie Ihre Kredite zusammenfassen möchten, um Ihre monatlichen Zahlungen zu reduzieren oder von einem besseren Zinssatz zu profitieren, wir unterstützen Sie im Prozess. Teilen Sie uns gerne Ihre Bedürfnisse und Erwartungen mit."
+    },
+    "texte1": {
+      "title1": "Was ist eine ",
+      "colorTitle": "Kreditzusammenlegung?",
+      "paragraph": "Die Kreditzusammenlegung ist eine finanzielle Operation, bei der mehrere Kredite in einem zusammengefasst werden, um die Verwaltung der Finanzen zu vereinfachen und die monatlichen Zahlungen zu reduzieren."
+    },
+    "texte2": {
+      "title1": "Warum eine ",
+      "colorTitle": "Kreditzusammenlegung wählen?",
+      "paragraph": "Die Wahl einer Kreditzusammenlegung bietet mehrere Vorteile. Sie reduziert die monatlichen Zahlungen, bietet einen besseren Zinssatz und vereinfacht die Verwaltung Ihrer Finanzen."
+    },
+    "texte3": {
+      "title1": "Wie erhält man eine ",
+      "colorTitle": "Kreditzusammenlegung?",
+      "paragraph": "Um eine Kreditzusammenlegung zu erhalten, ist es in der Regel erforderlich, einen vollständigen Antrag mit Informationen über die zusammenzufassenden Kredite, finanzielle Bedürfnisse und mögliche Sicherheiten einzureichen."
+    }
+  },
+  "mariage": {
+    "card": {
+      "title": "Heiraten",
+      "h2": "Feiern Sie Ihre Liebe",
+      "description": "Dieser Abschnitt ist Ihrem Hochzeitsprojekt gewidmet. Ob Sie eine intime Zeremonie oder eine große Feier organisieren möchten, wir unterstützen Sie im Finanzierungsprozess. Teilen Sie uns gerne Ihre Bedürfnisse und Erwartungen mit."
+    },
+    "texte1": {
+      "title1": "Was ist ein ",
+      "colorTitle": "Hochzeitsdarlehen?",
+      "paragraph": "Das Hochzeitsdarlehen ist eine Finanzierungslösung, die speziell dafür entwickelt wurde, Paaren bei der Realisierung ihres Hochzeitsprojekts zu helfen. Es kann Kosten für die Organisation der Zeremonie, Raummiete, Dekoration, Fotografie und vieles mehr abdecken."
+    },
+    "texte2": {
+      "title1": "Warum ein ",
+      "colorTitle": "Hochzeitsdarlehen wählen?",
+      "paragraph": "Die Wahl eines Hochzeitsdarlehens bietet mehrere Vorteile. Es ermöglicht den Zugriff auf die benötigten Mittel zur Finanzierung der Hochzeit, reduziert die finanzielle Belastung und bietet flexible Rückzahlungsbedingungen."
+    },
+    "texte3": {
+      "title1": "Wie erhält man ein ",
+      "colorTitle": "Hochzeitsdarlehen?",
+      "paragraph": "Um ein Hochzeitsdarlehen zu erhalten, ist es in der Regel erforderlich, einen vollständigen Antrag einzureichen, der Informationen über das Hochzeitsprojekt, finanzielle Bedürfnisse und eventuelle Sicherheiten enthält."
+    }
+  },
+  "senior": {
+    "card": {
+      "title": "Senioren:",
+      "h2": "Nutzen Sie unsere Angebote",
+      "description": "Dieser Abschnitt ist den Senioren gewidmet. Ob Sie ein Rentenprojekt, eine Reise oder andere Ausgaben finanzieren möchten, wir unterstützen Sie bei Ihrem Finanzierungsprozess. Teilen Sie uns gerne Ihre Bedürfnisse und Erwartungen mit."
+    },
+    "texte1": {
+      "title1": "Was ist ein ",
+      "colorTitle": "Seniorendarlehen?",
+      "paragraph": "Das Seniorendarlehen ist eine Finanzierungslösung, die speziell dafür entwickelt wurde, älteren Menschen bei der Umsetzung ihrer Projekte zu helfen. Es kann Ausgaben im Zusammenhang mit Gesundheit, Haus oder Freizeit abdecken."
+    },
+    "texte2": {
+      "title1": "Warum ein ",
+      "colorTitle": "Seniorendarlehen wählen?",
+      "paragraph": "Die Wahl eines Seniorendarlehens bietet mehrere Vorteile. Es ermöglicht den Zugang zu den benötigten Mitteln zur Finanzierung von Projekten, reduziert die finanzielle Belastung und bietet flexible Rückzahlungsbedingungen."
+    },
+    "texte3": {
+      "title1": "Wie erhält man ein ",
+      "colorTitle": "Seniorendarlehen?",
+      "paragraph": "Um ein Seniorendarlehen zu erhalten, ist es in der Regel erforderlich, einen vollständigen Antrag einzureichen, der Informationen über das Projekt, finanzielle Bedürfnisse und eventuelle Sicherheiten enthält."
+    }
+  },
+  "projet": {
+    "card": {
+      "title": "Ihre Projekte:",
+      "h2": "Verwirklichen Sie Ihre Ambitionen",
+      "description": "Dieser Abschnitt ist Ihren Projekten gewidmet. Ob Sie Renovierungen durchführen, ein Fahrzeug kaufen oder eine Reise finanzieren möchten, wir unterstützen Sie bei Ihrem Finanzierungsprozess. Teilen Sie uns gerne Ihre Bedürfnisse und Erwartungen mit."
+    },
+    "texte1": {
+      "title1": "Was ist ein ",
+      "colorTitle": "Projektkredit?",
+      "paragraph": "Der Projektkredit ist eine Finanzierungslösung, die speziell entwickelt wurde, um Einzelpersonen bei der Umsetzung ihrer Projekte zu helfen. Er kann Ausgaben im Zusammenhang mit Renovierungen, Fahrzeugkauf oder einer Reise abdecken."
+    },
+    "texte2": {
+      "title1": "Warum einen ",
+      "colorTitle": "Projektkredit wählen?",
+      "paragraph": "Die Wahl eines Projektkredits bietet mehrere Vorteile. Er ermöglicht den Zugang zu den notwendigen Mitteln zur Finanzierung des Projekts, reduziert die finanzielle Belastung und bietet flexible Rückzahlungsbedingungen."
+    },
+    "texte3": {
+      "title1": "Wie erhält man einen ",
+      "colorTitle": "Projektkredit?",
+      "paragraph": "Um einen Projektkredit zu erhalten, ist es in der Regel erforderlich, einen vollständigen Antrag mit Informationen über das Projekt, finanzielle Bedürfnisse und eventuelle Sicherheiten einzureichen."
+    }
+  },
+  "translation": {
+        "menu": {
+          "creditExpress": "Schnellkredit",
+          "creditInstantane": "Sofortkredit",
+          "creditSansJustificatif": "Kredit ohne Nachweis",
+          "creditRenouvelable": "Revolvierender Kredit",
+          "rachatCredit": "Kreditumschuldung",
+          "pretPersonnel": "Privatkredit",
+          "pretTravaux": "Renovierungskredit",
+          "creditAuto": "Autokredit",
+          "besoinFinancement": "Finanzierungsbedarf",
+          "vosProjet": "Ihre Projekte",
+          "seMarier": "Heiraten",
+          "faireVoyage": "Reisen",
+          "acheterMaison": "Haus kaufen",
+          "creerEntreprise": "Unternehmen gründen",
+          "etudiant": "Student",
+          "seniors": "Senioren"
+        }
+      }
+}

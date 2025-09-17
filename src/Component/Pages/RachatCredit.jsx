@@ -6,37 +6,24 @@ import Infos from '../Elements/Infos'
 import Simulateur from '../Elements/Simulateur'
 import Contacts from '../Elements/Contacts'
 import Texte from '../Elements/Texte'
+import { useTranslation } from 'react-i18next'
 
 const RachatCrédit = () => {
+
+  const {t} = useTranslation();
   return (
     <div>
-      <Card1Ext
+     <Card1Ext
         img={main1}
-        title="Rachat de Crédit :"
-        h2="simplifiez vos finances"
-        description="Cette section est dédiée au rachat de crédit. Que vous souhaitiez regrouper vos prêts pour alléger vos mensualités ou bénéficier d'un meilleur taux, nous sommes là pour vous accompagner dans vos démarches. N'hésitez pas à nous faire part de vos besoins et de vos attentes."
+        title={t("rachatCredit.card.title")}
+        h2={t("rachatCredit.card.h2")}
+        description={t("rachatCredit.card.description")}
         bgColor="bg-blue-600"
       />
-      {/* Texte1 */}
-      {/* Présentation de crédit pour le rachat de crédit */}
-      <Texte
-        Title1="Qu'est-ce que le "
-        ColorTitle="rachat de crédit ?"
-        paragraph="Le rachat de crédit est une opération financière qui consiste à regrouper plusieurs prêts en un seul, afin de simplifier la gestion de ses finances et de réduire le montant des mensualités."
-        BgColor="text-blue-600"
-      />
-      <Texte
-        Title1="Pourquoi choisir un "
-        ColorTitle="rachat de crédit ?"
-        paragraph="Choisir un rachat de crédit présente plusieurs avantages. Il permet de réduire le montant des mensualités, de bénéficier d'un meilleur taux d'intérêt et de simplifier la gestion de ses finances."
-        BgColor="text-blue-600"
-      />
-      <Texte
-        Title1="Comment obtenir un "
-        ColorTitle="rachat de crédit ?"
-        paragraph="Pour obtenir un rachat de crédit, il est généralement nécessaire de présenter un dossier solide comprenant des informations sur les prêts à regrouper, les besoins financiers et les garanties éventuelles."
-        BgColor="text-blue-600"
-      />
+
+      <Texte Title1={t("rachatCredit.texte1.title1")} ColorTitle={t("rachatCredit.texte1.colorTitle")} paragraph={t("rachatCredit.texte1.paragraph")} BgColor="text-blue-600" />
+      <Texte Title1={t("rachatCredit.texte2.title1")} ColorTitle={t("rachatCredit.texte2.colorTitle")} paragraph={t("rachatCredit.texte2.paragraph")} BgColor="text-blue-600" />
+      <Texte Title1={t("rachatCredit.texte3.title1")} ColorTitle={t("rachatCredit.texte3.colorTitle")} paragraph={t("rachatCredit.texte3.paragraph")} BgColor="text-blue-600" />
       
       <Simulateur/>
       <Contacts/>

@@ -6,37 +6,24 @@ import Infos from '../Elements/Infos'
 import Contacts from '../Elements/Contacts'
 import Simulateur from '../Elements/Simulateur'
 import Texte from '../Elements/Texte'
+import { useTranslation } from 'react-i18next'
 
 const Seniors = () => {
+
+  const {t} = useTranslation();
   return (
     <div>
       <Card1Ext
         img={express}
-        title="Seniors :"
-        h2="profitez de nos offres"
-        description="Cette section est dédiée aux seniors. Que vous souhaitiez financer un projet de retraite, un voyage ou toute autre dépense, nous sommes là pour vous accompagner dans vos démarches de financement. N'hésitez pas à nous faire part de vos besoins et de vos attentes."
+        title={t("senior.card.title")}
+        h2={t("senior.card.h2")}
+        description={t("senior.card.description")}
         bgColor="bg-blue-500"
       />
-      {/* Texte1 */}
-      {/* Présentation de crédit pour les seniors */}
-      <Texte 
-        Title1="Qu'est-ce que le "
-        ColorTitle="prêt senior ?"
-        paragraph="Le prêt senior est une solution de financement spécialement conçue pour aider les personnes âgées à réaliser leurs projets. Il peut couvrir des dépenses liées à la santé, à la maison ou à des loisirs."
-        BgColor="text-blue-500"
-      />
-      <Texte
-        Title1="Pourquoi choisir un "
-        ColorTitle="prêt senior ?"
-        paragraph="Choisir un prêt senior présente plusieurs avantages. Il permet de disposer des fonds nécessaires pour financer ses projets, d'alléger la charge financière et de bénéficier de conditions de remboursement flexibles."
-        BgColor="text-blue-500"
-      />
-      <Texte
-        Title1="Comment obtenir un "
-        ColorTitle="prêt senior ?"
-        paragraph="Pour obtenir un prêt senior, il est généralement nécessaire de présenter un dossier solide comprenant des informations sur le projet, les besoins financiers et les garanties éventuelles."
-        BgColor="text-blue-500"
-      />
+
+      <Texte Title1={t("senior.texte1.title1")} ColorTitle={t("senior.texte1.colorTitle")} paragraph={t("senior.texte1.paragraph")} BgColor="text-blue-500" />
+      <Texte Title1={t("senior.texte2.title1")} ColorTitle={t("senior.texte2.colorTitle")} paragraph={t("senior.texte2.paragraph")} BgColor="text-blue-500" />
+      <Texte Title1={t("senior.texte3.title1")} ColorTitle={t("senior.texte3.colorTitle")} paragraph={t("senior.texte3.paragraph")} BgColor="text-blue-500" />
       <Simulateur/>
       <Contacts/>
       <Infos/>

@@ -262,5 +262,313 @@
       "colorTitle": "car loan?",
       "paragraph": "To obtain a car loan, simply contact us to discuss your project. We will guide you throughout the application process, helping you gather the necessary documents and explaining the loan conditions."
     }
-  }
+  },
+  "creditExpress": {
+    "card": {
+      "title": "Express Credit:",
+      "h2": "How to get funds quickly?",
+      "description": "Need a quick boost to face an emergency? Express credit is an instant loan solution with simplified procedures. Repairs, purchases, or unexpected bills: it adapts to any situation. This urgent loan allows you to obtain immediate funds without having to provide a multitude of supporting documents. Youdge details its terms (rates, conditions, benefits, etc.) and how to apply step by step."
+    },
+    "texte1": {
+      "title1": "What is ",
+      "colorTitle": "express credit?",
+      "paragraph": "Express credit is part of the consumer credit family but stands out for its speed and simplified formalities. Unlike traditional loans, online express credit offers attractive annual rates and real-time tracking of your file via emails or SMS, making it an ideal solution in case of unforeseen events."
+    },
+    "texte2": {
+      "title1": "",
+      "colorTitle": "Who is eligible for ",
+      "title2": "express credit?",
+      "paragraph": "Express credit is intended for adults whose tax residence is in France, who need money quickly. The institutions offering it are increasingly numerous and address all consumer profiles. However, not all these institutions are equal, and it is often more advantageous to go through a credit comparison service first, which lists the different online credit offers and instantly submits the most advantageous ones."
+    },
+    "texte3": {
+      "title1": "How long does it take for",
+      "colorTitle": "funds to be released?",
+      "paragraph": "One of the main advantages of online express credit is the quick release of funds. After the initial agreement, it usually takes no more than 48 hours to receive the transfer on your account, along with the legal withdrawal period, if applicable. In some cases, the release is immediate. This makes express credit an ideal solution for urgent needs, without having to justify the use of funds. In addition, it is possible to repay early with reduced penalties, unlike some financial institutions. This is a significant advantage that applies to all types of fast credit, from small amounts (micro express credit) to larger amounts."
+    },
+    "texte4": {
+      "title1": "",
+      "colorTitle": "Why apply for ",
+      "title2": "express credit?",
+      "paragraph": "The advantage of express credit is that it is accessible to the majority. Taking out express credit online is possible for anyone who needs cash quickly, whatever the reason: home repairs, buying a new car, plane tickets, or building a cash reserve to cope with unexpected expenses. This fast credit has interesting strengths. It allows you to quickly carry out your projects, whether renovating your home, going on vacation, or celebrating an important event. The advantage of this type of loan is that you can apply in just a few clicks. Its key strengths are speed and simplicity."
+    }
+  },
+  "creditInstantane": {
+    "card": {
+      "title": "Instant Credit:",
+      "h2": "Get funds quickly",
+      "description": "Instant credit is a financing solution that allows you to get funds quickly, without the usual delays of traditional banks. Whether it is for an urgent project or an unexpected expense, this type of loan is designed to meet your immediate cash needs."
+    },
+    "texte1": {
+      "title1": "What is ",
+      "colorTitle": "instant credit?",
+      "paragraph": "Instant credit is part of the consumer credit family but stands out for its speed and simplified formalities. Unlike traditional loans, online instant credit offers attractive annual rates and real-time tracking of your file via emails or SMS, making it an ideal solution in case of unforeseen events."
+    },
+    "texte2": {
+      "title1": "",
+      "colorTitle": "Who is eligible for ",
+      "title2": "instant credit?",
+      "paragraph": "Instant credit is intended for adults whose tax residence is in France, who need money quickly. The institutions offering it are increasingly numerous and address all consumer profiles. However, not all these institutions are equal, and it is often more advantageous to go through a credit comparison service first, which lists the different online credit offers and instantly submits the most advantageous ones."
+    },
+    "texte3": {
+      "title1": "How long does it take for ",
+      "colorTitle": "funds to be released?",
+      "paragraph": "One of the main advantages of online instant credit is the quick release of funds. After the initial agreement, it usually takes no more than 48 hours to receive the transfer on your account, along with the legal withdrawal period, if applicable. In some cases, the release is immediate. This makes instant credit an ideal solution for urgent needs, without having to justify the use of funds. In addition, it is possible to repay early with reduced penalties, unlike some financial institutions. This is a significant advantage that applies to all types of fast credit, from small amounts (micro instant credit) to larger amounts."
+    },
+    "texte4": {
+      "title1": "",
+      "colorTitle": "Why apply for ",
+      "title2": "instant credit?",
+      "paragraph": "The advantage of instant credit is that it is accessible to the majority. Taking out instant credit online is possible for anyone who has a short-term cash need, whatever the reason: home repairs, buying a new car, plane tickets, or building a cash reserve for unexpected expenses. This fast credit has interesting strengths and allows projects to be completed quickly, whether renovating your home, going on vacation, or celebrating an important event. The advantage is that the application can be made in just a few clicks. The main strength of instant credit is its speed and simplicity."
+    }
+  },
+  "creditRenouvelable": {
+    "card": {
+      "title": "Revolving Credit:",
+      "h2": "A flexible financing solution",
+      "description": "Revolving credit is a flexible financing solution that allows access to funds at any time, within a predefined limit. It works like a cash reserve that the borrower can use as needed, with repayments adapted to their financial situation. This option is ideal for projects requiring flexibility in financing."
+    },
+    "texte1": {
+      "colorTitle": "What is ",
+      "title2": "revolving credit?",
+      "paragraph": "Revolving credit is a type of loan that allows the borrower to have a cash reserve they can use at any time, within a pre-defined limit."
+    },
+    "texte2": {
+      "title1": "How ",
+      "colorTitle": "revolving credit",
+      "paragraph": "Revolving credit works like a cash reserve that the borrower can use as needed. When a part of this reserve is used, the borrower must repay the amount used with interest calculated on the borrowed amount."
+    },
+    "texte3": {
+      "title1": "Advantages of ",
+      "colorTitle": "revolving credit",
+      "paragraph": "Revolving credit offers great flexibility because the borrower can use the funds as needed and repay at their own pace. It also allows dealing with unexpected expenses or financing short-term projects."
+    },
+    "texte4": {
+      "colorTitle": "Conditions to obtain ",
+      "title2": "revolving credit",
+      "paragraph": "To obtain revolving credit, the borrower usually must provide information about their financial situation, including income and expenses. Conditions vary depending on the lender."
+    }
+  },
+   "creditSansJustificatif": {
+    "card": {
+      "title": "Credit Without Proof:",
+      "h2": "Get funds quickly",
+      "description": "This section is dedicated to credit without proof. Whether you want to finance a personal project, an urgent purchase, or any other expense, we are here to assist you in your steps. Feel free to let us know your needs and expectations."
+    },
+    "texte1": {
+      "title1": "What is ",
+      "colorTitle": "credit without proof",
+      "paragraph": "Credit without proof is a financing solution that allows you to obtain funds quickly without providing proof of expenses. This makes it particularly suitable for personal projects or urgent purchases."
+    },
+    "texte2": {
+      "title1": "How ",
+      "colorTitle": "credit without proof",
+      "paragraph": "Credit without proof works similarly to other types of consumer loans. The borrower applies for credit, and if approved, receives the funds quickly, often within a few days."
+    },
+    "texte3": {
+      "title1": "Advantages of ",
+      "colorTitle": "credit without proof",
+      "paragraph": "The main advantage of credit without proof is the speed and simplicity of the process. There is no need to provide documents detailing the use of funds, which accelerates approval and disbursement."
+    },
+    "texte4": {
+      "title1": "Conditions to obtain ",
+      "colorTitle": "credit without proof",
+      "paragraph": "To obtain credit without proof, the borrower usually must provide information about their financial situation, including income and expenses. Conditions vary depending on the lender."
+    }
+  },
+  "creerEntreprise": {
+    "card": {
+      "title": "Create a Business:",
+      "h2": "Bring your project to life",
+      "description": "This section is dedicated to your business creation project. Whether you want to launch a startup, open a store, or expand an existing business, we are here to assist you in your financing steps. Feel free to share your needs and expectations."
+    },
+    "texte1": {
+      "title1": "What is a ",
+      "colorTitle": "business creation loan?",
+      "paragraph": "A business creation loan is a financing solution specifically designed to help entrepreneurs launch their project. It can take the form of loans, grants, or other financial assistance schemes."
+    },
+    "texte2": {
+      "title1": "Why choose a ",
+      "colorTitle": "business creation loan?",
+      "paragraph": "Choosing a business creation loan has several advantages. It provides the necessary funds to start the activity, invest in equipment, cover initial operating costs, and enhance credibility with partners and clients."
+    },
+    "texte3": {
+      "title1": "How to obtain a ",
+      "colorTitle": "business creation loan?",
+      "paragraph": "To obtain a business creation loan, it is generally necessary to present a solid file including a business plan, financial forecasts, and information about the management team."
+    }
+  },
+  "pretEtudiant": {
+    "card": {
+      "title": "Student Loan:",
+      "h2": "Finance your studies",
+      "description": "The student loan is a financing solution specifically designed for students. It allows you to cover tuition fees, living expenses, and other study-related costs. With favorable conditions and competitive interest rates, this loan helps you focus on your studies without worrying about your finances."
+    },
+    "texte1": {
+      "title1": "What is a ",
+      "colorTitle": "student loan?",
+      "paragraph": "The student loan is a financing solution specifically designed to help students cover tuition fees, living expenses, and other study-related costs. It may take the form of low-interest loans, scholarships, or other financial aid programs."
+    },
+    "texte2": {
+      "title1": "Why choose a ",
+      "colorTitle": "student loan?",
+      "paragraph": "Choosing a student loan has several advantages. It provides the necessary funds to finance studies, eases the financial burden during the learning period, and offers flexible repayment conditions."
+    },
+    "texte3": {
+      "title1": "How to obtain a ",
+      "colorTitle": "student loan?",
+      "paragraph": "To obtain a student loan, it is generally necessary to present a solid application including information about your course, financial needs, and any guarantees."
+    }
+  },
+  "creditVoyage": {
+    "card": {
+      "title": "Travel Loan",
+      "h2": "Make your escape dreams come true",
+      "description": "This section is dedicated to your travel project. Whether you want to go on vacation, organize a business trip, or discover new destinations, we are here to support you in your financing process. Feel free to share your needs and expectations."
+    },
+    "texte1": {
+      "title1": "What is a ",
+      "colorTitle": "travel loan?",
+      "paragraph": "The travel loan is a financing solution specifically designed to help travelers achieve their escape projects. It can cover transportation, accommodation, meals, and on-site activities."
+    },
+    "texte2": {
+      "title1": "Why choose a ",
+      "colorTitle": "travel loan?",
+      "paragraph": "Choosing a travel loan has several advantages. It provides the necessary funds to finance your escape projects, eases the financial burden during trip planning, and offers flexible repayment conditions."
+    },
+    "texte3": {
+      "title1": "How to obtain a ",
+      "colorTitle": "travel loan?",
+      "paragraph": "To obtain a travel loan, it is generally necessary to submit a solid application including information about the travel project, financial needs, and possible guarantees."
+    }
+  },
+   "creditTravaux": {
+    "card": {
+      "title": "Renovation Loan:",
+      "h2": "Finance your renovation projects",
+      "description": "This section is dedicated to your renovation project. Whether you want to renovate your house, improve energy efficiency, or make extensions, we are here to support you in your financing process. Feel free to share your needs and expectations."
+    },
+    "texte1": {
+      "title1": "What is a ",
+      "colorTitle": "renovation loan?",
+      "paragraph": "The renovation loan is a financing solution designed to help homeowners carry out renovation, improvement, or extension work on their property. It can cover the costs of materials, labor, and other expenses related to the work."
+    },
+    "texte2": {
+      "title1": "Why choose a ",
+      "colorTitle": "renovation loan?",
+      "paragraph": "Choosing a renovation loan has several advantages. It provides the necessary funds to finance renovation projects, improves the value of the property, and offers flexible repayment conditions."
+    },
+    "texte3": {
+      "title1": "How to obtain a ",
+      "colorTitle": "renovation loan?",
+      "paragraph": "To obtain a renovation loan, it is generally necessary to submit a solid application including information about the renovation project, financial needs, and possible guarantees."
+    }
+  },
+  "rachatCredit": {
+    "card": {
+      "title": "Credit Buyback:",
+      "h2": "Simplify your finances",
+      "description": "This section is dedicated to credit buyback. Whether you want to consolidate your loans to reduce your monthly payments or benefit from a better rate, we are here to support you in the process. Feel free to share your needs and expectations."
+    },
+    "texte1": {
+      "title1": "What is ",
+      "colorTitle": "credit buyback?",
+      "paragraph": "Credit buyback is a financial operation that consists of consolidating multiple loans into one, in order to simplify the management of your finances and reduce the monthly payment amount."
+    },
+    "texte2": {
+      "title1": "Why choose a ",
+      "colorTitle": "credit buyback?",
+      "paragraph": "Choosing a credit buyback has several advantages. It reduces the monthly payment amount, provides a better interest rate, and simplifies the management of your finances."
+    },
+    "texte3": {
+      "title1": "How to obtain a ",
+      "colorTitle": "credit buyback?",
+      "paragraph": "To obtain a credit buyback, it is generally necessary to submit a solid application including information about the loans to be consolidated, financial needs, and any guarantees."
+    }
+  },
+  "mariage": {
+    "card": {
+      "title": "Get Married",
+      "h2": "Celebrate your love",
+      "description": "This section is dedicated to your wedding project. Whether you want to organize an intimate ceremony or a large reception, we are here to support you in your financing process. Feel free to share your needs and expectations."
+    },
+    "texte1": {
+      "title1": "What is a ",
+      "colorTitle": "wedding loan?",
+      "paragraph": "The wedding loan is a financing solution specifically designed to help couples realize their wedding project. It can cover expenses related to organizing the ceremony, venue rental, decoration, photography, and much more."
+    },
+    "texte2": {
+      "title1": "Why choose a ",
+      "colorTitle": "wedding loan?",
+      "paragraph": "Choosing a wedding loan has several advantages. It allows couples to have the funds necessary to finance their wedding, reduce financial burden, and benefit from flexible repayment terms."
+    },
+    "texte3": {
+      "title1": "How to obtain a ",
+      "colorTitle": "wedding loan?",
+      "paragraph": "To obtain a wedding loan, it is generally necessary to submit a complete application including information about the wedding project, financial needs, and any guarantees."
+    }
+  },
+  "senior": {
+    "card": {
+      "title": "Seniors:",
+      "h2": "Take advantage of our offers",
+      "description": "This section is dedicated to seniors. Whether you want to finance a retirement project, a trip, or any other expense, we are here to support you in your financing process. Feel free to share your needs and expectations."
+    },
+    "texte1": {
+      "title1": "What is a ",
+      "colorTitle": "senior loan?",
+      "paragraph": "The senior loan is a financing solution specifically designed to help elderly people carry out their projects. It can cover expenses related to health, housing, or leisure activities."
+    },
+    "texte2": {
+      "title1": "Why choose a ",
+      "colorTitle": "senior loan?",
+      "paragraph": "Choosing a senior loan has several advantages. It allows you to access the funds needed to finance your projects, reduce financial burden, and benefit from flexible repayment conditions."
+    },
+    "texte3": {
+      "title1": "How to obtain a ",
+      "colorTitle": "senior loan?",
+      "paragraph": "To obtain a senior loan, it is generally necessary to submit a complete application including information about the project, financial needs, and any guarantees."
+    }
+  },
+  "projet": {
+    "card": {
+      "title": "Your Projects:",
+      "h2": "Achieve your ambitions",
+      "description": "This section is dedicated to your projects. Whether you want to carry out renovations, buy a vehicle, or finance a trip, we are here to support you in your financing process. Feel free to share your needs and expectations."
+    },
+    "texte1": {
+      "title1": "What is a ",
+      "colorTitle": "project loan?",
+      "paragraph": "The project loan is a financing solution specifically designed to help individuals realize their projects. It can cover expenses related to renovations, purchasing a vehicle, or a trip."
+    },
+    "texte2": {
+      "title1": "Why choose a ",
+      "colorTitle": "project loan?",
+      "paragraph": "Choosing a project loan has several advantages. It allows you to access the funds needed to finance your project, reduce financial burden, and benefit from flexible repayment conditions."
+    },
+    "texte3": {
+      "title1": "How to obtain a ",
+      "colorTitle": "project loan?",
+      "paragraph": "To obtain a project loan, it is generally necessary to submit a complete application including information about the project, financial needs, and any guarantees."
+    }
+  },
+   "translation": {
+        "menu": {
+          "creditExpress": "Express Credit",
+          "creditInstantane": "Instant Credit",
+          "creditSansJustificatif": "No Proof Credit",
+          "creditRenouvelable": "Revolving Credit",
+          "rachatCredit": "Credit Buyback",
+          "pretPersonnel": "Personal Loan",
+          "pretTravaux": "Home Improvement Loan",
+          "creditAuto": "Car Loan",
+          "besoinFinancement": "Need Financing",
+          "vosProjet": "Your Projects",
+          "seMarier": "Get Married",
+          "faireVoyage": "Go on a Trip",
+          "acheterMaison": "Buy a House",
+          "creerEntreprise": "Start a Business",
+          "etudiant": "Student",
+          "seniors": "Seniors"
+        }
+      }
 }

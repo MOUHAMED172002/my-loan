@@ -261,5 +261,313 @@
       "colorTitle": "prestito auto?",
       "paragraph": "Per ottenere un prestito auto, contattaci per discutere il tuo progetto. Ti guideremo durante tutto il processo di richiesta, aiutandoti a raccogliere i documenti necessari e spiegandoti le condizioni del prestito."
     }
-  }
+  },
+  "creditExpress": {
+    "card": {
+      "title": "Credito Espresso:",
+      "h2": "Come ottenere fondi rapidamente?",
+      "description": "Hai bisogno di un aiuto rapido per far fronte a un'emergenza? Il credito espresso è una soluzione di prestito istantaneo con procedure semplificate. Riparazioni, acquisti o bollette impreviste: si adatta a qualsiasi situazione. Questo prestito urgente consente di ottenere fondi immediati senza dover fornire una moltitudine di documenti. Youdge dettaglia le modalità (tassi, condizioni, vantaggi, ecc.) e come sottoscrivere il credito espresso passo dopo passo."
+    },
+    "texte1": {
+      "title1": "Cos'è ",
+      "colorTitle": "il credito espresso?",
+      "paragraph": "Il credito espresso fa parte della famiglia dei crediti al consumo ma si distingue per la sua velocità di esecuzione e le formalità semplificate. A differenza dei prestiti tradizionali, il credito espresso online offre tassi annui interessanti e il monitoraggio in tempo reale della pratica tramite email o SMS, rendendolo una soluzione ideale in caso di imprevisti."
+    },
+    "texte2": {
+      "title1": "",
+      "colorTitle": "A chi è rivolto ",
+      "title2": "il credito espresso?",
+      "paragraph": "Il credito espresso è destinato agli adulti con residenza fiscale in Francia che hanno bisogno di denaro rapidamente. Gli enti che lo offrono sono sempre più numerosi e si rivolgono a tutti i profili di consumatori. Tuttavia, non tutti questi enti sono uguali, ed è spesso più vantaggioso utilizzare un servizio di comparazione dei prestiti che elenchi le diverse offerte online e proponga immediatamente le più convenienti."
+    },
+    "texte3": {
+      "title1": "Quanto tempo ci vuole per ",
+      "colorTitle": "l'erogazione dei fondi?",
+      "paragraph": "Uno dei principali vantaggi del credito espresso online è l'erogazione rapida dei fondi. Dopo l'accordo di principio, di solito non occorrono più di 48 ore per ricevere il trasferimento sul conto, insieme al periodo legale di recesso, se applicabile. In alcuni casi, l'erogazione è immediata. Questo rende il credito espresso una soluzione ideale per necessità urgenti, senza dover giustificare l'uso dei fondi. Inoltre, è possibile rimborsare anticipatamente con penali ridotte, a differenza di alcune istituzioni finanziarie. Questo rappresenta un vantaggio significativo per tutti i tipi di prestiti rapidi, dai micro crediti agli importi più elevati."
+    },
+    "texte4": {
+      "title1": "",
+      "colorTitle": "Perché richiedere ",
+      "title2": "il credito espresso?",
+      "paragraph": "Il vantaggio del credito espresso è che è accessibile alla maggioranza. Richiedere un credito espresso online è possibile per chiunque abbia bisogno di liquidità rapidamente, qualunque sia il motivo: lavori domestici, acquisto di un veicolo, biglietti aerei o creazione di una riserva di denaro per affrontare spese impreviste. Questo credito veloce permette di realizzare rapidamente i progetti. L'aspetto positivo è che la richiesta può essere effettuata in pochi clic. Rapidità e semplicità sono i principali punti di forza."
+    }
+  },
+  "creditInstantane": {
+    "card": {
+      "title": "Credito Istantaneo:",
+      "h2": "Ottieni fondi rapidamente",
+      "description": "Il credito istantaneo è una soluzione di finanziamento che consente di ottenere fondi rapidamente, senza i tempi delle banche tradizionali. Che si tratti di un progetto urgente o di una spesa imprevista, questo tipo di prestito è pensato per soddisfare le necessità di liquidità immediate."
+    },
+    "texte1": {
+      "title1": "Cos'è ",
+      "colorTitle": "il credito istantaneo?",
+      "paragraph": "Il credito istantaneo fa parte della famiglia dei crediti al consumo, ma si distingue per la velocità di esecuzione e le formalità semplificate. A differenza dei prestiti tradizionali, il credito istantaneo online offre tassi annuali interessanti e il monitoraggio in tempo reale della pratica tramite email o SMS, rendendolo una soluzione ideale in caso di imprevisti."
+    },
+    "texte2": {
+      "title1": "",
+      "colorTitle": "A chi è rivolto ",
+      "title2": "il credito istantaneo?",
+      "paragraph": "Il credito istantaneo è destinato agli adulti con residenza fiscale in Francia che necessitano di fondi rapidamente. Le istituzioni che lo offrono sono sempre più numerose e si rivolgono a tutti i profili di consumatori. Tuttavia, non tutte sono uguali ed è spesso più vantaggioso utilizzare un servizio di comparazione dei prestiti, che elenchi le diverse offerte online e proponga subito le più convenienti."
+    },
+    "texte3": {
+      "title1": "Quanto tempo ci vuole per ",
+      "colorTitle": "l'erogazione dei fondi?",
+      "paragraph": "Uno dei principali vantaggi del credito istantaneo online è l'erogazione rapida dei fondi. Dopo l'accordo di principio, di solito non occorrono più di 48 ore per ricevere il trasferimento sul conto, insieme al periodo legale di recesso, se applicabile. In alcuni casi l'erogazione è immediata. Questo rende il credito istantaneo una soluzione ideale per esigenze urgenti, senza dover giustificare l'uso dei fondi. Inoltre, è possibile rimborsare anticipatamente con penali ridotte, a differenza di alcune istituzioni finanziarie."
+    },
+    "texte4": {
+      "title1": "",
+      "colorTitle": "Perché richiedere ",
+      "title2": "il credito istantaneo?",
+      "paragraph": "Il vantaggio del credito istantaneo è che è accessibile alla maggioranza. Richiedere un credito istantaneo online è possibile per chiunque abbia bisogno di liquidità a breve termine, per qualsiasi motivo: lavori domestici, acquisto di un veicolo, biglietti aerei o creazione di una riserva di denaro per spese impreviste. Questo credito rapido consente di realizzare rapidamente i progetti. La richiesta può essere fatta in pochi clic. Rapidità e semplicità sono i suoi principali punti di forza."
+    }
+  },
+  "creditRenouvelable": {
+    "card": {
+      "title": "Credito Rinnovabile:",
+      "h2": "Una soluzione di finanziamento flessibile",
+      "description": "Il credito rinnovabile è una soluzione di finanziamento flessibile che consente di accedere ai fondi in qualsiasi momento, entro un limite prestabilito. Funziona come una riserva di denaro che il mutuatario può utilizzare secondo le proprie esigenze, con rimborsi adattati alla situazione finanziaria. Questa opzione è ideale per progetti che richiedono flessibilità nel finanziamento."
+    },
+    "texte1": {
+      "colorTitle": "Cos'è ",
+      "title2": "il credito rinnovabile?",
+      "paragraph": "Il credito rinnovabile è una forma di prestito che permette al mutuatario di avere a disposizione una riserva di denaro utilizzabile in qualsiasi momento, entro un limite prestabilito."
+    },
+    "texte2": {
+      "title1": "Funzionamento del ",
+      "colorTitle": "credito rinnovabile",
+      "paragraph": "Il credito rinnovabile funziona come una riserva di denaro che il mutuatario può utilizzare secondo le proprie esigenze. Quando viene utilizzata parte di questa riserva, occorre rimborsare l'importo utilizzato con gli interessi calcolati sul capitale preso in prestito."
+    },
+    "texte3": {
+      "title1": "Vantaggi del ",
+      "colorTitle": "credito rinnovabile",
+      "paragraph": "Il credito rinnovabile offre grande flessibilità, poiché il mutuatario può utilizzare i fondi secondo le necessità e rimborsare secondo i propri tempi. Inoltre, consente di affrontare spese impreviste o finanziare progetti a breve termine."
+    },
+    "texte4": {
+      "colorTitle": "Condizioni per ottenere ",
+      "title2": "il credito rinnovabile",
+      "paragraph": "Per ottenere il credito rinnovabile, il mutuatario deve generalmente fornire informazioni sulla propria situazione finanziaria, inclusi reddito e spese. Le condizioni variano a seconda del prestatore."
+    }
+  },
+  "creditSansJustificatif": {
+    "card": {
+      "title": "Credito Senza Giustificativo:",
+      "h2": "Ottieni fondi rapidamente",
+      "description": "Questa sezione è dedicata al credito senza giustificativo. Che tu voglia finanziare un progetto personale, un acquisto urgente o qualsiasi altra spesa, siamo qui per supportarti nelle tue procedure. Non esitare a comunicarci le tue esigenze e aspettative."
+    },
+    "texte1": {
+      "title1": "Cos'è un ",
+      "colorTitle": "credito senza giustificativo",
+      "paragraph": "Il credito senza giustificativo è una soluzione di finanziamento che permette di ottenere fondi rapidamente, senza dover fornire documenti giustificativi delle spese. È particolarmente adatto per progetti personali o acquisti urgenti."
+    },
+    "texte2": {
+      "title1": "Funzionamento del ",
+      "colorTitle": "credito senza giustificativo",
+      "paragraph": "Il credito senza giustificativo funziona in modo simile ad altri tipi di credito al consumo. Il richiedente fa domanda di credito e, se approvata, riceve i fondi rapidamente, spesso entro pochi giorni."
+    },
+    "texte3": {
+      "title1": "Vantaggi del ",
+      "colorTitle": "credito senza giustificativo",
+      "paragraph": "Il principale vantaggio del credito senza giustificativo è la rapidità e la semplicità del processo. Non è necessario fornire documenti dettagliati sull'utilizzo dei fondi, il che accelera l'approvazione e l'erogazione."
+    },
+    "texte4": {
+      "title1": "Condizioni per ottenere ",
+      "colorTitle": "credito senza giustificativo",
+      "paragraph": "Per ottenere un credito senza giustificativo, il richiedente deve generalmente fornire informazioni sulla propria situazione finanziaria, compresi redditi e spese. Le condizioni variano a seconda del prestatore."
+    }
+  },
+  "creerEntreprise": {
+    "card": {
+      "title": "Creare un'Azienda:",
+      "h2": "Dai vita al tuo progetto",
+      "description": "Questa sezione è dedicata al tuo progetto di creazione di impresa. Che tu voglia lanciare una startup, aprire un negozio o sviluppare un'attività esistente, siamo qui per supportarti nelle tue procedure di finanziamento. Non esitare a comunicarci le tue esigenze e aspettative."
+    },
+    "texte1": {
+      "title1": "Cos'è un ",
+      "colorTitle": "credito per la creazione di impresa?",
+      "paragraph": "Il credito per la creazione di impresa è una soluzione di finanziamento appositamente progettata per aiutare gli imprenditori a lanciare il loro progetto. Può assumere la forma di prestiti, sovvenzioni o altri strumenti di aiuto finanziario."
+    },
+    "texte2": {
+      "title1": "Perché scegliere un ",
+      "colorTitle": "credito per la creazione di impresa?",
+      "paragraph": "Scegliere un credito per la creazione di impresa offre diversi vantaggi. Permette di disporre dei fondi necessari per avviare l'attività, investire in attrezzature, coprire i costi operativi iniziali e aumentare la credibilità con partner e clienti."
+    },
+    "texte3": {
+      "title1": "Come ottenere un ",
+      "colorTitle": "credito per la creazione di impresa?",
+      "paragraph": "Per ottenere un credito per la creazione di impresa, è generalmente necessario presentare un dossier solido che includa un business plan, previsioni finanziarie e informazioni sul team di gestione."
+    }
+  },
+  "pretEtudiant": {
+    "card": {
+      "title": "Prestito Studentesco:",
+      "h2": "Finanzia i tuoi studi",
+      "description": "Il prestito studentesco è una soluzione di finanziamento appositamente progettata per gli studenti. Permette di coprire le tasse universitarie, le spese di vita e altri costi legati agli studi. Con condizioni vantaggiose e tassi d'interesse competitivi, questo prestito ti aiuta a concentrarti sui tuoi studi senza preoccuparti delle finanze."
+    },
+    "texte1": {
+      "title1": "Cos'è un ",
+      "colorTitle": "prestito studentesco?",
+      "paragraph": "Il prestito studentesco è una soluzione di finanziamento appositamente progettata per aiutare gli studenti a coprire tasse universitarie, spese di vita e altri costi legati agli studi. Può assumere la forma di prestiti a tasso ridotto, borse di studio o altri strumenti di supporto finanziario."
+    },
+    "texte2": {
+      "title1": "Perché scegliere un ",
+      "colorTitle": "prestito studentesco?",
+      "paragraph": "Scegliere un prestito studentesco offre diversi vantaggi. Fornisce i fondi necessari per finanziare gli studi, allevia il carico finanziario durante il periodo di apprendimento e offre condizioni di rimborso flessibili."
+    },
+    "texte3": {
+      "title1": "Come ottenere un ",
+      "colorTitle": "prestito studentesco?",
+      "paragraph": "Per ottenere un prestito studentesco, è generalmente necessario presentare una domanda completa contenente informazioni sul corso di studi, esigenze finanziarie e eventuali garanzie."
+    }
+  },
+  "creditVoyage": {
+    "card": {
+      "title": "Viaggio",
+      "h2": "Realizza i tuoi sogni di evasione",
+      "description": "Questa sezione è dedicata al tuo progetto di viaggio. Che tu voglia andare in vacanza, organizzare un viaggio di lavoro o scoprire nuove destinazioni, siamo qui per supportarti nel processo di finanziamento. Sentiti libero di condividere le tue esigenze e aspettative."
+    },
+    "texte1": {
+      "title1": "Cos'è un ",
+      "colorTitle": "credito viaggio?",
+      "paragraph": "Il credito viaggio è una soluzione di finanziamento progettata specificamente per aiutare i viaggiatori a realizzare i loro progetti di evasione. Può coprire spese di trasporto, alloggio, ristorazione e attività sul posto."
+    },
+    "texte2": {
+      "title1": "Perché scegliere un ",
+      "colorTitle": "credito viaggio?",
+      "paragraph": "Scegliere un credito viaggio offre diversi vantaggi. Fornisce i fondi necessari per finanziare i progetti di evasione, riduce il carico finanziario durante la pianificazione del viaggio e offre condizioni di rimborso flessibili."
+    },
+    "texte3": {
+      "title1": "Come ottenere un ",
+      "colorTitle": "credito viaggio?",
+      "paragraph": "Per ottenere un credito viaggio, è generalmente necessario presentare una domanda completa con informazioni sul progetto di viaggio, le necessità finanziarie e le eventuali garanzie."
+    }
+  },
+  "creditTravaux": {
+    "card": {
+      "title": "Prestito Ristrutturazione:",
+      "h2": "Finanzia i tuoi progetti di ristrutturazione",
+      "description": "Questa sezione è dedicata al tuo progetto di lavori. Che tu voglia ristrutturare la tua casa, migliorare l'efficienza energetica o effettuare ampliamenti, siamo qui per supportarti nel processo di finanziamento. Sentiti libero di condividere le tue esigenze e aspettative."
+    },
+    "texte1": {
+      "title1": "Cos'è un ",
+      "colorTitle": "prestito ristrutturazione?",
+      "paragraph": "Il prestito ristrutturazione è una soluzione di finanziamento progettata per aiutare i proprietari a realizzare lavori di ristrutturazione, miglioramento o ampliamento della loro abitazione. Può coprire i costi dei materiali, della manodopera e altre spese correlate ai lavori."
+    },
+    "texte2": {
+      "title1": "Perché scegliere un ",
+      "colorTitle": "prestito ristrutturazione?",
+      "paragraph": "Scegliere un prestito ristrutturazione offre diversi vantaggi. Fornisce i fondi necessari per finanziare i progetti di ristrutturazione, aumenta il valore dell'immobile e offre condizioni di rimborso flessibili."
+    },
+    "texte3": {
+      "title1": "Come ottenere un ",
+      "colorTitle": "prestito ristrutturazione?",
+      "paragraph": "Per ottenere un prestito ristrutturazione, è generalmente necessario presentare una domanda completa con informazioni sul progetto di lavori, le necessità finanziarie e le eventuali garanzie."
+    }
+  },
+  "rachatCredit": {
+    "card": {
+      "title": "Riacquisto del Credito:",
+      "h2": "Semplifica le tue finanze",
+      "description": "Questa sezione è dedicata al riacquisto del credito. Che tu voglia consolidare i tuoi prestiti per ridurre le rate mensili o beneficiare di un tasso migliore, siamo qui per supportarti nel processo. Sentiti libero di condividere le tue esigenze e aspettative."
+    },
+    "texte1": {
+      "title1": "Cos'è il ",
+      "colorTitle": "riacquisto del credito?",
+      "paragraph": "Il riacquisto del credito è un'operazione finanziaria che consiste nel consolidare più prestiti in uno solo, al fine di semplificare la gestione delle finanze e ridurre l'importo delle rate mensili."
+    },
+    "texte2": {
+      "title1": "Perché scegliere il ",
+      "colorTitle": "riacquisto del credito?",
+      "paragraph": "Scegliere il riacquisto del credito offre diversi vantaggi. Permette di ridurre l'importo delle rate mensili, beneficiare di un tasso di interesse migliore e semplificare la gestione delle finanze."
+    },
+    "texte3": {
+      "title1": "Come ottenere il ",
+      "colorTitle": "riacquisto del credito?",
+      "paragraph": "Per ottenere un riacquisto del credito, è generalmente necessario presentare una domanda completa con informazioni sui prestiti da consolidare, necessità finanziarie e eventuali garanzie."
+    }
+  },
+  "mariage": {
+    "card": {
+      "title": "Sposarsi",
+      "h2": "Celebra il tuo amore",
+      "description": "Questa sezione è dedicata al tuo progetto di matrimonio. Che tu voglia organizzare una cerimonia intima o un grande ricevimento, siamo qui per supportarti nel processo di finanziamento. Sentiti libero di condividere le tue esigenze e aspettative."
+    },
+    "texte1": {
+      "title1": "Cos'è un ",
+      "colorTitle": "prestito matrimonio?",
+      "paragraph": "Il prestito matrimonio è una soluzione di finanziamento progettata appositamente per aiutare le coppie a realizzare il loro progetto di nozze. Può coprire spese legate all'organizzazione della cerimonia, affitto della sala, decorazioni, fotografia e molto altro."
+    },
+    "texte2": {
+      "title1": "Perché scegliere un ",
+      "colorTitle": "prestito matrimonio?",
+      "paragraph": "Scegliere un prestito matrimonio offre diversi vantaggi. Permette di disporre dei fondi necessari per finanziare il matrimonio, ridurre l'onere finanziario e beneficiare di condizioni di rimborso flessibili."
+    },
+    "texte3": {
+      "title1": "Come ottenere un ",
+      "colorTitle": "prestito matrimonio?",
+      "paragraph": "Per ottenere un prestito matrimonio, è generalmente necessario presentare una domanda completa con informazioni sul progetto di matrimonio, esigenze finanziarie e eventuali garanzie."
+    }
+  },
+  "senior": {
+    "card": {
+      "title": "Anziani:",
+      "h2": "Approfitta delle nostre offerte",
+      "description": "Questa sezione è dedicata agli anziani. Che tu voglia finanziare un progetto di pensionamento, un viaggio o qualsiasi altra spesa, siamo qui per supportarti nel processo di finanziamento. Sentiti libero di condividere le tue esigenze e aspettative."
+    },
+    "texte1": {
+      "title1": "Cos'è un ",
+      "colorTitle": "prestito per anziani?",
+      "paragraph": "Il prestito per anziani è una soluzione di finanziamento progettata appositamente per aiutare le persone anziane a realizzare i propri progetti. Può coprire spese legate alla salute, alla casa o al tempo libero."
+    },
+    "texte2": {
+      "title1": "Perché scegliere un ",
+      "colorTitle": "prestito per anziani?",
+      "paragraph": "Scegliere un prestito per anziani offre diversi vantaggi. Permette di disporre dei fondi necessari per finanziare i progetti, ridurre il carico finanziario e beneficiare di condizioni di rimborso flessibili."
+    },
+    "texte3": {
+      "title1": "Come ottenere un ",
+      "colorTitle": "prestito per anziani?",
+      "paragraph": "Per ottenere un prestito per anziani, è generalmente necessario presentare una domanda completa con informazioni sul progetto, le esigenze finanziarie e eventuali garanzie."
+    }
+  },
+  "projet": {
+    "card": {
+      "title": "I Tuoi Progetti:",
+      "h2": "Realizza le tue ambizioni",
+      "description": "Questa sezione è dedicata ai tuoi progetti. Che tu voglia realizzare lavori, acquistare un veicolo o finanziare un viaggio, siamo qui per supportarti nel processo di finanziamento. Sentiti libero di condividere le tue esigenze e aspettative."
+    },
+    "texte1": {
+      "title1": "Cos'è un ",
+      "colorTitle": "prestito progetto?",
+      "paragraph": "Il prestito progetto è una soluzione di finanziamento progettata appositamente per aiutare le persone a realizzare i propri progetti. Può coprire spese legate a lavori, all'acquisto di un veicolo o a un viaggio."
+    },
+    "texte2": {
+      "title1": "Perché scegliere un ",
+      "colorTitle": "prestito progetto?",
+      "paragraph": "Scegliere un prestito progetto offre diversi vantaggi. Permette di disporre dei fondi necessari per finanziare il progetto, ridurre il carico finanziario e beneficiare di condizioni di rimborso flessibili."
+    },
+    "texte3": {
+      "title1": "Come ottenere un ",
+      "colorTitle": "prestito progetto?",
+      "paragraph": "Per ottenere un prestito progetto, è generalmente necessario presentare una domanda completa con informazioni sul progetto, esigenze finanziarie e eventuali garanzie."
+    }
+  },
+  "translation": {
+        "menu": {
+          "creditExpress": "Credito Veloce",
+          "creditInstantane": "Credito Istantaneo",
+          "creditSansJustificatif": "Credito senza Giustificativo",
+          "creditRenouvelable": "Credito Rinnovabile",
+          "rachatCredit": "Riacquisto del Credito",
+          "pretPersonnel": "Prestito Personale",
+          "pretTravaux": "Prestito Lavori",
+          "creditAuto": "Prestito Auto",
+          "besoinFinancement": "Bisogno di Finanziamento",
+          "vosProjet": "I tuoi Progetti",
+          "seMarier": "Sposarsi",
+          "faireVoyage": "Fare un Viaggio",
+          "acheterMaison": "Comprare una Casa",
+          "creerEntreprise": "Creare un'Impresa",
+          "etudiant": "Studente",
+          "seniors": "Anziani"
+        }
+      }
 }

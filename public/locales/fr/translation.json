@@ -261,6 +261,315 @@
       "colorTitle": "crédit auto ?",
       "paragraph": "Pour obtenir un crédit auto, il vous suffit de nous contacter pour discuter de votre projet. Nous vous accompagnerons tout au long du processus de demande, en vous aidant à rassembler les documents nécessaires et en vous expliquant les conditions du prêt."
     }
-  }
+  },
+  "creditExpress": {
+    "card": {
+      "title": "Crédit express :",
+      "h2": "comment obtenir des fonds rapidement ? ",
+      "description": "Besoin d'un coup de pouce rapide pour faire face à une urgence ? Le crédit express est une solution d'emprunt instantané aux démarches simplifiées. Réparations, achats ou factures imprévues : il s'adapte à toute situation. Ce prêt urgent permet d'obtenir des fonds immédiats sans avoir à fournir une multitude de justificatifs. Youdge détaille ses modalités (taux, conditions, avantages, etc.) et comment souscrire au crédit express étape par étape."
+    },
+    "texte1": {
+      "title1": "Qu'est-ce que le ",
+      "colorTitle": "crédit express ?",
+      "paragraph": "Le crédit express fait partie de la famille du crédit à la consommation mais se différencie par sa rapidité d'exécution et ses formalités simplifiées. Contrairement aux crédits traditionnels, le crédit express en ligne offre des taux annuels attractifs et un suivi de votre dossier en temps réel en ligne via mails ou SMS, ce qui fait de lui une solution idéale en cas d'imprévus."
+    },
+    "texte2": {
+      "title1": "",
+      "colorTitle": "À qui s'adresse ",
+      "title2": "le crédit express ?",
+      "paragraph": "Le crédit express est destiné aux personnes majeures, dont la résidence fiscale est en France, manifestant un besoin d'argent dans des délais rapides. Les organismes qui le proposent sont de plus en plus nombreux et s'adressent à tous les profils de consommateurs. Pourtant, tous ces organismes ne se valent pas et il est parfois plus avantageux de passer par un comparateur de crédit au préalable, qui dresse un comparatif des différentes offres de crédit en ligne et vous soumet instantanément les plus avantageuses."
+    },
+    "texte3": {
+      "title1": "Combien de temps faut-il pour",
+      "colorTitle": "le déblocage des fonds ?",
+      "paragraph": "L'un des avantages majeurs du crédit express en ligne est le déblocage rapide des fonds. En effet, après l'accord de principe, il ne faut généralement plus de 48h pour recevoir le versement des fonds sur son compte, ainsi que le délai légal de rétractation, le cas échéant. Le déblocage se fait donc en un minimum de temps, dans certains cas il est immédiat. Cela fait du crédit express une solution idéale pour les besoins urgents, sans avoir à se justifier sur l'utilisation des fonds. De plus, il est possible de procéder à un remboursement anticipé en profitant de pénalités réduites, ce qui n'est pas le cas de certains organismes financiers. Cela représente un avantage considérable qui s'applique à tous les types de crédits rapides, tant aux petits montants (micro crédit express) comme aux plus gros montants (crédit express)."
+    },
+    "texte4": {
+      "title1": "",
+      "colorTitle": "Pourquoi faire une demande ",
+      "title2": "de crédit express ?",
+      "paragraph": "L'avantage du crédit express est qu'il est accessible au plus grand nombre. Contracter un crédit express en ligne est envisageable par toute personne qui a un besoin de trésorerie dans un délai court, quel qu'en soit le motif : effectuer des travaux dans son logement, acheter un nouveau véhicule, des billets d'avion, ou encore obtenir une réserve d'argent pour faire face à des dépenses imprévues. Ce crédit rapide présente des points forts intéressants. En effet, ce dernier permet de réaliser rapidement ses projets, qu'il s'agisse de rénover son logement, partir en vacances, ou célébrer un événement important. L'avantage avec ce type de prêt c'est que vous pouvez faire votre demande de crédit en quelques clics. Le point fort du prêt express est donc sa rapidité et simplicité."
+    }
+  },
+  "creditInstantane": {
+    "card": {
+      "title": "Instant Credit:",
+      "h2": "Get funds quickly",
+      "description": "Instant credit is a financing solution that allows you to get funds quickly, without the usual delays of traditional banks. Whether it is for an urgent project or an unexpected expense, this type of loan is designed to meet your immediate cash needs."
+    },
+    "texte1": {
+      "title1": "What is ",
+      "colorTitle": "instant credit?",
+      "paragraph": "Instant credit is part of the consumer credit family but stands out for its speed and simplified formalities. Unlike traditional loans, online instant credit offers attractive annual rates and real-time tracking of your file via emails or SMS, making it an ideal solution in case of unforeseen events."
+    },
+    "texte2": {
+      "title1": "",
+      "colorTitle": "Who is eligible for ",
+      "title2": "instant credit?",
+      "paragraph": "Instant credit is intended for adults whose tax residence is in France, who need money quickly. The institutions offering it are increasingly numerous and address all consumer profiles. However, not all these institutions are equal, and it is often more advantageous to go through a credit comparison service first, which lists the different online credit offers and instantly submits the most advantageous ones."
+    },
+    "texte3": {
+      "title1": "How long does it take for ",
+      "colorTitle": "funds to be released?",
+      "paragraph": "One of the main advantages of online instant credit is the quick release of funds. After the initial agreement, it usually takes no more than 48 hours to receive the transfer on your account, along with the legal withdrawal period, if applicable. In some cases, the release is immediate. This makes instant credit an ideal solution for urgent needs, without having to justify the use of funds. In addition, it is possible to repay early with reduced penalties, unlike some financial institutions. This is a significant advantage that applies to all types of fast credit, from small amounts (micro instant credit) to larger amounts."
+    },
+    "texte4": {
+      "title1": "",
+      "colorTitle": "Why apply for ",
+      "title2": "instant credit?",
+      "paragraph": "The advantage of instant credit is that it is accessible to the majority. Taking out instant credit online is possible for anyone who has a short-term cash need, whatever the reason: home repairs, buying a new car, plane tickets, or building a cash reserve for unexpected expenses. This fast credit has interesting strengths and allows projects to be completed quickly, whether renovating your home, going on vacation, or celebrating an important event. The advantage is that the application can be made in just a few clicks. The main strength of instant credit is its speed and simplicity."
+    }
+  },
+  "creditRenouvelable": {
+    "card": {
+      "title": "Crédit Renouvelable :",
+      "h2": "Une solution de financement flexible",
+      "description": "Le crédit renouvelable est une solution de financement flexible qui permet d'accéder à des fonds à tout moment, dans la limite d'un montant prédéfini. Il fonctionne comme une réserve d'argent que l'emprunteur peut utiliser selon ses besoins, avec des remboursements adaptés à sa situation financière. Cette option est idéale pour les projets nécessitant une certaine souplesse dans le financement."
+    },
+    "texte1": {
+      "colorTitle": "Qu'est-ce que ",
+      "title2": "le crédit renouvelable ?",
+      "paragraph": "Le crédit renouvelable est une forme de crédit qui permet à l'emprunteur de disposer d'une réserve d'argent qu'il peut utiliser à tout moment, dans la limite d'un montant défini à l'avance."
+    },
+    "texte2": {
+      "title1": "Fonctionnement du ",
+      "colorTitle": "crédit renouvelable",
+      "paragraph": "Le crédit renouvelable fonctionne comme une réserve d'argent que l'emprunteur peut utiliser selon ses besoins. Lorsqu'il utilise une partie de cette réserve, il doit rembourser le montant utilisé, avec des intérêts calculés sur le montant emprunté."
+    },
+    "texte3": {
+      "title1": "Avantages du ",
+      "colorTitle": "crédit renouvelable",
+      "paragraph": "Le crédit renouvelable offre une grande flexibilité, car l'emprunteur peut utiliser les fonds selon ses besoins et rembourser à son rythme. De plus, il permet de faire face à des dépenses imprévues ou de financer des projets à court terme."
+    },
+    "texte4": {
+      "colorTitle": "Conditions d'obtention du ",
+      "title2": "crédit renouvelable",
+      "paragraph": "Pour obtenir un crédit renouvelable, l'emprunteur doit généralement fournir des informations sur sa situation financière, y compris ses revenus et ses dépenses. Les conditions varient selon les prêteurs."
+    }
+  },
+  "creditSansJustificatif": {
+    "card": {
+      "title": "Crédit Sans Justificatif :",
+      "h2": "Obtenez des fonds rapidement",
+      "description": "Cette section est dédiée au crédit sans justificatif. Que vous souhaitiez financer un projet personnel, un achat urgent ou toute autre dépense, nous sommes là pour vous accompagner dans vos démarches. N'hésitez pas à nous faire part de vos besoins et de vos attentes."
+    },
+    "texte1": {
+      "title1": "Qu'est-ce qu'un ",
+      "colorTitle": "crédit sans justificatif",
+      "paragraph": "Le crédit sans justificatif est une solution de financement qui permet d'obtenir des fonds rapidement, sans avoir à fournir de justificatifs de dépenses. Cela le rend particulièrement adapté pour des projets personnels ou des achats urgents."
+    },
+    "texte2": {
+      "title1": "Fonctionnement du ",
+      "colorTitle": "crédit sans justificatif",
+      "paragraph": "Le crédit sans justificatif fonctionne de manière similaire à d'autres types de crédits à la consommation. L'emprunteur fait une demande de crédit, et si elle est approuvée, il reçoit les fonds rapidement, souvent en quelques jours."
+    },
+    "texte3": {
+      "title1": "Avantages du ",
+      "colorTitle": "crédit sans justificatif",
+      "paragraph": "Le principal avantage du crédit sans justificatif est la rapidité et la simplicité du processus. Il n'est pas nécessaire de fournir des documents détaillant l'utilisation des fonds, ce qui permet d'accélérer l'approbation et le versement."
+    },
+    "texte4": {
+      "title1": "Conditions d'obtention du ",
+      "colorTitle": "crédit sans justificatif",
+      "paragraph": "Pour obtenir un crédit sans justificatif, l'emprunteur doit généralement fournir des informations sur sa situation financière, y compris ses revenus et ses dépenses. Les conditions varient selon les prêteurs."
+    }
+  },
+  "creerEntreprise": {
+    "card": {
+      "title": "Créer une Entreprise :",
+      "h2": "Donnez vie à votre projet",
+      "description": "Cette section est dédiée à votre projet de création d'entreprise. Que vous souhaitiez lancer une startup, ouvrir un commerce ou développer une activité existante, nous sommes là pour vous accompagner dans vos démarches de financement. N'hésitez pas à nous faire part de vos besoins et de vos attentes."
+    },
+    "texte1": {
+      "title1": "Qu'est-ce que le ",
+      "colorTitle": "crédit pour la création d'entreprise ?",
+      "paragraph": "Le crédit pour la création d'entreprise est une solution de financement spécialement conçue pour aider les entrepreneurs à lancer leur projet. Il peut prendre la forme de prêts, de subventions ou d'autres dispositifs d'aide financière."
+    },
+    "texte2": {
+      "title1": "Pourquoi choisir un ",
+      "colorTitle": "crédit pour la création d'entreprise ?",
+      "paragraph": "Choisir un crédit pour la création d'entreprise présente plusieurs avantages. Il permet de disposer des fonds nécessaires pour démarrer l'activité, d'investir dans du matériel, de couvrir les frais de fonctionnement initiaux et de renforcer la crédibilité auprès des partenaires et clients."
+    },
+    "texte3": {
+      "title1": "Comment obtenir un ",
+      "colorTitle": "crédit pour la création d'entreprise ?",
+      "paragraph": "Pour obtenir un crédit pour la création d'entreprise, il est généralement nécessaire de présenter un dossier solide comprenant un business plan, des prévisions financières et des informations sur l'équipe dirigeante."
+    }
+  },
+  "pretEtudiant": {
+    "card": {
+      "title": "Prêt Étudiant :",
+      "h2": "Financer vos études",
+      "description": "Le prêt étudiant est une solution de financement spécialement conçue pour les étudiants. Il vous permet de couvrir vos frais de scolarité, vos dépenses de vie et d'autres coûts liés à vos études. Avec des conditions avantageuses et des taux d'intérêt compétitifs, ce prêt vous aide à vous concentrer sur vos études sans vous soucier de vos finances."
+    },
+    "texte1": {
+      "title1": "Qu'est-ce que le ",
+      "colorTitle": "prêt étudiant ?",
+      "paragraph": "Le prêt étudiant est une solution de financement spécialement conçue pour aider les étudiants à couvrir leurs frais de scolarité, leurs dépenses de vie et d'autres coûts liés à leurs études. Il peut prendre la forme de prêts à taux réduit, de bourses ou d'autres dispositifs d'aide financière."
+    },
+    "texte2": {
+      "title1": "Pourquoi choisir un ",
+      "colorTitle": "prêt étudiant ?",
+      "paragraph": "Choisir un prêt étudiant présente plusieurs avantages. Il permet de disposer des fonds nécessaires pour financer ses études, d'alléger la charge financière pendant la période d'apprentissage et de bénéficier de conditions de remboursement flexibles."
+    },
+    "texte3": {
+      "title1": "Comment obtenir un ",
+      "colorTitle": "prêt étudiant ?",
+      "paragraph": "Pour obtenir un prêt étudiant, il est généralement nécessaire de présenter un dossier solide comprenant des informations sur le cursus, les besoins financiers et les garanties éventuelles."
+    }
+  },
+  "creditVoyage": {
+    "card": {
+      "title": "Faire un Voyage ",
+      "h2": "Réalisez vos rêves d'évasion",
+      "description": "Cette section est dédiée à votre projet de voyage. Que vous souhaitiez partir en vacances, organiser un voyage d'affaires ou découvrir de nouvelles destinations, nous sommes là pour vous accompagner dans vos démarches de financement. N'hésitez pas à nous faire part de vos besoins et de vos attentes."
+    },
+    "texte1": {
+      "title1": "Qu'est-ce que le ",
+      "colorTitle": "crédit voyage ?",
+      "paragraph": "Le crédit voyage est une solution de financement spécialement conçue pour aider les voyageurs à réaliser leurs projets d'évasion. Il peut couvrir les frais de transport, d'hébergement, de restauration et d'activités sur place."
+    },
+    "texte2": {
+      "title1": "Pourquoi choisir un ",
+      "colorTitle": "crédit voyage ?",
+      "paragraph": "Choisir un crédit voyage présente plusieurs avantages. Il permet de disposer des fonds nécessaires pour financer ses projets d'évasion, d'alléger la charge financière pendant la préparation du voyage et de bénéficier de conditions de remboursement flexibles."
+    },
+    "texte3": {
+      "title1": "Comment obtenir un ",
+      "colorTitle": "crédit voyage ?",
+      "paragraph": "Pour obtenir un crédit voyage, il est généralement nécessaire de présenter un dossier solide comprenant des informations sur le projet de voyage, les besoins financiers et les garanties éventuelles."
+    }
+  },
+  "creditTravaux": {
+    "card": {
+      "title": "Prêt Travaux :",
+      "h2": "Financer vos projets de rénovation",
+      "description": "Cette section est dédiée à votre projet de travaux. Que vous souhaitiez rénover votre maison, améliorer son efficacité énergétique ou réaliser des agrandissements, nous sommes là pour vous accompagner dans vos démarches de financement. N'hésitez pas à nous faire part de vos besoins et de vos attentes."
+    },
+    "texte1": {
+      "title1": "Qu'est-ce que le ",
+      "colorTitle": "prêt travaux ?",
+      "paragraph": "Le prêt travaux est une solution de financement spécialement conçue pour aider les propriétaires à réaliser des travaux de rénovation, d'amélioration ou d'agrandissement de leur logement. Il peut couvrir les frais de matériaux, de main-d'œuvre et d'autres dépenses liées aux travaux."
+    },
+    "texte2": {
+      "title1": "Pourquoi choisir un ",
+      "colorTitle": "prêt travaux ?",
+      "paragraph": "Choisir un prêt travaux présente plusieurs avantages. Il permet de disposer des fonds nécessaires pour financer ses projets de rénovation, d'améliorer la valeur de son bien immobilier et de bénéficier de conditions de remboursement flexibles."
+    },
+    "texte3": {
+      "title1": "Comment obtenir un ",
+      "colorTitle": "prêt travaux ?",
+      "paragraph": "Pour obtenir un prêt travaux, il est généralement nécessaire de présenter un dossier solide comprenant des informations sur le projet de travaux, les besoins financiers et les garanties éventuelles."
+    }
+  },
+  "rachatCredit": {
+    "card": {
+      "title": "Rachat de Crédit :",
+      "h2": "Simplifiez vos finances",
+      "description": "Cette section est dédiée au rachat de crédit. Que vous souhaitiez regrouper vos prêts pour alléger vos mensualités ou bénéficier d'un meilleur taux, nous sommes là pour vous accompagner dans vos démarches. N'hésitez pas à nous faire part de vos besoins et de vos attentes."
+    },
+    "texte1": {
+      "title1": "Qu'est-ce que le ",
+      "colorTitle": "rachat de crédit ?",
+      "paragraph": "Le rachat de crédit est une opération financière qui consiste à regrouper plusieurs prêts en un seul, afin de simplifier la gestion de ses finances et de réduire le montant des mensualités."
+    },
+    "texte2": {
+      "title1": "Pourquoi choisir un ",
+      "colorTitle": "rachat de crédit ?",
+      "paragraph": "Choisir un rachat de crédit présente plusieurs avantages. Il permet de réduire le montant des mensualités, de bénéficier d'un meilleur taux d'intérêt et de simplifier la gestion de ses finances."
+    },
+    "texte3": {
+      "title1": "Comment obtenir un ",
+      "colorTitle": "rachat de crédit ?",
+      "paragraph": "Pour obtenir un rachat de crédit, il est généralement nécessaire de présenter un dossier solide comprenant des informations sur les prêts à regrouper, les besoins financiers et les garanties éventuelles."
+    }
+  },
+  "mariage": {
+    "card": {
+      "title": "Se Marier ",
+      "h2": "Célébrez votre amour",
+      "description": "Cette section est dédiée à votre projet de mariage. Que vous souhaitiez organiser une cérémonie intime ou une grande réception, nous sommes là pour vous accompagner dans vos démarches de financement. N'hésitez pas à nous faire part de vos besoins et de vos attentes."
+    },
+    "texte1": {
+      "title1": "Qu'est-ce que le ",
+      "colorTitle": "prêt mariage ?",
+      "paragraph": "Le prêt mariage est une solution de financement spécialement conçue pour aider les couples à réaliser leur projet de mariage. Il peut couvrir les frais liés à l'organisation de la cérémonie, à la location de la salle, à la décoration, à la photographie, et bien plus encore."
+    },
+    "texte2": {
+      "title1": "Pourquoi choisir un ",
+      "colorTitle": "prêt mariage ?",
+      "paragraph": "Choisir un prêt mariage présente plusieurs avantages. Il permet de disposer des fonds nécessaires pour financer son mariage, d'alléger la charge financière et de bénéficier de conditions de remboursement flexibles."
+    },
+    "texte3": {
+      "title1": "Comment obtenir un ",
+      "colorTitle": "prêt mariage ?",
+      "paragraph": "Pour obtenir un prêt mariage, il est généralement nécessaire de présenter un dossier solide comprenant des informations sur le projet de mariage, les besoins financiers et les garanties éventuelles."
+    }
+  },
+  "senior": {
+    "card": {
+      "title": "Seniors :",
+      "h2": "Profitez de nos offres",
+      "description": "Cette section est dédiée aux seniors. Que vous souhaitiez financer un projet de retraite, un voyage ou toute autre dépense, nous sommes là pour vous accompagner dans vos démarches de financement. N'hésitez pas à nous faire part de vos besoins et de vos attentes."
+    },
+    "texte1": {
+      "title1": "Qu'est-ce que le ",
+      "colorTitle": "prêt senior ?",
+      "paragraph": "Le prêt senior est une solution de financement spécialement conçue pour aider les personnes âgées à réaliser leurs projets. Il peut couvrir des dépenses liées à la santé, à la maison ou à des loisirs."
+    },
+    "texte2": {
+      "title1": "Pourquoi choisir un ",
+      "colorTitle": "prêt senior ?",
+      "paragraph": "Choisir un prêt senior présente plusieurs avantages. Il permet de disposer des fonds nécessaires pour financer ses projets, d'alléger la charge financière et de bénéficier de conditions de remboursement flexibles."
+    },
+    "texte3": {
+      "title1": "Comment obtenir un ",
+      "colorTitle": "prêt senior ?",
+      "paragraph": "Pour obtenir un prêt senior, il est généralement nécessaire de présenter un dossier solide comprenant des informations sur le projet, les besoins financiers et les garanties éventuelles."
+    }
+  },
+  "projet": {
+    "card": {
+      "title": "Vos Projets :",
+      "h2": "Réalisez vos ambitions",
+      "description": "Cette section est dédiée à vos projets. Que vous souhaitiez réaliser des travaux, acheter un véhicule ou financer un voyage, nous sommes là pour vous accompagner dans vos démarches. N'hésitez pas à nous faire part de vos besoins et de vos attentes."
+    },
+    "texte1": {
+      "title1": "Qu'est-ce que le ",
+      "colorTitle": "prêt projet ?",
+      "paragraph": "Le prêt projet est une solution de financement spécialement conçue pour aider les particuliers à réaliser leurs projets. Il peut couvrir des dépenses liées à des travaux, à l'achat d'un véhicule ou à un voyage."
+    },
+    "texte2": {
+      "title1": "Pourquoi choisir un ",
+      "colorTitle": "prêt projet ?",
+      "paragraph": "Choisir un prêt projet présente plusieurs avantages. Il permet de disposer des fonds nécessaires pour financer son projet, d'alléger la charge financière et de bénéficier de conditions de remboursement flexibles."
+    },
+    "texte3": {
+      "title1": "Comment obtenir un ",
+      "colorTitle": "prêt projet ?",
+      "paragraph": "Pour obtenir un prêt projet, il est généralement nécessaire de présenter un dossier solide comprenant des informations sur le projet, les besoins financiers et les garanties éventuelles."
+    }
+  },
+   "translation": {
+        "menu": {
+          "creditExpress": "Crédit Express",
+          "creditInstantane": "Crédit Instantané",
+          "creditSansJustificatif": "Crédit Sans Justificatif",
+          "creditRenouvelable": "Crédit Renouvelable",
+          "rachatCredit": "Rachat Crédit",
+          "pretPersonnel": "Prêt Personnel",
+          "pretTravaux": "Prêt Travaux",
+          "creditAuto": "Crédit Auto",
+          "besoinFinancement": "Besoin de Financement",
+          "vosProjet": "Vos projets",
+          "seMarier": "Se marier",
+          "faireVoyage": "Faire un voyage",
+          "acheterMaison": "Acheter une maison",
+          "creerEntreprise": "Créer une entreprise",
+          "etudiant": "Étudiant",
+          "seniors": "Seniors"
+        }
+      }
+ 
 
 }
